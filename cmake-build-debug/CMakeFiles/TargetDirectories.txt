@@ -1,0 +1,3 @@
+G:/Sonstiges/Dropbox/Dropbox/00 Mods/GitHub/BW2035/cmake-build-debug/CMakeFiles/BW2035.dir
+G:/Sonstiges/Dropbox/Dropbox/00 Mods/GitHub/BW2035/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Sonstiges/Dropbox/Dropbox/00 Mods/GitHub/BW2035/cmake-build-debug/CMakeFiles/rebuild_cache.dir

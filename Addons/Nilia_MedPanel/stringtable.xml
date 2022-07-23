@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Nilia MedPanel">
+    <Package name="MedPanel">
+        <Key ID="STR_ACREFR_backpacks_ANARC164_Desc">
+            <English></English>
+            <German></German>
+        </Key>
+    </Package>
+</Project>
