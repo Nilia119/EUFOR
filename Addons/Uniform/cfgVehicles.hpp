@@ -1,4 +1,3 @@
-
 	class B_CTRG_Soldier_F;				// For inheritance to work, the base class has to be defined.
 
 
@@ -20,7 +19,7 @@
 		identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
 		displayName = "Soldat Tropentarn";		// The name of the soldier, which is displayed in the editor.
 		model = "\A3\Characters_F\BLUFOR\b_soldier_01.p3d";			// The path to the model this character uses.
-		uniformClass = "W_Uniform_TT";							// This links this soldier to a particular uniform. For the details, see below.
+		uniformClass = "W_BW2035_Uniform_Tropen";							// This links this soldier to a particular uniform. For the details, see below.
 		hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
 																	// and hiddenSelectionMaterials[] properties. If empty, model textures are used.
 		hiddenSelectionsTextures[] = {"Uniform\Tropen\BW2035_Tropen_Uniform.paa"};	// The textures for the selections defined above.
@@ -36,7 +35,7 @@
 		identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
 		displayName = "Soldat Tropentarn 1";		// The name of the soldier, which is displayed in the editor.
 		model = "\A3\Characters_F\BLUFOR\b_soldier_01.p3d";			// The path to the model this character uses.
-		uniformClass = "W_Uniform_TT_1";							// This links this soldier to a particular uniform. For the details, see below.
+		uniformClass = "W_BW2035_Uniform_Tropen1";							// This links this soldier to a particular uniform. For the details, see below.
 		hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
 																	// and hiddenSelectionMaterials[] properties. If empty, model textures are used.
 		hiddenSelectionsTextures[] = {"Uniform\Tropen\BW2035_Tropen_Uniform1.paa"};	// The textures for the selections defined above.
@@ -52,7 +51,7 @@
         identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
         displayName = "Soldat Tropentarn 1";		// The name of the soldier, which is displayed in the editor.
         model = "\A3\Characters_F\BLUFOR\b_soldier_01.p3d";			// The path to the model this character uses.
-        uniformClass = "W_Uniform_TT_1";							// This links this soldier to a particular uniform. For the details, see below.
+        uniformClass = "W_BW2035_Uniform_Fleck";							// This links this soldier to a particular uniform. For the details, see below.
         hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
         // and hiddenSelectionMaterials[] properties. If empty, model textures are used.
         hiddenSelectionsTextures[] = {"Uniform\Fleck\BW2035_Fleck_Uniform.paa"};	// The textures for the selections defined above.
