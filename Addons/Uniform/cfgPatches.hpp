@@ -10,13 +10,15 @@ class CfgPatches
             "BW2035_BW_Soldier",
             "BW2035_soldat_Tropen",
             "BW2035_soldat_Tropen_1",
-            "BW2035_soldat_Fleck"
+            "BW2035_soldat_Fleck",
+            "BW2035_soldat_Fleck1"
 		};
 		weapons[]=
 		{
 			"W_BW2035_Uniform_Tropen",
             "W_BW2035_Uniform_Tropen_1",
-            "W_BW2035_Uniform_Fleck"
+            "W_BW2035_Uniform_Fleck",
+            "W_BW2035_Uniform_Fleck1"
 		};
 		requiredVersion=0.1;
 		requiredAddons[]={"A3_Characters_F"};

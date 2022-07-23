@@ -58,15 +58,35 @@ class W_BW2035_Uniform_Fleck: Uniform_Base
     scope = 2;
     scopeArsenal = 2;
     displayName = "IdN Flecktarn";
-    picture = "Uniform\WIP.paa";
+    picture = "\Uniform\Fleck\Icon_fleck.paa";
     model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
     hiddenSelections[] = {"camo", "insignia"};
-    hiddenSelectionsTextures[] = {"Uniform\Fleck\BW2035_Fleck_Uniform.paa"};
+    hiddenSelectionsTextures[] = {"Uniform\Fleck\BW2035_Fleck_Uniform_co.paa"};
 
     class ItemInfo: UniformItem
     {
         uniformModel = "-";
         uniformClass = BW2035_soldat_Fleck;
+        containerClass = Supply80;
+        mass = 40;
+    };
+};
+
+class W_BW2035_Uniform_Fleck1: Uniform_Base
+{
+    author = "Nilia";
+    scope = 2;
+    scopeArsenal = 2;
+    displayName = "IdN Flecktarn 1";
+    picture = "\Uniform\Fleck\Icon_fleck.paa";
+    model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
+    hiddenSelections[] = {"camo", "insignia"};
+    hiddenSelectionsTextures[] = {"Uniform\Fleck\BW2035_Fleck_Uniform1_co.paa"};
+
+    class ItemInfo: UniformItem
+    {
+        uniformModel = "-";
+        uniformClass = BW2035_soldat_Fleck1;
         containerClass = Supply80;
         mass = 40;
     };
