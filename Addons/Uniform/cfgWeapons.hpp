@@ -18,10 +18,10 @@
 		scope = 2;
 		scopeArsenal = 2;
 		displayName = "IdN Tropentarn";
-		picture = "Uniform\WIP.paa";
+		picture = "\Uniform\Tropen\Icon_tropen.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
 		hiddenSelections[] = {"camo", "insignia"};
-		hiddenSelectionsTextures[] = {"Uniform\Tropen\BW2035_Tropen_Uniform.paa"};
+		hiddenSelectionsTextures[] = {"Uniform\Tropen\BW2035_Tropen_Uniform_co.paa"};
 			
 		class ItemInfo: UniformItem
 		{
@@ -31,7 +31,7 @@
 			mass = 40;
 		};
 	};
-	
+/*
 	class W_BW2035_Uniform_Tropen_1: Uniform_Base
 	{
 		author = "Nilia";
@@ -41,7 +41,7 @@
 		picture = "Uniform\WIP.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
 		hiddenSelections[] = {"camo", "insignia"};
-		hiddenSelectionsTextures[] = {"Uniform\Tropen\BW2035_Tropen_Uniform1.paa"};
+		hiddenSelectionsTextures[] = {"Uniform\Tropen\BW2035_Tropen_Uniform1_co.paa"};
 			
 		class ItemInfo: UniformItem
 		{
@@ -51,7 +51,7 @@
 			mass = 40;
 		};
 	};
-
+*/
 class W_BW2035_Uniform_Fleck: Uniform_Base
 {
     author = "Nilia";
