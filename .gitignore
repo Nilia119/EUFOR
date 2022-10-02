@@ -34,3 +34,5 @@
 #Other
 *.psd
 /Addons/Uniform/Tropen/Test Stuff/
+/cmake-build-debug/
+CMakeLists.txt
