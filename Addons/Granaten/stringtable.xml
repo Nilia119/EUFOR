@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="Nilia_BW2035">
+    <Package name="Granaten">
+        <Key ID="STR_Nilia_BW2035_Granaten">
+            <English>Nilia - BW 2035 Grenades</English>
+            <German>Nilia - BW 2035 Granaten</German>
+        </Key>
+
+        <Key ID="STR_Nilia_BW2035_Author">
+            <English>Nilia</English>
+            <German>Nilia</German>
+        </Key>
+
+        <Key ID="STR_Nilia_BW2035_DM51">
+            <English>DM51-A2 - Frag</English>
+            <German>DM51-A2 - Splittergranate</German>
+        </Key>
+
+        <Key ID="STR_Nilia_BW2035_DM51_NameShort">
+            <English>DM51-Frag</English>
+            <German>DM51-Splittergranate</German>
+        </Key>
+
+        <Key ID="STR_Nilia_BW2035_DM51_Desc">
+            <English>Type: Frag Grenade</English>
+            <German>Typ: Splittergranate</German>
+        </Key>
+    </Package>
+</Project>
