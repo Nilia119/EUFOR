@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<Project name="Nilia_BW2035">
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="BW2035">
     <Package name="Granaten">
         <Key ID="STR_Nilia_BW2035_Granaten">
             <English>Nilia - BW 2035 Grenades</English>

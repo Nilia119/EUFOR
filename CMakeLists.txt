@@ -3,4 +3,4 @@ project(BW2035)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(BW2035 main.cpp)
+add_executable(BW2035 main.cpp Addons/Test/config.cpp Addons/Test/cfgPatches.cpp Addons/Test/cfgPatches.h)

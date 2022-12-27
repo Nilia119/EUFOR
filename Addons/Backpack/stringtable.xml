@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="BW2035">
+    <Package name="Backpack">
+            <Key ID="STR_BW2035_Backpack_name">
+                <Original>Nilia - BW 2035 Backpacks</Original>
+                <English>Nilia - BW 2035 Backpacks</English>
+                <German>Nilia - BW 2035 Rucksäcke</German>
+            </Key>
+            <Key ID="STR_BW2035_Backpack_Author">
+                <Original>Nilia</Original>
+                <English>Nilia</English>
+                <German>Nilia</German>
+            </Key>
+            <Key ID="STR_BW2035_Backpack_Tortilia-Fleck">
+                <Original>IdN Large Backpack Flecktarn</Original>
+                <English>IdN Large Backpack Flecktarn</English>
+                <German>IdN Großer Rucksack Flecktarn</German>
+            </Key>
+    </Package>
+</Project>

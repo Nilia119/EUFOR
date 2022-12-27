@@ -34,5 +34,6 @@
 #Other
 *.psd
 /Addons/Uniform/Tropen/Test Stuff/
+/Addons/Backpack/ArmA Stuff/
 /cmake-build-debug/
 CMakeLists.txt
