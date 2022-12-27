@@ -16,5 +16,15 @@
                 <English>IdN Large Backpack Flecktarn</English>
                 <German>IdN Großer Rucksack Flecktarn</German>
             </Key>
+            <Key ID="STR_BW2035_Backpack_Tortilia-Fleck_Arzt">
+                <Original>IdN Large Backpack Flecktarn Medic</Original>
+                <English>IdN Large Backpack Flecktarn Medic</English>
+                <German>IdN Großer Rucksack Arzt Flecktarn</German>
+            </Key>
+            <Key ID="STR_BW2035_Backpack_Tortilia-San">
+                <Original>IdN Large Backpack Medic</Original>
+                <English>IdN Large Backpack Medic</English>
+                <German>IdN Großer Rucksack Arzt</German>
+            </Key>
     </Package>
 </Project>
