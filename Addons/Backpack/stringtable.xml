@@ -12,18 +12,28 @@
                 <German>Nilia</German>
             </Key>
             <Key ID="STR_BW2035_Backpack_Tortilia-Fleck">
-                <Original>IdN Large Backpack Flecktarn</Original>
-                <English>IdN Large Backpack Flecktarn</English>
-                <German>IdN Großer Rucksack Flecktarn</German>
+                <Original>IdN Carryall [Flecktarn]</Original>
+                <English>IdN Carryall [Flecktarn]</English>
+                <German>IdN Großer Rucksack [Flecktarn]</German>
             </Key>
             <Key ID="STR_BW2035_Backpack_Tortilia-Fleck_Arzt">
-                <Original>IdN Large Backpack Flecktarn Medic</Original>
-                <English>IdN Large Backpack Flecktarn Medic</English>
-                <German>IdN Großer Rucksack Arzt Flecktarn</German>
+                <Original>IdN Carryall Medic [Flecktarn]</Original>
+                <English>IdN Carryall Medic [Flecktarn]</English>
+                <German>IdN Großer Rucksack Arzt [Flecktarn]</German>
+            </Key>
+            <Key ID="STR_BW2035_Backpack_Tortilia-Tropen">
+                <Original>IdN Carryall [Tropentarn]</Original>
+                <English>IdN Carryall [Tropentarn]</English>
+                <German>IdN Großer Rucksack [Tropentarn]</German>
+            </Key>
+            <Key ID="STR_BW2035_Backpack_Tortilia-Tropen_Arzt">
+                <Original>IdN Carryall Medic [Tropentarn]</Original>
+                <English>IdN Carryall Medic [Tropentarn]</English>
+                <German>IdN Großer Rucksack Arzt [Tropentarn]</German>
             </Key>
             <Key ID="STR_BW2035_Backpack_Tortilia-San">
-                <Original>IdN Large Backpack Medic</Original>
-                <English>IdN Large Backpack Medic</English>
+                <Original>IdN Carryall Medic</Original>
+                <English>IdN Carryall Medic</English>
                 <German>IdN Großer Rucksack Arzt</German>
             </Key>
     </Package>
