@@ -84,3 +84,28 @@ class BW2035_Backpack_San_Tortilia : Bag_Base {
     maximumLoad = 640;
     mass = 90;
 };
+
+//    ****************** Compact ********************
+//  Fleck
+
+class BW2035_Backpack_Fleck_Compact : Bag_Base {
+    author = "$STR_BW2035_Backpack_Author";
+    scope = 2;
+    model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Compact";
+    displayName = "$STR_BW2035_Backpack_Compact-Fleck";
+    picture = "Backpack\Compact\Fleck\ui\BW2035_Fleck_Backpack_Compact_Icon.paa";
+    hiddenSelectionsTextures[]={"Backpack\Compact\Fleck\BW2035_Fleck_Backpack_Compact_co.paa"};
+    maximumLoad = 160;
+    mass = 20;
+};
+
+class BW2035_Backpack_Fleck_Compact_Rk : Bag_Base {
+    author = "$STR_BW2035_Backpack_Author";
+    scope = 2;
+    model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Compact";
+    displayName = "$STR_BW2035_Backpack_Compact-Fleck-Rk";
+    picture = "Backpack\Compact\Fleck\ui\BW2035_Fleck_Backpack_Compact_Rk_Icon.paa";
+    hiddenSelectionsTextures[]={"Backpack\Compact\Fleck\BW2035_Fleck_Backpack_Compact_Rk_co.paa"};
+    maximumLoad = 160;
+    mass = 20;
+};

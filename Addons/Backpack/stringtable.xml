@@ -36,5 +36,15 @@
                 <English>IdN Carryall Medic</English>
                 <German>IdN Großer Rucksack Arzt</German>
             </Key>
+             <Key ID="STR_BW2035_Backpack_Compact-Fleck">
+                <Original>IdN Assault Pack</Original>
+                <English>IdN Assault Pack</English>
+                <German>IdN Angriffsrucksack</German>
+            </Key>
+            <Key ID="STR_BW2035_Backpack_Compact-Fleck-Rk">
+                <Original>IdN Assault Pack Red Cross</Original>
+                <English>IdN Assault Pack Red Cross</English>
+                <German>IdN Angriffsrucksack Rk</German>
+            </Key>
     </Package>
 </Project>
