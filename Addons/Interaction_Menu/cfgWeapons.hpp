@@ -7,7 +7,7 @@ class CfgWeapons {
         author = "Nilia";
         displayName = "$STR_BW2035_Interactions_Lexikon";
         descriptionShort = "$STR_BW2035_Interactions_Lexikon_Desc";
-        picture = "\Interaction_Menu\ui\MedPanel.paa";
+        picture = "\Interaction_Menu\ui\Lexikon.paa";
         class ItemInfo: CBA_MiscItem_ItemInfo {
             mass = 0.1;
         };

@@ -30,7 +30,7 @@ class CfgVehicles {
                     displayName = "$STR_BW2035_Interactions_Lexikon";
                     condition = "('Nilia_Lexikon' in (uniformItems _player)) || ('Nilia_Lexikon' in (vestItems _player)) || ('Nilia_Lexikon' in (backpackItems _player))";
                     statement = "";
-                    icon = "Interaction_Menu\WIP.paa";
+                    icon = "Interaction_Menu\ui\Lexikon.paa";
                     class openMedPanel {
                         displayName = "$STR_BW2035_Interactions_Open_MedPanel";
                         condition = "true";
