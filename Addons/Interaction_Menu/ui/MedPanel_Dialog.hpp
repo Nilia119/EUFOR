@@ -17,7 +17,7 @@ class MedPanel_Dialog {
             h = "1.62727";
             colorBackground[] = {1,1,1,1};
             colorText[] = {1,1,1,1};
-            text = Nilia_MedPanel\ui\MedPanel.paa;
+            text = Interaction_Menu\ui\MedPanel.paa;
         };
     };
 };

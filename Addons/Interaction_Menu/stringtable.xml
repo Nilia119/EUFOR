@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Nilia Interaction_Menu">
+    <Package name="Interaction_Menu">
+        <Key ID="STR_BW2035_Interactions_Main">
+            <English>BW 2035</English>
+            <German>BW 2035</German>
+        </Key>
+        <Key ID="STR_BW2035_Interactions_Lexikon">
+            <English>Jäger Lexikon</English>
+            <German>Jäger Lexikon</German>
+        </Key>
+        <Key ID="STR_BW2035_Interactions_Lexikon_Desc">
+            <English>ENTER HERE</English>
+            <German>Dieses Buch enthält alles, was du als Jäger wissen musst. Es soll auch als Hilfe dienen, wenn du etwas nicht mehr sicher weißt.</German>
+        </Key>
+        <Key ID="STR_BW2035_Interactions_Open_MedPanel">
+            <English>Open Medication Panel</English>
+            <German>Medpanel öffnen</German>
+        </Key>
+        <Key ID="STR_BW2035_Interactions_Open_PainPanel">
+            <English>Open Painmedication overview</English>
+            <German>Schmerzmittelübersicht öffnen</German>
+        </Key>
+    </Package>
+</Project>
