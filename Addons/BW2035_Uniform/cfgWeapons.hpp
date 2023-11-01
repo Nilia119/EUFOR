@@ -14,10 +14,10 @@
 
 	class W_BW2035_Uniform_Tropen: Uniform_Base
 	{
-		author = "Nilia";
+        author = "$STR_BW2035_Uniform_Author";
 		scope = 2;
 		scopeArsenal = 2;
-		displayName = "IdN Tropentarn";
+		displayName = "$STR_BW2035_Uniform_Tropen";
 		picture = "\BW2035_Uniform\Tropen\Icon_tropen.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
 		hiddenSelections[] = {"camo", "insignia"};
@@ -34,10 +34,10 @@
 
 class W_BW2035_Uniform_Fleck: Uniform_Base
 {
-    author = "Nilia";
+    author = "$STR_BW2035_Uniform_Author";
     scope = 2;
     scopeArsenal = 2;
-    displayName = "IdN Flecktarn";
+    displayName = "$STR_BW2035_Uniform_Flecktarn";
     picture = "\BW2035_Uniform\Fleck\Icon_fleck.paa";
     model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
     hiddenSelections[] = {"camo", "insignia"};
@@ -54,10 +54,10 @@ class W_BW2035_Uniform_Fleck: Uniform_Base
 
 class W_BW2035_Uniform_Fleck1: Uniform_Base
 {
-    author = "Nilia";
+    author = "$STR_BW2035_Uniform_Author";
     scope = 2;
     scopeArsenal = 2;
-    displayName = "IdN Flecktarn 1";
+    displayName = "$STR_BW2035_Uniform_Flecktarn_1";
     picture = "\BW2035_Uniform\Fleck\Icon_fleck.paa";
     model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
     hiddenSelections[] = {"camo", "insignia"};
