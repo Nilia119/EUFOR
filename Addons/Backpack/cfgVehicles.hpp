@@ -81,7 +81,7 @@ class BW2035_Backpack_San_Tortilia : Bag_Base {
     displayName = "$STR_BW2035_Backpack_Tortilia-San";
     picture = "Backpack\Carryall\San\ui\BW2035_San_Backpack_Tortilia_Icon.paa";
     hiddenSelectionsTextures[]={"Backpack\Carryall\San\BW2035_San_Backpack_Tortilia_co.paa"};
-    maximumLoad = 640;
+    maximumLoad = 820;
     mass = 90;
 };
 
