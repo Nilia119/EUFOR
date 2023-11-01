@@ -22,7 +22,7 @@
 		uniformClass = "W_BW2035_Uniform_Tropen";							// This links this soldier to a particular uniform. For the details, see below.
 		hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
 																	// and hiddenSelectionMaterials[] properties. If empty, model textures are used.
-		hiddenSelectionsTextures[] = {"Uniform\Tropen\BW2035_Tropen_Uniform_co.paa"};	// The textures for the selections defined above.
+		hiddenSelectionsTextures[] = {"BW2035_Uniform\Tropen\BW2035_Tropen_Uniform_co.paa"};	// The textures for the selections defined above.
 																								// If empty, no texture is used.
 	};
 
@@ -38,7 +38,7 @@
         uniformClass = "W_BW2035_Uniform_Fleck";							// This links this soldier to a particular uniform. For the details, see below.
         hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
         // and hiddenSelectionMaterials[] properties. If empty, model textures are used.
-        hiddenSelectionsTextures[] = {"Uniform\Fleck\BW2035_Fleck_Uniform_co.paa"};	// The textures for the selections defined above.
+        hiddenSelectionsTextures[] = {"BW2035_Uniform\Fleck\BW2035_Fleck_Uniform_co.paa"};	// The textures for the selections defined above.
         //hiddenSelectionsMaterials[] = {"Uniform\Fleck\BW2035_Fleck_Uniform.rvmat"};
         // If empty, no texture is used.
 
@@ -56,7 +56,7 @@
         uniformClass = "W_BW2035_Uniform_Fleck1";							// This links this soldier to a particular uniform. For the details, see below.
         hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
         // and hiddenSelectionMaterials[] properties. If empty, model textures are used.
-        hiddenSelectionsTextures[] = {"Uniform\Fleck\BW2035_Fleck_Uniform1_co.paa"};	// The textures for the selections defined above.
+        hiddenSelectionsTextures[] = {"BW2035_Uniform\Fleck\BW2035_Fleck_Uniform1_co.paa"};	// The textures for the selections defined above.
         //hiddenSelectionsMaterials[] = {"Uniform\Fleck\BW2035_Fleck_Uniform.rvmat"};
         // If empty, no texture is used.
 

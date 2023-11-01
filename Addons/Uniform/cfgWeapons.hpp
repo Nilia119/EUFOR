@@ -18,10 +18,10 @@
 		scope = 2;
 		scopeArsenal = 2;
 		displayName = "IdN Tropentarn";
-		picture = "\Uniform\Tropen\Icon_tropen.paa";
+		picture = "\BW2035_Uniform\Tropen\Icon_tropen.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
 		hiddenSelections[] = {"camo", "insignia"};
-		hiddenSelectionsTextures[] = {"Uniform\Tropen\BW2035_Tropen_Uniform_co.paa"};
+		hiddenSelectionsTextures[] = {"BW2035_Uniform\Tropen\BW2035_Tropen_Uniform_co.paa"};
 			
 		class ItemInfo: UniformItem
 		{
@@ -38,10 +38,10 @@ class W_BW2035_Uniform_Fleck: Uniform_Base
     scope = 2;
     scopeArsenal = 2;
     displayName = "IdN Flecktarn";
-    picture = "\Uniform\Fleck\Icon_fleck.paa";
+    picture = "\BW2035_Uniform\Fleck\Icon_fleck.paa";
     model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
     hiddenSelections[] = {"camo", "insignia"};
-    hiddenSelectionsTextures[] = {"Uniform\Fleck\BW2035_Fleck_Uniform_co.paa"};
+    hiddenSelectionsTextures[] = {"BW2035_Uniform\Fleck\BW2035_Fleck_Uniform_co.paa"};
 
     class ItemInfo: UniformItem
     {
@@ -58,10 +58,10 @@ class W_BW2035_Uniform_Fleck1: Uniform_Base
     scope = 2;
     scopeArsenal = 2;
     displayName = "IdN Flecktarn 1";
-    picture = "\Uniform\Fleck\Icon_fleck.paa";
+    picture = "\BW2035_Uniform\Fleck\Icon_fleck.paa";
     model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
     hiddenSelections[] = {"camo", "insignia"};
-    hiddenSelectionsTextures[] = {"Uniform\Fleck\BW2035_Fleck_Uniform1_co.paa"};
+    hiddenSelectionsTextures[] = {"BW2035_Uniform\Fleck\BW2035_Fleck_Uniform1_co.paa"};
 
     class ItemInfo: UniformItem
     {
