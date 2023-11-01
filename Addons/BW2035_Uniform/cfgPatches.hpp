@@ -4,7 +4,7 @@ class CfgPatches
 {
 	class Nilia_BW2035_Uniform
 	{
-        name = "Nilia - BW 2035 Uniformen";
+        name = "$STR_BW2035_Uniform_name";
 		units[]=
 		{
             "BW2035_BW_Soldier",
@@ -21,7 +21,7 @@ class CfgPatches
 		requiredVersion=0.1;
 		requiredAddons[]={"A3_Characters_F"};
         author = "Nilia";
-        authorUrl = "https://www.9jgkp.de";
+        authorUrl = "https://www.eudef.eu";
         version = 0.0.1;
         versionStr = "0.0.1";
         versionAr[] = {0,0,1};
