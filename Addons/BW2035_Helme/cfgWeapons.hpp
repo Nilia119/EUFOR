@@ -9,14 +9,14 @@ class H_Barett_EuDeF: H_Beret_CSAT_01_F  {
     scope = 2;
     weaponPoolAvailable = 1;
     displayName = "$STR_BW2035_Helmet_Barett_EuDef";
-    picture = "BW2035_Helme\Barett\ui\BW2035_Helmet_Barett_EuDef_Icon.paa";
-    model = "\A3\Characters_F\OPFOR\H_Beret_CSAT_01_F";
+    picture = "\BW2035_Helme\Barett\ui\BW2035_Helmet_Barett_EuDef_Icon.paa";
+    model = "\A3\Characters_F\OPFOR\H_Beret_CSAT_01_F.p3d";
     hiddenSelections[] = { "camo" };
     hiddenSelectionsTextures[] = {"BW2035_Helme\Barett\BW2035_Helmet_Barett_EuDef_co.paa"};
     class ItemInfo: HeadgearItem
     {
         mass = 1;
-        uniformModel = "\A3\Characters_F\OPFOR\H_Beret_CSAT_01_F";
+        uniformModel = "\A3\Characters_F\OPFOR\H_Beret_CSAT_01_F.p3d";
         modelSides[] = {TCivilian, TWest};
         hiddenSelections[] = {"camo"};
 
