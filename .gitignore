@@ -33,7 +33,7 @@
 
 #Other
 *.psd
-/Addons/Uniform/Tropen/Test Stuff/
+/Addons/BW2035_Uniform/Tropen/Test Stuff/
 /Addons/Backpack/ArmA Stuff/
 /cmake-build-debug/
 CMakeLists.txt
