@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="EUFOR">
+    <Package name="Objects">
+            <Key ID="STR_EUFOR_Objects_name">
+                <English>Nilia - European Forces Mod Objects</English>
+                <German>Nilia - Objekte der Streitkräfte Europas</German>
+            </Key>
+            <Key ID="STR_EUFOR_Objects_Author">
+                <English>Nilia</English>
+                <German>Nilia</German>
+            </Key>
+    </Package>
+</Project>
