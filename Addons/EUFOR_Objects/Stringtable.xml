@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="EUFOR">
+    <Package name="Objects">
+            <Key ID="STR_EUFOR_Objects_name">
+                <English>Nilia - European Forces Mod Objects</English>
+                <German>Nilia - Objekte der Streitkräfte Europas</German>
+            </Key>
+            <Key ID="STR_EUFOR_Objects_Author">
+                <English>Nilia</English>
+                <German>Nilia</German>
+            </Key>
+            <Key ID="STR_EUFOR_Objects_Flag_EU">
+                <English>European Union Flag</English>
+                <German>Flagge der Europäischen Union</German>
+            </Key>
+            <Key ID="STR_EUFOR_Objects_Flag_EU_H">
+                <English>European Union Flag Bright Mast</English>
+                <German>Flagge der Europäischen Union heller Mast</German>
+            </Key>
+    </Package>
+</Project>
