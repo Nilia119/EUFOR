@@ -17,7 +17,7 @@ class PainPanel_Dialog {
             h = "1.62727";
             colorBackground[] = {1,1,1,1};
             colorText[] = {1,1,1,1};
-            text = Interaction_Menu\ui\PainPanel.paa;
+            text = EUFOR_Interaction_Menu\ui\PainPanel.paa;
         };
     };
 };
