@@ -1,10 +1,10 @@
 class CfgPatches {
-	class Nilia_MedPanel {
-		name = "Nilia - KAM MedPanel";
+	class EUFOR_MedPanel {
+		name = "$STR_EUFOR_Interactions_Name";
 		units[] = {};
 		requiredAddons[] = {};
-		author = "Nilia";
-		authorUrl = "https://www.9jgkp.de";
+		author = "$STR_EUFOR_Interactions_Author";
+		authorUrl = "https://www.eudef.eu";
 		version = 0.0.1;
 		versionStr = "0.0.1";
 		versionAr[] = {0,0,1};
