@@ -2,9 +2,9 @@
 <Project name="BW2035">
     <Package name="Westen_KKPort">
             <Key ID="STR_BW2035_Westen_PBW_name">
-                <Original>Nilia - BW 2035 Vest PBW</Original>
-                <English>Nilia - BW 2035 Vest PBW</English>
-                <German>Nilia - BW 2035 Westen PBW</German>
+                <Original>Nilia - EUFOR Vest PBW</Original>
+                <English>Nilia - EUFOR Vest PBW</English>
+                <German>Nilia - EUFOR Westen PBW</German>
             </Key>
             <Key ID="STR_BW2035_Westen_PBW_Author">
                 <Original>Nilia</Original>

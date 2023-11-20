@@ -2,9 +2,9 @@
 <Project name="EUFOR">
     <Package name="Helmet">
             <Key ID="STR_EUFOR_Helmet_name">
-                <Original>Nilia - BW 2035 Helmets</Original>
-                <English>Nilia - BW 2035 Helmets</English>
-                <German>Nilia - BW 2035 Helme</German>
+                <Original>Nilia - EUFOR Helmets</Original>
+                <English>Nilia - EUFOR Helmets</English>
+                <German>Nilia - EUFOR Helme</German>
             </Key>
             <Key ID="STR_EUFOR_Helmet_Author">
                 <Original>Nilia</Original>

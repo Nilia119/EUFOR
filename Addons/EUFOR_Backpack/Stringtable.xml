@@ -2,9 +2,9 @@
 <Project name="EUFOR">
     <Package name="Backpack">
             <Key ID="STR_EUFOR_Backpack_name">
-                <Original>Nilia - BW 2035 Backpacks</Original>
-                <English>Nilia - BW 2035 Backpacks</English>
-                <German>Nilia - BW 2035 Rucksäcke</German>
+                <Original>Nilia - EUFOR Backpacks</Original>
+                <English>Nilia - EUFOR Backpacks</English>
+                <German>Nilia - EUFOR Rucksäcke</German>
             </Key>
             <Key ID="STR_EUFOR_Backpack_Author">
                 <Original>Nilia</Original>
