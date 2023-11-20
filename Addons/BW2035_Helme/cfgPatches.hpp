@@ -1,12 +1,12 @@
 class CfgPatches {
-    class Nilia_Helmets {
-        name = "$STR_BW2035_Helmet_name";
+    class EUFOR_Helmets {
+        name = "$STR_EUFOR_Helmet_name";
         units[] = {};
         requiredAddons[] = {
             "A3_Characters_F",
             "A3_Characters_F_Oldman"
         };
-        author = "$STR_BW2035_Helmet_Author";
+        author = "$STR_EUFOR_Helmet_Author";
         authorUrl = "https://www.eudef.eu";
         version = 0.0.1;
         versionStr = "0.0.1";
