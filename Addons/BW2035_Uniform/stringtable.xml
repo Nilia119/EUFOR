@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name="BW2035">
+<Project name="EUFOR">
     <Package name="Uniform">
-        <Key ID="STR_BW2035_uniform_name">
-            <Original>Nilia - BW 2035 Uniform</Original>
-            <English>Nilia - BW 2035 Uniform</English>
-            <German>Nilia - BW 2035 Uniform</German>
+        <Key ID="STR_EUFOR_uniform_name">
+            <Original>Nilia - EUFOR Uniform</Original>
+            <English>Nilia - EUFOR Uniform</English>
+            <German>Nilia - EUFOR Uniform</German>
         </Key>
-        <Key ID="STR_BW2035_Uniform_Author">
+        <Key ID="STR_EUFOR_Uniform_Author">
             <Original>Nilia</Original>
             <English>Nilia</English>
             <German>Nilia</German>
         </Key>>
-        <Key ID="STR_BW2035_Uniform_Tropen">
+        <Key ID="STR_EUFOR_Uniform_Tropen">
             <Original>IdN Tropentarn</Original>
             <English>IdN Tropentarn</English>
             <German>IdN Tropentarn</German>
         </Key>
-        <Key ID="STR_BW2035_Uniform_Flecktarn">
+        <Key ID="STR_EUFOR_Uniform_Flecktarn">
             <Original>IdN Flecktarn</Original>
             <English>IdN Flecktarn</English>
             <German>IdN Flecktarn</German>
         </Key>
-        <Key ID="STR_BW2035_Uniform_Flecktarn_1">
+        <Key ID="STR_EUFOR_Uniform_Flecktarn_1">
             <Original>IdN Flecktarn Sand</Original>
             <English>IdN Flecktarn Sand</English>
             <German>IdN Flecktarn Sand</German>
