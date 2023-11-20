@@ -45,6 +45,7 @@ class BW2035_Backpack_Fleck_Tortilia_Arzt : Bag_Base {
     picture = "Backpack\Carryall\Fleck\ui\BW2035_Fleck_Backpack_Tortilia-Arzt_Icon.paa";
     hiddenSelectionsTextures[]={"Backpack\Carryall\Fleck\BW2035_Fleck_Backpack_Tortilia_Arzt_co.paa"};
     maximumLoad = 320;
+    maximumLoad = 820;
     mass = 60;
 };
 
@@ -69,6 +70,7 @@ class BW2035_Backpack_Tropen_Tortilia_Arzt : Bag_Base {
     picture = "Backpack\Carryall\Tropen\ui\BW2035_Tropen_Backpack_Tortilia-Arzt_Icon.paa";
     hiddenSelectionsTextures[]={"Backpack\Carryall\Tropen\BW2035_Tropen_Backpack_Tortilia_Arzt_co.paa"};
     maximumLoad = 320;
+    maximumLoad = 820;
     mass = 60;
 };
 
