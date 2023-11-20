@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="EUFOR">
+    <Package name="Uniform">
+        <Key ID="STR_EUFOR_uniform_name">
+            <Original>Nilia - EUFOR Uniform</Original>
+            <English>Nilia - EUFOR Uniform</English>
+            <German>Nilia - EUFOR Uniform</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Author">
+            <Original>Nilia</Original>
+            <English>Nilia</English>
+            <German>Nilia</German>
+        </Key>>
+        <Key ID="STR_EUFOR_Uniform_Tropen">
+            <Original>IdN Tropentarn</Original>
+            <English>IdN Tropentarn</English>
+            <German>IdN Tropentarn</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Flecktarn">
+            <Original>IdN Flecktarn</Original>
+            <English>IdN Flecktarn</English>
+            <German>IdN Flecktarn</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Flecktarn_1">
+            <Original>IdN Flecktarn Sand</Original>
+            <English>IdN Flecktarn Sand</English>
+            <German>IdN Flecktarn Sand</German>
+        </Key>
+    </Package>
+</Project>

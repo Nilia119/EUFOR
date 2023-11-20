@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="EUFOR">
+    <Package name="Backpack">
+            <Key ID="STR_EUFOR_Backpack_name">
+                <Original>Nilia - EUFOR Backpacks</Original>
+                <English>Nilia - EUFOR Backpacks</English>
+                <German>Nilia - EUFOR Rucksäcke</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpack_Author">
+                <Original>Nilia</Original>
+                <English>Nilia</English>
+                <German>Nilia</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpack_Tortilia-Fleck">
+                <Original>IdN Carryall [Flecktarn]</Original>
+                <English>IdN Carryall [Flecktarn]</English>
+                <German>IdN Großer Rucksack [Flecktarn]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpack_Tortilia-Fleck_Arzt">
+                <Original>IdN Carryall Medic [Flecktarn]</Original>
+                <English>IdN Carryall Medic [Flecktarn]</English>
+                <German>IdN Großer Rucksack Arzt [Flecktarn]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpack_Tortilia-Tropen">
+                <Original>IdN Carryall [Tropentarn]</Original>
+                <English>IdN Carryall [Tropentarn]</English>
+                <German>IdN Großer Rucksack [Tropentarn]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpack_Tortilia-Tropen_Arzt">
+                <Original>IdN Carryall Medic [Tropentarn]</Original>
+                <English>IdN Carryall Medic [Tropentarn]</English>
+                <German>IdN Großer Rucksack Arzt [Tropentarn]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpack_Tortilia-San">
+                <Original>IdN Carryall Medic</Original>
+                <English>IdN Carryall Medic</English>
+                <German>IdN Großer Rucksack Arzt</German>
+            </Key>
+             <Key ID="STR_EUFOR_Backpack_Compact-Fleck">
+                <Original>IdN Assault Pack</Original>
+                <English>IdN Assault Pack</English>
+                <German>IdN Angriffsrucksack</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpack_Compact-Fleck-Rk">
+                <Original>IdN Assault Pack Red Cross</Original>
+                <English>IdN Assault Pack Red Cross</English>
+                <German>IdN Angriffsrucksack Rk</German>
+            </Key>
+    </Package>
+</Project>
