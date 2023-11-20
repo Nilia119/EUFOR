@@ -1,11 +1,11 @@
 class CfgPatches {
-    class Nilia_Westen_PBW {
-        name = "$STR_BW2035_Westen_PBW_name";
+    class EUFOR_Westen_PBW {
+        name = "$STR_EUFOR_Westen_PBW_name";
         units[] = {};
         requiredAddons[] = {
             "A3_Characters_F"
         };
-        author = "$STR_BW2035_Westen_PBW_Author";
+        author = "$STR_EUFOR_Westen_PBW_Author";
         authorUrl = "https://www.eudef.eu";
         version = 0.0.1;
         versionStr = "0.0.1";

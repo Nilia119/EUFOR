@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name="BW2035">
+<Project name="EUFOR">
     <Package name="Westen_KKPort">
-            <Key ID="STR_BW2035_Westen_PBW_name">
+            <Key ID="STR_EUFOR_Westen_PBW_name">
                 <Original>Nilia - EUFOR Vest PBW</Original>
                 <English>Nilia - EUFOR Vest PBW</English>
                 <German>Nilia - EUFOR Westen PBW</German>
             </Key>
-            <Key ID="STR_BW2035_Westen_PBW_Author">
+            <Key ID="STR_EUFOR_Westen_PBW_Author">
                 <Original>Nilia</Original>
                 <English>Nilia</English>
                 <German>Nilia</German>
