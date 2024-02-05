@@ -94,3 +94,25 @@ class W_EUFOR_Uniform_Fleck1: Uniform_Base
         mass = 40;
     };
 };
+
+/* ======================================SCHNEE======================================== */
+
+class W_EUFOR_Uniform_Schnee: Uniform_Base
+{
+    author = "$STR_EUFOR_Uniform_Author";
+    scope = 2;
+    scopeArsenal = 2;
+    displayName = "$STR_EUFOR_Uniform_Schneetarn";
+    picture = "\EUFOR_Uniform\Schnee\Icon_fleck.paa";
+    model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
+    hiddenSelections[] = {"camo", "insignia"};
+    hiddenSelectionsTextures[] = {"EUFOR_Uniform\Schnee\EUFOR_Schnee_Uniform_co.paa"};
+
+    class ItemInfo: UniformItem
+    {
+        uniformModel = "-";
+        uniformClass = EUFOR_soldat_Schnee;
+        containerClass = Supply80;
+        mass = 40;
+    };
+};

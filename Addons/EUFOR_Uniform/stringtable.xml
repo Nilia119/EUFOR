@@ -31,5 +31,10 @@
             <English>EUFOR Flecktarn Sand</English>
             <German>EUFOR Flecktarn Sand</German>
         </Key>
+        <Key ID="STR_EUFOR_Uniform_Schneetarn">
+            <Original>EUFOR Snow Camo</Original>
+            <English>EUFOR Snow Camo</English>
+            <German>EUFOR Schneetarn</German>
+        </Key>
     </Package>
 </Project>

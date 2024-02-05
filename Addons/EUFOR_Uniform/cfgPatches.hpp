@@ -10,6 +10,7 @@ class CfgPatches
             "EUFOR_BW_Soldier",
             "EUFOR_soldat_Tropen",
             "EUFOR_soldat_Tropen_Digital",
+            "EUFOR_soldat_Schnee",
             "EUFOR_soldat_Fleck",
             "EUFOR_soldat_Fleck1"
 		};
@@ -17,6 +18,7 @@ class CfgPatches
 		{
 			"W_EUFOR_Uniform_Tropen",
             "W_EUFOR_Uniform_Tropen_Digital",
+            "W_EUFOR_Uniform_Schnee",
             "W_EUFOR_Uniform_Fleck",
             "W_EUFOR_Uniform_Fleck1"
 		};
