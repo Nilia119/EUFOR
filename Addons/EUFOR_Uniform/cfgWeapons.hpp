@@ -11,6 +11,7 @@
 //Uniformen
 //Tatsächliche Uniform als Item hier werden die Einstellungen für die Uniformen getätigt
 
+    /* =======================================TROPEN======================================= */
 
 	class W_EUFOR_Uniform_Tropen: Uniform_Base
 	{
@@ -31,6 +32,28 @@
 			mass = 40;
 		};
 	};
+
+class W_EUFOR_Uniform_Tropen_Digital: Uniform_Base
+{
+    author = "$STR_EUFOR_Uniform_Author";
+    scope = 2;
+    scopeArsenal = 2;
+    displayName = "$STR_EUFOR_Uniform_Tropen_Digital";
+    picture = "\EUFOR_Uniform\Tropen\Icon_tropen.paa";
+    model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
+    hiddenSelections[] = {"camo", "insignia"};
+    hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Uniform_Digi_co.paa"};
+
+    class ItemInfo: UniformItem
+    {
+        uniformModel = "-";
+        uniformClass = EUFOR_soldat_Tropen_Digi;
+        containerClass = Supply80;
+        mass = 40;
+    };
+};
+
+    /* ======================================FLECK======================================== */
 
 class W_EUFOR_Uniform_Fleck: Uniform_Base
 {

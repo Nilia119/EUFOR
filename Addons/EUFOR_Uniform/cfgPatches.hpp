@@ -9,12 +9,14 @@ class CfgPatches
 		{
             "EUFOR_BW_Soldier",
             "EUFOR_soldat_Tropen",
+            "EUFOR_soldat_Tropen_Digital",
             "EUFOR_soldat_Fleck",
             "EUFOR_soldat_Fleck1"
 		};
 		weapons[]=
 		{
 			"W_EUFOR_Uniform_Tropen",
+            "W_EUFOR_Uniform_Tropen_Digital",
             "W_EUFOR_Uniform_Fleck",
             "W_EUFOR_Uniform_Fleck1"
 		};

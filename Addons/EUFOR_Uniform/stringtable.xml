@@ -16,6 +16,11 @@
             <English>EUFOR Tropentarn</English>
             <German>EUFOR Tropentarn</German>
         </Key>
+        <Key ID="STR_EUFOR_Uniform_Tropen_Digital">
+            <Original>EUFOR Tropentarn Digital</Original>
+            <English>EUFOR Tropentarn Digital</English>
+            <German>EUFOR Tropentarn Digital</German>
+        </Key>
         <Key ID="STR_EUFOR_Uniform_Flecktarn">
             <Original>EUFOR Flecktarn</Original>
             <English>EUFOR Flecktarn</English>
