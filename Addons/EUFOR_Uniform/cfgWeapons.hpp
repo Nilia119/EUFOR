@@ -53,6 +53,68 @@ class W_EUFOR_Uniform_Tropen_Digital: Uniform_Base
     };
 };
 
+    /* ------- Ärmel hoch ------- */
+
+    class W_EUFOR_Uniform_Tropen_Sleeves: W_EUFOR_Uniform_Tropen
+    {
+        author = "$STR_EUFOR_Uniform_Author";
+        displayName = "$STR_EUFOR_Uniform_Tropen_Sleeves";
+
+        class ItemInfo: UniformItem
+        {
+            uniformModel = "-";
+            uniformClass = EUFOR_soldat_Tropen_Sleeves;
+            containerClass = Supply80;
+            mass = 40;
+        };
+
+    };
+
+    class W_EUFOR_Uniform_Tropen_Digital_Sleeves: W_EUFOR_Uniform_Tropen_Digital
+    {
+        author = "$STR_EUFOR_Uniform_Author";
+        displayName = "$STR_EUFOR_Uniform_Tropen_Digital_Sleeves";
+
+        class ItemInfo: UniformItem
+        {
+            uniformModel = "-";
+            uniformClass = EUFOR_soldat_Tropen_Digi_Sleeves;
+            containerClass = Supply80;
+            mass = 40;
+        };
+    };
+
+/* ------- T-Shirt ------- */
+
+class W_EUFOR_Uniform_Tropen_Shirt: W_EUFOR_Uniform_Tropen
+{
+    author = "$STR_EUFOR_Uniform_Author";
+    displayName = "$STR_EUFOR_Uniform_Tropen_Shirt";
+
+    class ItemInfo: UniformItem
+    {
+        uniformModel = "-";
+        uniformClass = EUFOR_soldat_Tropen_Shirt;
+        containerClass = Supply80;
+        mass = 40;
+    };
+
+};
+
+class W_EUFOR_Uniform_Tropen_Digital_Shirt: W_EUFOR_Uniform_Tropen_Digital
+{
+    author = "$STR_EUFOR_Uniform_Author";
+    displayName = "$STR_EUFOR_Uniform_Tropen_Digital_Shirt";
+
+    class ItemInfo: UniformItem
+    {
+        uniformModel = "-";
+        uniformClass = EUFOR_soldat_Tropen_Digi_Shirt;
+        containerClass = Supply80;
+        mass = 40;
+    };
+};
+
     /* ======================================FLECK======================================== */
 
 class W_EUFOR_Uniform_Fleck: Uniform_Base
@@ -90,6 +152,42 @@ class W_EUFOR_Uniform_Fleck1: Uniform_Base
     {
         uniformModel = "-";
         uniformClass = EUFOR_soldat_Fleck1;
+        containerClass = Supply80;
+        mass = 40;
+    };
+};
+
+/* ------- Ärmel hoch ------- */
+
+class W_EUFOR_Uniform_Fleck_Sleeves: W_EUFOR_Uniform_Fleck
+{
+    author = "$STR_EUFOR_Uniform_Author";
+    scope = 2;
+    scopeArsenal = 2;
+    displayName = "$STR_EUFOR_Uniform_Flecktarn_Sleeves";
+    picture = "\EUFOR_Uniform\Fleck\Icon_fleck.paa";
+
+    class ItemInfo: UniformItem
+    {
+        uniformModel = "-";
+        uniformClass = EUFOR_soldat_Fleck_Sleeves;
+        containerClass = Supply80;
+        mass = 40;
+    };
+};
+
+class W_EUFOR_Uniform_Fleck1_Sleeves: W_EUFOR_Uniform_Fleck1
+{
+    author = "$STR_EUFOR_Uniform_Author";
+    scope = 2;
+    scopeArsenal = 2;
+    displayName = "$STR_EUFOR_Uniform_Flecktarn_1_Sleeves";
+    picture = "\EUFOR_Uniform\Fleck\Icon_fleck.paa";
+
+    class ItemInfo: UniformItem
+    {
+        uniformModel = "-";
+        uniformClass = EUFOR_soldat_Fleck1_Sleeves;
         containerClass = Supply80;
         mass = 40;
     };
