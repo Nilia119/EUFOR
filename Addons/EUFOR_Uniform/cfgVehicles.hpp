@@ -96,3 +96,21 @@
         hiddenSelectionsTextures[] = {"EUFOR_Uniform\Schnee\EUFOR_Schnee_Uniform_co.paa"};	// The textures for the selections defined above.
 
     };
+
+    /* ============================Multi====================================================== */
+
+    class EUFOR_soldat_Multi: EUFOR_BW_Soldier	// Define of a new class, which parameters are inherited from B_Soldier_base_F, with exception of those defined below.
+    {
+        author = "$STR_EUFOR_Uniform_Author";		// The name of the author of the asset, which is displayed in the editor.
+        scope = 1;							// 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
+        scopeCurator = 0;					// 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
+        scopeArsenal = 2;					// 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal.
+        identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
+        displayName = "Soldat Multitarn";		// The name of the soldier, which is displayed in the editor.
+        model = "\A3\Characters_F\BLUFOR\b_soldier_01.p3d";			// The path to the model this character uses.
+        uniformClass = "W_EUFOR_Uniform_Multi";							// This links this soldier to a particular uniform. For the details, see below.
+        hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
+        // and hiddenSelectionMaterials[] properties. If empty, model textures are used.
+        hiddenSelectionsTextures[] = {"EUFOR_Uniform\Multi\EUFOR_Multi_Uniform_co.paa"};	// The textures for the selections defined above.
+
+    };

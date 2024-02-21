@@ -36,5 +36,10 @@
             <English>EUFOR Snow Camo</English>
             <German>EUFOR Schneetarn</German>
         </Key>
+        <Key ID="STR_EUFOR_Uniform_Multitarn">
+            <Original>EUFOR Multitarn</Original>
+            <English>EUFOR Multitarn</English>
+            <German>EUFOR Multitarn</German>
+        </Key>
     </Package>
 </Project>
