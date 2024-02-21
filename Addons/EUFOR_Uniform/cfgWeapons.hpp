@@ -103,7 +103,7 @@ class W_EUFOR_Uniform_Schnee: Uniform_Base
     scope = 2;
     scopeArsenal = 2;
     displayName = "$STR_EUFOR_Uniform_Schneetarn";
-    picture = "\EUFOR_Uniform\Schnee\Icon_fleck.paa";
+    picture = "\EUFOR_Uniform\Schnee\Icon_schnee.paa";
     model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
     hiddenSelections[] = {"camo", "insignia"};
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\Schnee\EUFOR_Schnee_Uniform_co.paa"};
