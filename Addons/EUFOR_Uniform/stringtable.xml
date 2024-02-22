@@ -12,19 +12,64 @@
             <German>Nilia</German>
         </Key>>
         <Key ID="STR_EUFOR_Uniform_Tropen">
-            <Original>IdN Tropentarn</Original>
-            <English>IdN Tropentarn</English>
-            <German>IdN Tropentarn</German>
+            <Original>EUFOR Tropentarn</Original>
+            <English>EUFOR Tropentarn</English>
+            <German>EUFOR Tropentarn</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tropen_Sleeves">
+            <Original>EUFOR Tropentarn Sleeves Up</Original>
+            <English>EUFOR Tropentarn Sleeves Up</English>
+            <German>EUFOR Tropentarn hochgekrempelt</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tropen_Shirt">
+            <Original>EUFOR Tropentarn T-Shirt</Original>
+            <English>EUFOR Tropentarn T-Shirt</English>
+            <German>EUFOR Tropentarn T-Shirt</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tropen_Digital">
+            <Original>EUFOR Tropentarn Digital</Original>
+            <English>EUFOR Tropentarn Digital</English>
+            <German>EUFOR Tropentarn Digital</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tropen_Digital_Sleeves">
+            <Original>EUFOR Tropentarn Digital Sleeves Up</Original>
+            <English>EUFOR Tropentarn Digital Sleeves Up</English>
+            <German>EUFOR Tropentarn Digital hochgekrempelt</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tropen_Digital_Shirt">
+            <Original>EUFOR Tropentarn Digital T-Shirt</Original>
+            <English>EUFOR Tropentarn Digital T-Shirt</English>
+            <German>EUFOR Tropentarn Digital T-Shirt</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Flecktarn">
-            <Original>IdN Flecktarn</Original>
-            <English>IdN Flecktarn</English>
-            <German>IdN Flecktarn</German>
+            <Original>EUFOR Flecktarn</Original>
+            <English>EUFOR Flecktarn</English>
+            <German>EUFOR Flecktarn</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Flecktarn_Sleeves">
+            <Original>EUFOR Flecktarn Sleeves Up</Original>
+            <English>EUFOR Flecktarn Sleeves Up</English>
+            <German>EUFOR Flecktarn hochgekrempelt</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Flecktarn_1">
-            <Original>IdN Flecktarn Sand</Original>
-            <English>IdN Flecktarn Sand</English>
-            <German>IdN Flecktarn Sand</German>
+            <Original>EUFOR Flecktarn Sand</Original>
+            <English>EUFOR Flecktarn Sand</English>
+            <German>EUFOR Flecktarn Sand</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Flecktarn_1_Sleeves">
+            <Original>EUFOR Flecktarn Sand Sleeves Up</Original>
+            <English>EUFOR Flecktarn Sand Sleeves Up</English>
+            <German>EUFOR Flecktarn Sand hochgekrempelt</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Schneetarn">
+            <Original>EUFOR Snow Camo</Original>
+            <English>EUFOR Snow Camo</English>
+            <German>EUFOR Schneetarn</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Multitarn">
+            <Original>EUFOR Multitarn</Original>
+            <English>EUFOR Multitarn</English>
+            <German>EUFOR Multitarn</German>
         </Key>
     </Package>
 </Project>
