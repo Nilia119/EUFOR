@@ -1,6 +1,6 @@
 /// Utilizing includes ///
 
-	#include "cfgPatches.hpp"
+#include "cfgPatches.hpp"
 
 class cfgVehicles {
 #include "cfgVehicles.hpp"
