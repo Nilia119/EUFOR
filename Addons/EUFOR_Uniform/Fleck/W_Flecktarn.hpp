@@ -103,3 +103,55 @@ class W_EUFOR_Uniform_Fleck1_Shirt: W_EUFOR_Uniform_Fleck1
         mass = 40;
     };
 };
+
+/* ------- Normal Tarn-Uniform------- */
+class W_EUFOR_Uniform_Tarn_Fleck: Uniform_Base
+{
+    author = "$STR_EUFOR_Uniform_Author";
+    scope = 2;
+    scopeArsenal = 2;
+    displayName = "$STR_EUFOR_Uniform_Tarn_Fleck";
+    picture = "\EUFOR_Uniform\Fleck\Icon_fleck.paa";
+    model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
+    hiddenSelections[] = {"camo", "insignia"};
+    hiddenSelectionsTextures[] = {"EUFOR_Uniform\Fleck\EUFOR_Fleck_Uniform_co.paa"};
+    ace_fire_protection = 0.8;
+
+    class ItemInfo: UniformItem
+    {
+        uniformModel = "-";
+        uniformClass = EUFOR_Soldat_Tarn_Fleck;
+        containerClass = Supply80;
+        mass = 40;
+    };
+};
+/* ------- Ärmel hoch ------- */
+class W_EUFOR_Uniform_Tarn_Fleck_Sleeves: W_EUFOR_Uniform_Tarn_Fleck
+{
+    author = "$STR_EUFOR_Uniform_Author";
+    displayName = "$STR_EUFOR_Uniform_Tarn_Fleck_Sleeves";
+    picture = "\EUFOR_Uniform\Fleck\Icon_fleck_h.paa";
+
+    class ItemInfo: UniformItem
+    {
+        uniformModel = "-";
+        uniformClass = EUFOR_Soldat_Tarn_Fleck_Sleeves;
+        containerClass = Supply80;
+        mass = 40;
+    };
+};
+/* ------- T-Shirt ------- */
+class W_EUFOR_Uniform_Tarn_Fleck_Shirt: W_EUFOR_Uniform_Tarn_Fleck
+{
+    author = "$STR_EUFOR_Uniform_Author";
+    displayName = "$STR_EUFOR_Uniform_Tarn_Fleck_Shirt";
+    picture = "\EUFOR_Uniform\Fleck\Icon_fleck_t.paa";
+
+    class ItemInfo: UniformItem
+    {
+        uniformModel = "-";
+        uniformClass = EUFOR_Soldat_Tarn_Fleck_Shirt;
+        containerClass = Supply80;
+        mass = 40;
+    };
+};
