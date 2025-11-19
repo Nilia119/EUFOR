@@ -2,7 +2,6 @@
     class B_CTRG_Soldier_2_F;
     class B_CTRG_Soldier_3_F;
 
-
     class EUFOR_BW_Soldier: B_CTRG_Soldier_F {
 
         author = "$STR_EUFOR_Uniform_Author";
