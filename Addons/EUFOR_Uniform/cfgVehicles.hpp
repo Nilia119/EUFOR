@@ -2,7 +2,6 @@
     class B_CTRG_Soldier_2_F;
     class B_CTRG_Soldier_3_F;
 
-
     class EUFOR_BW_Soldier: B_CTRG_Soldier_F {
 
         author = "$STR_EUFOR_Uniform_Author";
@@ -26,215 +25,18 @@
         scopeCurator = 0;
 
     };
-	
-	/* =============================Tropen=============================================== */
-	class EUFOR_soldat_Tropen: EUFOR_BW_Soldier	// Define of a new class, which parameters are inherited from B_Soldier_base_F, with exception of those defined below.
-	{
-        author = "$STR_EUFOR_Uniform_Author";			// The name of the author of the asset, which is displayed in the editor.
-		scope = 1;							// 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
-		scopeCurator = 0;					// 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
-		scopeArsenal = 2;					// 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal.
-		identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
-		displayName = "Soldat Tropentarn";		// The name of the soldier, which is displayed in the editor.
-		model = "\A3\Characters_F\BLUFOR\b_soldier_01.p3d";			// The path to the model this character uses.
-		uniformClass = "W_EUFOR_Uniform_Tropen";							// This links this soldier to a particular uniform. For the details, see below.
-		hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
-																	// and hiddenSelectionMaterials[] properties. If empty, model textures are used.
-		hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Uniform_co.paa"};	// The textures for the selections defined above.
-																								// If empty, no texture is used.
-	};
 
-    class EUFOR_soldat_Tropen_Digi: EUFOR_BW_Soldier	// Define of a new class, which parameters are inherited from B_Soldier_base_F, with exception of those defined below.
-    {
-        author = "$STR_EUFOR_Uniform_Author";			// The name of the author of the asset, which is displayed in the editor.
-        scope = 1;							// 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
-        scopeCurator = 0;					// 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
-        scopeArsenal = 2;					// 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal.
-        identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
-        displayName = "Soldat Tropentarn Digital";		// The name of the soldier, which is displayed in the editor.
-        model = "\A3\Characters_F\BLUFOR\b_soldier_01.p3d";			// The path to the model this character uses.
-        uniformClass = "W_EUFOR_Uniform_Tropen_Digi";							// This links this soldier to a particular uniform. For the details, see below.
-        hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
-        // and hiddenSelectionMaterials[] properties. If empty, model textures are used.
-        hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Uniform_Digi_co.paa"};	// The textures for the selections defined above.
-        // If empty, no texture is used.
-    };
+	/* ============================Tropen===================================================== */
+        #include "\EUFOR_Uniform\Tropen\V_Tropentarn.hpp"
 
-    /* ------- Ärmel hoch ------- */
-
-    class EUFOR_soldat_Tropen_Sleeves: EUFOR_BW_Soldier_Sleeves	// Define of a new class, which parameters are inherited from B_Soldier_base_F, with exception of those defined below.
-    {
-        author = "$STR_EUFOR_Uniform_Author";			// The name of the author of the asset, which is displayed in the editor.
-        scope = 1;							// 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
-        scopeCurator = 0;					// 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
-        scopeArsenal = 2;					// 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal.
-        identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
-        displayName = "Soldat Tropentarn hoch";		// The name of the soldier, which is displayed in the editor.
-        model = "\A3\Characters_F\BLUFOR\b_soldier_03.p3d";			// The path to the model this character uses.
-        uniformClass = "W_EUFOR_Uniform_Tropen_Sleeves";							// This links this soldier to a particular uniform. For the details, see below.
-        hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
-        // and hiddenSelectionMaterials[] properties. If empty, model textures are used.
-        hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Uniform_co.paa"};	// The textures for the selections defined above.
-        // If empty, no texture is used.
-    };
-
-    class EUFOR_soldat_Tropen_Digi_Sleeves: EUFOR_BW_Soldier_Sleeves	// Define of a new class, which parameters are inherited from B_Soldier_base_F, with exception of those defined below.
-    {
-        author = "$STR_EUFOR_Uniform_Author";			// The name of the author of the asset, which is displayed in the editor.
-        scope = 1;							// 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
-        scopeCurator = 0;					// 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
-        scopeArsenal = 2;					// 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal.
-        identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
-        displayName = "Soldat Tropentarn Digital hoch";		// The name of the soldier, which is displayed in the editor.
-        model = "\A3\Characters_F\BLUFOR\b_soldier_03.p3d";			// The path to the model this character uses.
-        uniformClass = "W_EUFOR_Uniform_Tropen_Digi_Sleeves";							// This links this soldier to a particular uniform. For the details, see below.
-        hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
-        // and hiddenSelectionMaterials[] properties. If empty, model textures are used.
-        hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Uniform_Digi_co.paa"};	// The textures for the selections defined above.
-        // If empty, no texture is used.
-    };
-
-    /* ------- T-Shirt ------- */
-
-    class EUFOR_soldat_Tropen_Shirt: EUFOR_BW_Soldier_Shirt	// Define of a new class, which parameters are inherited from B_Soldier_base_F, with exception of those defined below.
-    {
-        author = "$STR_EUFOR_Uniform_Author";			// The name of the author of the asset, which is displayed in the editor.
-        scope = 1;							// 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
-        scopeCurator = 0;					// 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
-        scopeArsenal = 2;					// 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal.
-        identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
-        displayName = "Soldat Tropentarn T-Shirt";		// The name of the soldier, which is displayed in the editor.
-        model = "\A3\Characters_F\BLUFOR\b_soldier_02.p3d";			// The path to the model this character uses.
-        uniformClass = "W_EUFOR_Uniform_Tropen_Shirt";							// This links this soldier to a particular uniform. For the details, see below.
-        hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
-        // and hiddenSelectionMaterials[] properties. If empty, model textures are used.
-        hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Uniform_co.paa"};	// The textures for the selections defined above.
-        // If empty, no texture is used.
-    };
-
-    class EUFOR_soldat_Tropen_Digi_Shirt: EUFOR_BW_Soldier_Shirt	// Define of a new class, which parameters are inherited from B_Soldier_base_F, with exception of those defined below.
-    {
-        author = "$STR_EUFOR_Uniform_Author";			// The name of the author of the asset, which is displayed in the editor.
-        scope = 1;							// 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
-        scopeCurator = 0;					// 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
-        scopeArsenal = 2;					// 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal.
-        identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
-        displayName = "Soldat Tropentarn Digital hoch";		// The name of the soldier, which is displayed in the editor.
-        model = "\A3\Characters_F\BLUFOR\b_soldier_02.p3d";			// The path to the model this character uses.
-        uniformClass = "W_EUFOR_Uniform_Tropen_Digi_Shirt";							// This links this soldier to a particular uniform. For the details, see below.
-        hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
-        // and hiddenSelectionMaterials[] properties. If empty, model textures are used.
-        hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Uniform_Digi_co.paa"};	// The textures for the selections defined above.
-        // If empty, no texture is used.
-    };
+    /* ============================TropenDigital============================================== */
+        #include "\EUFOR_Uniform\TropenDigital\V_TropentarnD.hpp"
 
     /* ============================Fleck====================================================== */
-    class EUFOR_soldat_Fleck: EUFOR_BW_Soldier	// Define of a new class, which parameters are inherited from B_Soldier_base_F, with exception of those defined below.
-    {
-        author = "$STR_EUFOR_Uniform_Author";			// The name of the author of the asset, which is displayed in the editor.
-        scope = 1;							// 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
-        scopeCurator = 0;					// 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
-        scopeArsenal = 2;					// 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal.
-        identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
-        displayName = "Soldat Flecktarn";		// The name of the soldier, which is displayed in the editor.
-        model = "\A3\Characters_F\BLUFOR\b_soldier_01.p3d";			// The path to the model this character uses.
-        uniformClass = "W_EUFOR_Uniform_Fleck";							// This links this soldier to a particular uniform. For the details, see below.
-        hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
-        // and hiddenSelectionMaterials[] properties. If empty, model textures are used.
-        hiddenSelectionsTextures[] = {"EUFOR_Uniform\Fleck\EUFOR_Fleck_Uniform_co.paa"};	// The textures for the selections defined above.
-        //hiddenSelectionsMaterials[] = {"Uniform\Fleck\EUFOR_Fleck_Uniform.rvmat"};
-        // If empty, no texture is used.
+        #include "\EUFOR_Uniform\Fleck\V_Flecktarn.hpp"
 
-    };
-
-    class EUFOR_soldat_Fleck1: EUFOR_BW_Soldier	// Define of a new class, which parameters are inherited from B_Soldier_base_F, with exception of those defined below.
-    {
-        author = "$STR_EUFOR_Uniform_Author";		// The name of the author of the asset, which is displayed in the editor.
-        scope = 1;							// 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
-        scopeCurator = 0;					// 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
-        scopeArsenal = 2;					// 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal.
-        identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
-        displayName = "Soldat Flecktarn 1";		// The name of the soldier, which is displayed in the editor.
-        model = "\A3\Characters_F\BLUFOR\b_soldier_01.p3d";			// The path to the model this character uses.
-        uniformClass = "W_EUFOR_Uniform_Fleck1";							// This links this soldier to a particular uniform. For the details, see below.
-        hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
-        // and hiddenSelectionMaterials[] properties. If empty, model textures are used.
-        hiddenSelectionsTextures[] = {"EUFOR_Uniform\Fleck\EUFOR_Fleck_Uniform1_co.paa"};	// The textures for the selections defined above.
-        //hiddenSelectionsMaterials[] = {"Uniform\Fleck\EUFOR_Fleck_Uniform.rvmat"};
-        // If empty, no texture is used.
-
-    };
-
-    /* ------- Ärmel hoch ------- */
-
-    class EUFOR_soldat_Fleck_Sleeves: EUFOR_BW_Soldier_Sleeves	// Define of a new class, which parameters are inherited from B_Soldier_base_F, with exception of those defined below.
-    {
-        author = "$STR_EUFOR_Uniform_Author";			// The name of the author of the asset, which is displayed in the editor.
-        scope = 1;							// 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
-        scopeCurator = 0;					// 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
-        scopeArsenal = 2;					// 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal.
-        identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
-        displayName = "Soldat Flecktarn hoch";		// The name of the soldier, which is displayed in the editor.
-        model = "\A3\Characters_F\BLUFOR\b_soldier_03.p3d";			// The path to the model this character uses.
-        uniformClass = "W_EUFOR_Uniform_Fleck_Sleeves";							// This links this soldier to a particular uniform. For the details, see below.
-        hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
-        // and hiddenSelectionMaterials[] properties. If empty, model textures are used.
-        hiddenSelectionsTextures[] = {"EUFOR_Uniform\Fleck\EUFOR_Fleck_Uniform_co.paa"};	// The textures for the selections defined above.
-        //hiddenSelectionsMaterials[] = {"Uniform\Fleck\EUFOR_Fleck_Uniform.rvmat"};
-        // If empty, no texture is used.
-
-    };
-
-    class EUFOR_soldat_Fleck1_Sleeves: EUFOR_BW_Soldier_Sleeves	// Define of a new class, which parameters are inherited from B_Soldier_base_F, with exception of those defined below.
-    {
-        author = "$STR_EUFOR_Uniform_Author";		// The name of the author of the asset, which is displayed in the editor.
-        scope = 1;							// 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
-        scopeCurator = 0;					// 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
-        scopeArsenal = 2;					// 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal.
-        identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
-        displayName = "Soldat Flecktarn 1 hoch";		// The name of the soldier, which is displayed in the editor.
-        model = "\A3\Characters_F\BLUFOR\b_soldier_03.p3d";			// The path to the model this character uses.
-        uniformClass = "W_EUFOR_Uniform_Fleck1_Sleeves";							// This links this soldier to a particular uniform. For the details, see below.
-        hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
-        // and hiddenSelectionMaterials[] properties. If empty, model textures are used.
-        hiddenSelectionsTextures[] = {"EUFOR_Uniform\Fleck\EUFOR_Fleck_Uniform1_co.paa"};	// The textures for the selections defined above.
-        //hiddenSelectionsMaterials[] = {"Uniform\Fleck\EUFOR_Fleck_Uniform.rvmat"};
-        // If empty, no texture is used.
-
-    };
-
-    /* ============================Schnee====================================================== */
-
-    class EUFOR_soldat_Schnee: EUFOR_BW_Soldier	// Define of a new class, which parameters are inherited from B_Soldier_base_F, with exception of those defined below.
-    {
-        author = "$STR_EUFOR_Uniform_Author";		// The name of the author of the asset, which is displayed in the editor.
-        scope = 1;							// 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
-        scopeCurator = 0;					// 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
-        scopeArsenal = 2;					// 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal.
-        identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
-        displayName = "Soldat Schneetarn";		// The name of the soldier, which is displayed in the editor.
-        model = "\A3\Characters_F\BLUFOR\b_soldier_01.p3d";			// The path to the model this character uses.
-        uniformClass = "W_EUFOR_Uniform_Schnee";							// This links this soldier to a particular uniform. For the details, see below.
-        hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
-        // and hiddenSelectionMaterials[] properties. If empty, model textures are used.
-        hiddenSelectionsTextures[] = {"EUFOR_Uniform\Schnee\EUFOR_Schnee_Uniform_co.paa"};	// The textures for the selections defined above.
-
-    };
+    /* ============================Schnee===================================================== */
+        #include "\EUFOR_Uniform\Schnee\V_Schneetarn.hpp"
 
     /* ============================Multi====================================================== */
-
-    class EUFOR_soldat_Multi: EUFOR_BW_Soldier	// Define of a new class, which parameters are inherited from B_Soldier_base_F, with exception of those defined below.
-    {
-        author = "$STR_EUFOR_Uniform_Author";		// The name of the author of the asset, which is displayed in the editor.
-        scope = 1;							// 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
-        scopeCurator = 0;					// 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
-        scopeArsenal = 2;					// 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal.
-        identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
-        displayName = "Soldat Multitarn";		// The name of the soldier, which is displayed in the editor.
-        model = "\A3\Characters_F\BLUFOR\b_soldier_01.p3d";			// The path to the model this character uses.
-        uniformClass = "W_EUFOR_Uniform_Multi";							// This links this soldier to a particular uniform. For the details, see below.
-        hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
-        // and hiddenSelectionMaterials[] properties. If empty, model textures are used.
-        hiddenSelectionsTextures[] = {"EUFOR_Uniform\Multi\EUFOR_Multi_Uniform_co.paa"};	// The textures for the selections defined above.
-
-    };
+        #include "\EUFOR_Uniform\Multi\V_Multitarn.hpp"
