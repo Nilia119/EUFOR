@@ -166,5 +166,30 @@
             <English>EUFOR Stealth-Uniform Multitarn T-Shirt [Apex]</English>
             <German>EUFOR Tarnuniform Multitarn T-Shirt [Apex]</German>
         </Key>
+        <Key ID="STR_EUFOR_Uniform_Aktion_Basis">
+            <Original>Roll Sleeves Up/Put your top on</Original>
+            <English>Roll Sleeves Up/Put your top on</English>
+            <German>Krempel Ärmel hoch/Ziehe dein Oberteil an</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Aktion_Runterkrempeln">
+            <Original>Roll Sleeves Down</Original>
+            <English>Roll Sleeves Down</English>
+            <German>Krempel Ärmel runter</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Aktion_Oberteilan">
+            <Original>Put your top on</Original>
+            <English>Put your top on</English>
+            <German>Ziehe dein Oberteil an</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Aktion_Oberteilaus">
+            <Original>Take your top off</Original>
+            <English>Take your top off</English>
+            <German>Ziehe dein Oberteil aus</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Aktion_Tauschehandschuh">
+            <Original>Switch Gloves</Original>
+            <English>Switch Gloves</English>
+            <German>Tausche Handschuhe</German>
+        </Key>
     </Package>
 </Project>

@@ -9,3 +9,7 @@ class cfgVehicles {
 class cfgWeapons {
 #include "cfgWeapons.hpp"
 };
+
+class ace_wardrobe {
+#include "cfgACEWardrobe.hpp"
+};
