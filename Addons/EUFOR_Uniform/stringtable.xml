@@ -10,7 +10,7 @@
             <Original>Nilia</Original>
             <English>Nilia</English>
             <German>Nilia</German>
-        </Key>>
+        </Key>&gt;
         <Key ID="STR_EUFOR_Uniform_Tropen">
             <Original>EUFOR Tropentarn</Original>
             <English>EUFOR Tropentarn</English>
@@ -27,19 +27,20 @@
             <German>EUFOR Tropentarn T-Shirt</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tropen_Digital">
-            <Original>EUFOR Tropentarn Digital</Original>
-            <English>EUFOR Tropentarn Digital</English>
-            <German>EUFOR Tropentarn Digital</German>
+            <Original>EUFOR Digital Tropentarn</Original>
+            <English>EUFOR Digital Tropentarn</English>
+            <German>EUFOR Digital Tropentarn</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tropen_Digital_Sleeves">
-            <Original>EUFOR Tropentarn Digital Sleeves Up</Original>
-            <English>EUFOR Tropentarn Digital Sleeves Up</English>
-            <German>EUFOR Tropentarn Digital hochgekrempelt</German>
+            <Original>EUFOR Digital Tropentarn Sleeves Up</Original>
+            <English>EUFOR Digital Tropentarn Sleeves Up</English>
+            <German>EUFOR Digital Tropentarn hochgekrempelt</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tropen_Digital_Shirt">
-            <Original>EUFOR Tropentarn Digital T-Shirt</Original>
-            <English>EUFOR Tropentarn Digital T-Shirt</English>
-            <German>EUFOR Tropentarn Digital T-Shirt</German>
+            <Original>EUFOR Digital Tropentarn T-Shirt</Original>
+            <English>EUFOR Digital Tropentarn T-Shirt</English>
+            <German>EUFOR Digital Tropentarn T-Shirt</German>
+        </Key>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Flecktarn">
             <Original>EUFOR Flecktarn</Original>
