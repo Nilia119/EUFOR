@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="EUFOR">
+    <Package name="Uniform">
+        <Key ID="STR_EUFOR_vets_name">
+            <Original>Nilia - EUFOR Vests</Original>
+            <English>Nilia - EUFOR Vests</English>
+            <German>Nilia - EUFOR Westen</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Author">
+            <Original>Nilia</Original>
+            <English>Nilia</English>
+            <German>Nilia</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Fleck_Carrier_GL">
+            <Original>EUFOR Carrier GL Rig (Flecktarn)</Original>
+            <English>EUFOR Carrier GL Rig (Flecktarn)</English>
+            <German>EUFOR Flecktarn Spezialtragegurt-GL</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Fleck1_Carrier_GL">
+            <Original>EUFOR Carrier GL Rig (Flecktarn, Brown)</Original>
+            <English>EUFOR Carrier GL Rig (Flecktarn, Brown)</English>
+            <German>EUFOR Flecktarn Spezialtragegurt-GL Braun</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Fleck_Carrier_Spec">
+            <Original>EUFOR Carrier Special  Rig (Flecktarn)</Original>
+            <English>EUFOR Carrier Special  Rig (Flecktarn)</English>
+            <German>EUFOR Flecktarn Spezialtragegurt</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Fleck1_Carrier_Spec">
+            <Original>EUFOR Carrier Special Rig (Flecktarn, Brown)</Original>
+            <English>EUFOR Carrier Special Rig (Flecktarn, Brown)</English>
+            <German>EUFOR Flecktarn Spezialtragegurt Braun</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Schnee_Carrier_GL">
+            <Original>EUFOR Carrier GL Rig (Snow)</Original>
+            <English>EUFOR Carrier GL Rig (Snow)</English>
+            <German>EUFOR Schneetarn Spezialtragegurt-GL</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Schnee_Carrier_Spec">
+            <Original>EUFOR Carrier Special  Rig (Snow)</Original>
+            <English>EUFOR Carrier Special  Rig (Snow)</English>
+            <German>EUFOR Schneetarn Spezialtragegurt</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Multi_Carrier_GL">
+            <Original>EUFOR Carrier GL Rig (Multitarn)</Original>
+            <English>EUFOR Carrier GL Rig (Multitarn)</English>
+            <German>EUFOR Multitarn Spezialtragegurt-GL</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Multi_Carrier_Spec">
+            <Original>EUFOR Carrier Special Rig (Multitarn)</Original>
+            <English>EUFOR Carrier Special Rig (Multitarn)</English>
+            <German>EUFOR Multitarn Spezialtragegurt</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Tropen_Carrier_GL">
+            <Original>EUFOR Carrier GL Rig (Tropentarn)</Original>
+            <English>EUFOR Carrier GL Rig (Tropentarn)</English>
+            <German>EUFOR Tropentarn Spezialtragegurt-GL</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Tropen_Carrier_Spec">
+            <Original>EUFOR Carrier Special Rig (Tropentarn)</Original>
+            <English>EUFOR Carrier Special Rig (Tropentarn)</English>
+            <German>EUFOR Tropentarn Spezialtragegurt</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Tropen_Digital_Carrier_GL">
+            <Original>EUFOR Carrier GL Rig (Digital-Tropentarn)</Original>
+            <English>EUFOR Carrier GL Rig (Digital-Tropentarn)</English>
+            <German>EUFOR Digital Tropentarn Spezialtragegurt-GL</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Tropen_Digital_Carrier_Spec">
+            <Original>EUFOR Carrier Special Rig (Digital-Tropentarn)</Original>
+            <English>EUFOR Carrier Special Rig (Digital-Tropentarn)</English>
+            <German>EUFOR Digital Tropentarn Spezialtragegurt</German>
+        </Key>
+    </Package>
+</Project>
