@@ -32,4 +32,17 @@ class EUFOR_Vest_Carrier_Spec_Schnee: EUFOR_Vest_Carrier_Spec_Base
         containerClass="Supply250";
         mass=180;
     };
+//  TacVest
+class EUFOR_Vest_TacVest_Schnee: EUFOR_Vest_TacVest_Base
+{
+    author="$STR_EUFOR_Vests_Author";
+    scope=2;
+    displayName="$STR_EUFOR_Vests_Schnee_Tac";
+    picture="\EUFOR_Vests\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "\EUFOR_Vests\Schnee\EUFOR_Vest_Schnee_TacVest_co.paa"
+    };
+};
+
 };

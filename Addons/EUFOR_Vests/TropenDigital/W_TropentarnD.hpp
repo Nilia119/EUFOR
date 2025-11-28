@@ -33,3 +33,16 @@ class EUFOR_Vest_Carrier_Spec_Tropen_Digital: EUFOR_Vest_Carrier_Spec_Base
         mass=180;
     };
 };
+//  TacVest
+class EUFOR_Vest_TacVest_Tropen_Digital: EUFOR_Vest_TacVest_Base
+{
+    author="$STR_EUFOR_Vests_Author";
+    scope=2;
+    displayName="$STR_EUFOR_Vests_Tropen_Digital_Tac";
+    picture="\EUFOR_Vests\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "\EUFOR_Vests\TropenDigital\EUFOR_Vest_Tropen_Digital_TacVest_co.paa"
+    };
+};
+

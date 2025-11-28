@@ -31,6 +31,11 @@
             <English>EUFOR Carrier Special Rig (Flecktarn, Brown)</English>
             <German>EUFOR Flecktarn Spezialtragegurt Braun</German>
         </Key>
+        <Key ID="STR_EUFOR_Vests_Fleck_Tac">
+            <Original>EUFOR Tactical Vest (Flecktarn)</Original>
+            <English>EUFOR Tactical Vest (Flecktarn)</English>
+            <German>EUFOR Flecktarn Taktische Weste</German>
+        </Key>
         <Key ID="STR_EUFOR_Vests_Schnee_Carrier_GL">
             <Original>EUFOR Carrier GL Rig (Snow)</Original>
             <English>EUFOR Carrier GL Rig (Snow)</English>
@@ -40,6 +45,11 @@
             <Original>EUFOR Carrier Special  Rig (Snow)</Original>
             <English>EUFOR Carrier Special  Rig (Snow)</English>
             <German>EUFOR Schneetarn Spezialtragegurt</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Schnee_Tac">
+            <Original>EUFOR Tactical Vest (Snow)</Original>
+            <English>EUFOR Tactical Vest (Snow)</English>
+            <German>EUFOR Schneetarn Taktische Weste</German>
         </Key>
         <Key ID="STR_EUFOR_Vests_Multi_Carrier_GL">
             <Original>EUFOR Carrier GL Rig (Multitarn)</Original>
@@ -51,6 +61,11 @@
             <English>EUFOR Carrier Special Rig (Multitarn)</English>
             <German>EUFOR Multitarn Spezialtragegurt</German>
         </Key>
+        <Key ID="STR_EUFOR_Vests_Multi_Tac">
+            <Original>EUFOR Tactical Vest (Multitarn)</Original>
+            <English>EUFOR Tactical Vest (Multitarn)</English>
+            <German>EUFOR Multitarn Taktische Weste</German>
+        </Key>
         <Key ID="STR_EUFOR_Vests_Tropen_Carrier_GL">
             <Original>EUFOR Carrier GL Rig (Tropentarn)</Original>
             <English>EUFOR Carrier GL Rig (Tropentarn)</English>
@@ -61,6 +76,11 @@
             <English>EUFOR Carrier Special Rig (Tropentarn)</English>
             <German>EUFOR Tropentarn Spezialtragegurt</German>
         </Key>
+        <Key ID="STR_EUFOR_Vests_Tropen_Tac">
+            <Original>EUFOR Tactical Vest (Tropentarn)</Original>
+            <English>EUFOR Tactical Vest (Tropentarn)</English>
+            <German>EUFOR Tropentarn Taktische Weste</German>
+        </Key>
         <Key ID="STR_EUFOR_Vests_Tropen_Digital_Carrier_GL">
             <Original>EUFOR Carrier GL Rig (Digital-Tropentarn)</Original>
             <English>EUFOR Carrier GL Rig (Digital-Tropentarn)</English>
@@ -70,6 +90,11 @@
             <Original>EUFOR Carrier Special Rig (Digital-Tropentarn)</Original>
             <English>EUFOR Carrier Special Rig (Digital-Tropentarn)</English>
             <German>EUFOR Digital Tropentarn Spezialtragegurt</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Tropen_Digital_Tac">
+            <Original>EUFOR Tactical Vest (Digital-Tropentarn)</Original>
+            <English>EUFOR Tactical Vest (Digital-Tropentarn)</English>
+            <German>EUFOR Digital Tropentarn Taktische Weste</German>
         </Key>
     </Package>
 </Project>

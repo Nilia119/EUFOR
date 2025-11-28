@@ -185,6 +185,52 @@ class EUFOR_Vest_Carrier_Spec_Base: EUFOR_Vest_Camo_Base
         };
     };
 };
+class EUFOR_Vest_TacVest_Base: EUFOR_Vest_Camo_Base
+{
+    author="$STR_EUFOR_Vests_Author";
+    scope=0;
+    displayName="EUFOR Taktische Weste Basis";
+    picture="\A3\characters_f\Data\UI\icon_V_TacVest_khk_CA.paa";
+    model="A3\Characters_F\Common\equip_tacticalvest";
+    descriptionShort="$STR_A3_SP_AL_I";
+    hiddenSelectionsTextures[]=
+    {
+        "\A3\Characters_F\Common\Data\tacticalvest_khaki_co.paa"
+    };
+    class ItemInfo: ItemInfo
+    {
+        uniformModel="A3\Characters_F\Common\equip_tacticalvest";
+        containerClass="Supply250";
+        mass=40;
+        class HitpointsProtectionInfo
+        {
+            class Chest
+            {
+                hitpointName="HitChest";
+                armor=8;
+                passThrough=0.5;
+            };
+            class Diaphragm
+            {
+                hitpointName="HitDiaphragm";
+                armor=8;
+                passThrough=0.5;
+            };
+            class Abdomen
+            {
+                hitpointName="HitAbdomen";
+                armor=8;
+                passThrough=0.5;
+            };
+            class Body
+            {
+                hitpointName="HitBody";
+                passThrough=0.5;
+            };
+        };
+    };
+};
+
 //==================================================================================================
 //Class Custom Class
 //Uniformen

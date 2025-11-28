@@ -65,4 +65,29 @@ class EUFOR_Vest_Carrier_Spec_Fleck1: EUFOR_Vest_Carrier_Spec_Base
         containerClass="Supply250";
         mass=180;
     };
+//  TacVest
+class EUFOR_Vest_TacVest_Fleck: EUFOR_Vest_TacVest_Base
+{
+    author="$STR_EUFOR_Vests_Author";
+    scope=2;
+    displayName="$STR_EUFOR_Vests_Fleck_Tac";
+    picture="\EUFOR_Vests\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "\EUFOR_Vests\Fleck\EUFOR_Vest_Fleck_TacVest_co.paa"
+    };
+};
+
+class EUFOR_Vest_TacVest_Fleck1: EUFOR_Vest_TacVest_Base
+{
+    author="$STR_EUFOR_Vests_Author";
+    scope=2;
+    displayName="$STR_EUFOR_Vests_Fleck1_Tac";
+    picture="\EUFOR_Vests\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "\EUFOR_Vests\Fleck\EUFOR_Vest_Fleck1_TacVest_co.paa"
+    };
+};
+
 };
