@@ -36,6 +36,41 @@
             <English>EUFOR Tactical Vest (Flecktarn)</English>
             <German>EUFOR Flecktarn Taktische Weste</German>
         </Key>
+        <Key ID="STR_EUFOR_Vests_Fleck1_Tac">
+            <Original>EUFOR Tactical Vest (Flecktarn, Brown)</Original>
+            <English>EUFOR Tactical Vest (Flecktarn, Brown)</English>
+            <German>EUFOR Flecktarn Taktische Weste Braun</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Fleck_KBT">
+            <Original>EUFOR Modular Vest (Flecktarn) [Contact]</Original>
+            <English>EUFOR Modular Vest (Flecktarn) [Contact]</English>
+            <German>EUFOR Flecktarn Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Fleck1_KBT">
+            <Original>EUFOR Modular Vest (Flecktarn, Brown) [Contact]</Original>
+            <English>EUFOR Modular Vest (Flecktarn, Brown) [Contact]</English>
+            <German>EUFOR Flecktarn Modulare Weste Braun [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Fleck_KBT_L">
+            <Original>EUFOR Light Modular Vest (Flecktarn) [Contact]</Original>
+            <English>EUFOR Light Modular Vest (Flecktarn) [Contact]</English>
+            <German>EUFOR Flecktarn Leichte Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Fleck1_KBT_L">
+            <Original>EUFOR Light Modular Vest (Flecktarn, Brown) [Contact]</Original>
+            <English>EUFOR Light Modular Vest (Flecktarn, Brown) [Contact]</English>
+            <German>EUFOR Flecktarn Leichte Modulare Weste Braun [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Fleck_KBT_H">
+            <Original>EUFOR Heavy Modular Vest (Flecktarn) [Contact]</Original>
+            <English>EUFOR Heavy Modular Vest (Flecktarn) [Contact]</English>
+            <German>EUFOR Flecktarn Schwere Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Fleck1_KBT_H">
+            <Original>EUFOR Heavy Modular Vest (Flecktarn, Brown) [Contact]</Original>
+            <English>EUFOR Heavy Modular Vest (Flecktarn, Brown) [Contact]</English>
+            <German>EUFOR Flecktarn Schwere Modulare Weste Braun [Contact]</German>
+        </Key>
         <Key ID="STR_EUFOR_Vests_Schnee_Carrier_GL">
             <Original>EUFOR Carrier GL Rig (Snow)</Original>
             <English>EUFOR Carrier GL Rig (Snow)</English>
@@ -50,6 +85,21 @@
             <Original>EUFOR Tactical Vest (Snow)</Original>
             <English>EUFOR Tactical Vest (Snow)</English>
             <German>EUFOR Schneetarn Taktische Weste</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Schnee_KBT">
+            <Original>EUFOR Modular Vest (Snow) [Contact]</Original>
+            <English>EUFOR Modular Vest (Snow) [Contact]</English>
+            <German>EUFOR Schneetarn Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Schnee_KBT_L">
+            <Original>EUFOR Light Modular Vest (Snow) [Contact]</Original>
+            <English>EUFOR Light Modular Vest (Snow) [Contact]</English>
+            <German>EUFOR Schneetarn Leichte Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Schnee_KBT_H">
+            <Original>EUFOR Heavy Modular Vest (Snow) [Contact]</Original>
+            <English>EUFOR Heavy Modular Vest (Snow) [Contact]</English>
+            <German>EUFOR Schneetarn Schwere Modulare Weste [Contact]</German>
         </Key>
         <Key ID="STR_EUFOR_Vests_Multi_Carrier_GL">
             <Original>EUFOR Carrier GL Rig (Multitarn)</Original>
@@ -66,6 +116,21 @@
             <English>EUFOR Tactical Vest (Multitarn)</English>
             <German>EUFOR Multitarn Taktische Weste</German>
         </Key>
+        <Key ID="STR_EUFOR_Vests_Multi_KBT">
+            <Original>EUFOR Modular Vest (Multitarn) [Contact]</Original>
+            <English>EUFOR Modular Vest (Multitarn) [Contact]</English>
+            <German>EUFOR Multitarn Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Multi_KBT_L">
+            <Original>EUFOR Light Modular Vest (Multitarn) [Contact]</Original>
+            <English>EUFOR Light Modular Vest (Multitarn) [Contact]</English>
+            <German>EUFOR Multitarn Leichte Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Multi_KBT_H">
+            <Original>EUFOR Heavy Modular Vest (Multitarn) [Contact]</Original>
+            <English>EUFOR Heavy Modular Vest (Multitarn) [Contact]</English>
+            <German>EUFOR Multitarn Schwere Modulare Weste [Contact]</German>
+        </Key>
         <Key ID="STR_EUFOR_Vests_Tropen_Carrier_GL">
             <Original>EUFOR Carrier GL Rig (Tropentarn)</Original>
             <English>EUFOR Carrier GL Rig (Tropentarn)</English>
@@ -81,6 +146,21 @@
             <English>EUFOR Tactical Vest (Tropentarn)</English>
             <German>EUFOR Tropentarn Taktische Weste</German>
         </Key>
+        <Key ID="STR_EUFOR_Vests_Tropen_KBT">
+            <Original>EUFOR Modular Vest (Tropentarn) [Contact]</Original>
+            <English>EUFOR Modular Vest (Tropentarn) [Contact]</English>
+            <German>EUFOR Tropentarn Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Tropen_KBT_L">
+            <Original>EUFOR Light Modular Vest (Tropentarn) [Contact]</Original>
+            <English>EUFOR Light Modular Vest (Tropentarn) [Contact]</English>
+            <German>EUFOR Tropentarn Leichte Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Tropen_KBT_H">
+            <Original>EUFOR Heavy Modular Vest (Tropentarn) [Contact]</Original>
+            <English>EUFOR Heavy Modular Vest (Tropentarn) [Contact]</English>
+            <German>EUFOR Tropentarn Schwere Modulare Weste [Contact]</German>
+        </Key>
         <Key ID="STR_EUFOR_Vests_Tropen_Digital_Carrier_GL">
             <Original>EUFOR Carrier GL Rig (Digital-Tropentarn)</Original>
             <English>EUFOR Carrier GL Rig (Digital-Tropentarn)</English>
@@ -95,6 +175,21 @@
             <Original>EUFOR Tactical Vest (Digital-Tropentarn)</Original>
             <English>EUFOR Tactical Vest (Digital-Tropentarn)</English>
             <German>EUFOR Digital Tropentarn Taktische Weste</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Tropen_Digital_KBT">
+            <Original>EUFOR Modular Vest (Digital-Tropentarn) [Contact]</Original>
+            <English>EUFOR Modular Vest (Digital-Tropentarn) [Contact]</English>
+            <German>EUFOR Digital Tropentarn Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Tropen_Digital_KBT_L">
+            <Original>EUFOR Light Modular Vest (Digital-Tropentarn) [Contact]</Original>
+            <English>EUFOR Light Modular Vest (Digital-Tropentarn) [Contact]</English>
+            <German>EUFOR Digital Tropentarn Leichte Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Tropen_Digital_KBT_H">
+            <Original>EUFOR Heavy Modular Vest (Digital-Tropentarn) [Contact]</Original>
+            <English>EUFOR Heavy Modular Vest (Digital-Tropentarn) [Contact]</English>
+            <German>EUFOR Digital Tropentarn Schwere Modulare Weste [Contact]</German>
         </Key>
     </Package>
 </Project>

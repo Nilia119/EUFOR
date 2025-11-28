@@ -46,3 +46,37 @@ class EUFOR_Vest_TacVest_Multi: EUFOR_Vest_TacVest_Base
     };
 };
 
+//  Enoch KBT
+class EUFOR_Vest_KBT_Multi: EUFOR_Vest_KBT_Base
+{
+    author="$STR_EUFOR_Vests_Author";
+    scope=2;
+    displayName="$STR_EUFOR_Vests_Multi_KBT";
+    picture="\EUFOR_Vests\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "\EUFOR_Vests\Multi\EUFOR_Vest_Multi_KBT_co.paa"
+    };
+};
+class EUFOR_Vest_KBT_Light_Multi: EUFOR_Vest_KBT_Light_Base
+{
+    author="$STR_EUFOR_Vests_Author";
+    scope=2;
+    displayName="$STR_EUFOR_Vests_Multi_KBT_L";
+    picture="\EUFOR_Vests\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "\EUFOR_Vests\Multi\EUFOR_Vest_Multi_KBT_co.paa"
+    };
+};
+class EUFOR_Vest_KBT_Heavy_Multi: EUFOR_Vest_KBT_Heavy_Base
+{
+    author="$STR_EUFOR_Vests_Author";
+    scope=2;
+    displayName="$STR_EUFOR_Vests_Multi_KBT_H";
+    picture="\EUFOR_Vests\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "\EUFOR_Vests\Multi\EUFOR_Vest_Multi_KBT_co.paa"
+    };
+};

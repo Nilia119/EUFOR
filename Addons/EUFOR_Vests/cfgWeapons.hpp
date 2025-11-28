@@ -231,6 +231,121 @@ class EUFOR_Vest_TacVest_Base: EUFOR_Vest_Camo_Base
     };
 };
 
+class EUFOR_Vest_KBT_Base: EUFOR_Vest_Camo_Base
+{
+    author="$STR_EUFOR_Vests_Author";
+    scope=0;
+    displayName="EUFOR KBT Weste Basis";
+    model="\A3\Characters_F_Enoch\Vests\V_CarrierRigKBT_01_F.p3d";
+    descriptionShort="$STR_A3_SP_AL_III";
+    hiddenSelections[]=
+    {
+        "Camo"
+	};
+	class ItemInfo: ItemInfo
+	{
+		uniformModel="\A3\Characters_F_Enoch\Vests\V_CarrierRigKBT_01_F.p3d";
+		hiddenSelections[]=
+		{
+			"Camo"
+		};
+		containerClass="Supply180";
+		mass=160;
+		class HitpointsProtectionInfo
+		{
+			class Chest
+			{
+				hitpointName="HitChest";
+				armor=16;
+				passThrough=0.30000001;
+			};
+			class Diaphragm
+			{
+				hitpointName="HitDiaphragm";
+				armor=16;
+				passThrough=0.30000001;
+			};
+			class Abdomen
+			{
+				hitpointName="HitAbdomen";
+				armor=16;
+				passThrough=0.30000001;
+			};
+			class Body
+			{
+				hitpointName="HitBody";
+				passThrough=0.30000001;
+			};
+		};
+	};
+};
+class EUFOR_Vest_KBT_Light_Base: EUFOR_Vest_KBT_Base
+{
+	model="\A3\Characters_F_Enoch\Vests\V_CarrierRigKBT_01_light_F.p3d";
+	descriptionShort="$STR_A3_SP_AL_III";
+	class ItemInfo: ItemInfo
+	{
+		uniformModel="\A3\Characters_F_Enoch\Vests\V_CarrierRigKBT_01_light_F.p3d";
+		containerClass="Supply250";
+		mass=140;
+	};
+};
+class EUFOR_Vest_KBT_Heavy_Base: EUFOR_Vest_KBT_Base
+{
+	model="\A3\Characters_F_Enoch\Vests\V_CarrierRigKBT_01_heavy_F.p3d";
+	descriptionShort="$STR_A3_SP_ER";
+	class ItemInfo: ItemInfo
+	{
+		uniformModel="\A3\Characters_F_Enoch\Vests\V_CarrierRigKBT_01_heavy_F.p3d";
+		containerClass="Supply250";
+		mass=200;
+		class HitpointsProtectionInfo
+		{
+			class Neck
+			{
+				hitpointName="HitNeck";
+				armor=0.5;
+				passThrough=0.5;
+			};
+			class Arms
+			{
+				hitpointName="HitArms";
+				armor=8;
+				passThrough=0.5;
+			};
+			class Chest
+			{
+				hitpointName="HitChest";
+				armor=16;
+				passThrough=0.60000002;
+			};
+			class Diaphragm
+			{
+				hitpointName="HitDiaphragm";
+				armor=16;
+				passThrough=0.60000002;
+			};
+			class Abdomen
+			{
+				hitpointName="HitAbdomen";
+				armor=16;
+				passThrough=0.30000001;
+			};
+			class Pelvis
+			{
+				hitpointName="HitPelvis";
+				armor=16;
+				passThrough=0.30000001;
+			};
+			class Body
+			{
+				hitpointName="HitBody";
+				passThrough=0.60000002;
+			};
+		};
+	};
+};
+
 //==================================================================================================
 //Class Custom Class
 //Uniformen
