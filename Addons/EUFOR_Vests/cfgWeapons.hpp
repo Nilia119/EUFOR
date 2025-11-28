@@ -185,6 +185,135 @@ class EUFOR_Vest_Carrier_Spec_Base: EUFOR_Vest_Camo_Base
         };
     };
 };
+
+class EUFOR_Vest_Carrier_1_Base: EUFOR_Vest_Camo_Base
+{
+    author = "$STR_EUFOR_Vests_Author";
+    scope = 0;
+    displayName = "EUFOR Weste 1 Basis";
+    picture = "\EUFOR_Vests\WIP.paa";
+    model = "\A3\Characters_F\BLUFOR\equip_b_vest02";
+    descriptionShort = "$STR_A3_SP_AL_IV";
+    hiddenSelections[]=
+    {
+        "camo"
+    };
+    hiddenSelectionsTextures[]=
+    {
+        "\A3\Characters_F\BLUFOR\Data\vests_blk_co.paa"
+    };
+
+    class ItemInfo : ItemInfo {
+        uniformModel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
+        containerClass = "Supply250";
+        mass = 140;
+
+        class HitpointsProtectionInfo {
+            class Chest {
+                hitpointName = "HitChest";
+                armor = 22;
+                passThrough = 0.1;
+                material = -1;
+            };
+
+            class Diaphragm {
+                hitpointName = "HitDiaphragm";
+                armor = 22;
+                passThrough = 0.1;
+                material = -1;
+            };
+
+            class Abdomen {
+                hitpointName = "HitAbdomen";
+                armor = 22;
+                passThrough = 0.1;
+                material = -1;
+            };
+
+            class Body {
+                hitpointName = "HitBody";
+                armor = 22;
+                passThrough = 0.1;
+            };
+        };
+    };
+};
+class EUFOR_Vest_Carrier_2_Base: EUFOR_Vest_Carrier_1_Base
+{
+    author="$STR_EUFOR_Vests_Author";
+	scope=0;
+	displayName="EUFOR Weste 2 Basis";
+    picture="\EUFOR_Vests\WIP.paa";
+	model="\A3\Characters_F\BLUFOR\equip_b_vest01.p3d";
+	descriptionShort="$STR_A3_SP_AL_V";
+    hiddenSelections[]=
+    {
+        "camo"
+    };
+    hiddenSelectionsTextures[]=
+    {
+        "\A3\Characters_F\BLUFOR\Data\vests_blk_co.paa"
+    };
+	class ItemInfo: ItemInfo
+	{
+		uniformModel="\A3\Characters_F\BLUFOR\equip_b_vest01";
+		containerClass="Supply250";
+		mass=140;
+		class HitpointsProtectionInfo
+			{
+				class Chest
+				{
+					HitpointName="HitChest";
+					armor=28;
+					PassThrough=0.2;
+				};
+				class Diaphragm
+				{
+					HitpointName="HitDiaphragm";
+					armor=28;
+					PassThrough=0.2;
+				};
+				class Abdomen
+				{
+					hitpointName="HitAbdomen";
+					armor=28;
+					passThrough=0.2;
+				};
+				class Body
+				{
+					hitpointName="HitBody"; // MUSS/DARF DAS KEINEN ARMOR WERT HABEN????
+                    armor=28;               // Für die vollständigkeit
+					passThrough=0.2;
+				};
+			};
+	};
+};
+
+class EUFOR_Vest_Carrier_3_Base: EUFOR_Vest_Carrier_1_Base
+{
+    author = "$STR_EUFOR_Vests_Author";
+    scope = 0;
+    displayName = "EUFOR Weste 3 Basis";
+    picture = "\EUFOR_Vests\WIP.paa";
+    model="\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry.p3d";
+    descriptionShort = "$STR_A3_SP_AL_IV";
+    hiddenSelections[]=
+    {
+        "camo"
+    };
+    hiddenSelectionsTextures[]=
+    {
+        "\A3\Characters_F\BLUFOR\Data\vests_blk_co.paa"
+    };
+
+    class ItemInfo : ItemInfo {
+        uniformModel="\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry.p3d";
+        containerClass = "Supply250";
+        mass = 140;
+
+    };
+};
+
 class EUFOR_Vest_TacVest_Base: EUFOR_Vest_Camo_Base
 {
     author="$STR_EUFOR_Vests_Author";
