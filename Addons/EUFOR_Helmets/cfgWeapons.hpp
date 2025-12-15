@@ -1,6 +1,7 @@
 class ItemCore;
 class HeadgearItem;
 class H_Beret_CSAT_01_F;
+class NVGoggles;
 
 class EUFOR_Helmets_Beret_Base: H_Beret_CSAT_01_F  {
 
@@ -266,6 +267,82 @@ class EUFOR_Helmets_MilCap_Base: EUFOR_Helmets_HelmetB_Base
         allowedSlots[]={801,901,701,605};
         uniformModel="\A3\Characters_F\Common\cappatrol.p3d";
         modelSides[]={6};
+    };
+};
+
+// Viper Helm
+
+class EUFOR_Integrated_NVG_TI_0: NVGoggles
+{
+    scope=1;
+    visionMode[]=
+    {
+        "Normal",
+        "NVG",
+        "TI"
+    };
+    thermalMode[]={0};
+    modelOptics="";
+};
+class EUFOR_Integrated_NVG_TI_1: NVGoggles
+{
+    scope=1;
+    visionMode[]=
+    {
+        "Normal",
+        "NVG",
+        "TI"
+    };
+    thermalMode[]={0,1,2,3,4,5,6,7};
+    modelOptics="";
+};
+
+class EUFOR_Helmets_Viper_Base: EUFOR_Helmets_HelmetB_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=0;
+    displayName="EUFOR Viper Helmet Base";
+    picture="\A3\Characters_F_Exp\OPFOR\Data\UI\icon_H_HelmetO_ViperSP_hex_F_ca.paa";
+    model="\A3\Characters_F_Exp\OPFOR\headgear_o_vipersp.p3d";
+    ace_hearing_hasEHP = 1;
+    descriptionShort="$STR_A3_SP_AL_V";
+    hiddenSelections[]=
+    {
+        "camo"
+    };
+    hiddenSelectionsTextures[]=
+    {
+        "\A3\Characters_F_Exp\OPFOR\Data\headgear_vipersp_alt_co.paa"
+    };
+    class ItemInfo: HeadgearItem
+    {
+        mass=80;
+        allowedSlots[]={801,901,701,605};
+        uniformModel="\A3\Characters_F_Exp\OPFOR\headgear_o_vipersp.p3d";
+        hiddenSelections[]=
+        {
+            "camo"
+        };
+        modelSides[]={0,3};
+        class HitpointsProtectionInfo
+        {
+            class Head
+            {
+                hitpointName="HitHead";
+                armor=14;
+                passThrough=0.5;
+            };
+            class Face
+            {
+                hitpointName="HitFace";
+                armor=10;
+                passThrough=0.5;
+            };
+        };
+    };
+    subItems[]=
+    {
+        "EUFOR_Integrated_NVG_TI_0"
     };
 };
 

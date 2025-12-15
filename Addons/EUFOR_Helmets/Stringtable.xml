@@ -51,6 +51,16 @@
                 <English>EUFOR Military Cap (Flecktarn)</English>
                 <German>EUFOR Feldmütze Flecktarn</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_Viper">
+                <Original>EUFOR Special Purpose Helmet (Flecktarn) [Apex]</Original>
+                <English>EUFOR Special Purpose Helmet (Flecktarn)[Apex]</English>
+                <German>EUFOR Viperhelm Flecktarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_Viper_Spec">
+                <Original>EUFOR Special Purpose Helmet+ (Flecktarn) [Apex]</Original>
+                <English>EUFOR Special Purpose Helmet+ (Flecktarn) [Apex]</English>
+                <German>EUFOR Viper Spezialhelm Flecktarn [Apex]</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_Multi_HelmetB">
                 <Original>EUFOR Combat Helmet (Multitarn)</Original>
                 <English>EUFOR Combat Helmet (Multitarn)</English>
@@ -85,6 +95,16 @@
                 <Original>EUFOR Military Cap (Multitarn)</Original>
                 <English>EUFOR Military Cap (Multitarn)</English>
                 <German>EUFOR Feldmütze Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_Viper">
+                <Original>EUFOR Special Purpose Helmet (Multitarn) [Apex]</Original>
+                <English>EUFOR Special Purpose Helmet (Multitarn)[Apex]</English>
+                <German>EUFOR Viperhelm Multitarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_Viper_Spec">
+                <Original>EUFOR Special Purpose Helmet+ (Multitarn) [Apex]</Original>
+                <English>EUFOR Special Purpose Helmet+ (Multitarn) [Apex]</English>
+                <German>EUFOR Viper Spezialhelm Multitarn [Apex]</German>
             </Key>
             <Key ID="STR_EUFOR_Helmets_Schnee_HelmetB">
                 <Original>EUFOR Combat Helmet (Snow)</Original>
@@ -121,6 +141,16 @@
                 <English>EUFOR Military Cap (Snow)</English>
                 <German>EUFOR Feldmütze Schneetarn</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_Viper">
+                <Original>EUFOR Special Purpose Helmet (Snow) [Apex]</Original>
+                <English>EUFOR Special Purpose Helmet (Snow)[Apex]</English>
+                <German>EUFOR Viperhelm Schneetarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_Viper_Spec">
+                <Original>EUFOR Special Purpose Helmet+ (Snow) [Apex]</Original>
+                <English>EUFOR Special Purpose Helmet+ (Snow) [Apex]</English>
+                <German>EUFOR Viper Spezialhelm Schneetarn [Apex]</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_Tropen_HelmetB">
                 <Original>EUFOR Combat Helmet (Tropentarn)</Original>
                 <English>EUFOR Combat Helmet (Tropentarn)</English>
@@ -156,6 +186,16 @@
                 <English>EUFOR Military Cap (Tropentarn)</English>
                 <German>EUFOR Feldmütze Tropentarn</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_Viper">
+                <Original>EUFOR Special Purpose Helmet (Tropentarn) [Apex]</Original>
+                <English>EUFOR Special Purpose Helmet (Tropentarn)[Apex]</English>
+                <German>EUFOR Viperhelm Tropentarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_Viper_Spec">
+                <Original>EUFOR Special Purpose Helmet+ (Tropentarn) [Apex]</Original>
+                <English>EUFOR Special Purpose Helmet+ (Tropentarn) [Apex]</English>
+                <German>EUFOR Viper Spezialhelm Tropentarn [Apex]</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_TropenD_HelmetB">
                 <Original>EUFOR Combat Helmet (Digital-Tropentarn)</Original>
                 <English>EUFOR Combat Helmet (Digital-Tropentarn)</English>
@@ -190,6 +230,16 @@
                 <Original>EUFOR Military Cap (Digital-Tropentarn)</Original>
                 <English>EUFOR Military Cap (Digital-Tropentarn)</English>
                 <German>EUFOR Feldmütze Digital Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_TropenD_Viper">
+                <Original>EUFOR Special Purpose Helmet (Digital-Tropentarn) [Apex]</Original>
+                <English>EUFOR Special Purpose Helmet (Digital-Tropentarn)[Apex]</English>
+                <German>EUFOR Viperhelm Digital Tropentarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_TropenD_Viper_Spec">
+                <Original>EUFOR Special Purpose Helmet+ (Digital-Tropentarn) [Apex]</Original>
+                <English>EUFOR Special Purpose Helmet+ (Digital-Tropentarn) [Apex]</English>
+                <German>EUFOR Viper Spezialhelm Digital Tropentarn [Apex]</German>
             </Key>
     </Package>
 </Project>
