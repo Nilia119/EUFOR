@@ -118,3 +118,35 @@ class EUFOR_Helmets_MilCap_Tropen: EUFOR_Helmets_MilCap_Base
     };
 };
 
+// Viper
+
+class EUFOR_Helmets_Viper_Tropen: EUFOR_Helmets_Viper_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Tropen_Viper";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_Viper_co.paa"
+    };
+};
+
+class EUFOR_Helmets_Viper_Tropen_Spec: EUFOR_Helmets_Viper_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Tropen_Viper_Spec";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_Viper_co.paa"
+    };
+    subItems[]=
+    {
+        "EUFOR_Integrated_NVG_TI_1"
+    };
+};
+
