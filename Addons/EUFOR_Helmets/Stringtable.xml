@@ -36,6 +36,11 @@
                 <English>EUFOR Combat Helmet (Camo, Flecktarn)</English>
                 <German>EUFOR Kampfhelm Tarn Flecktarn</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_HelmetIA">
+                <Original>EUFOR Modular Helmet (Flecktarn)</Original>
+                <English>EUFOR Modular Helmet (Flecktarn)</English>
+                <German>EUFOR Modularer Helm Flecktarn</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_Multi_HelmetB">
                 <Original>EUFOR Combat Helmet (Multitarn)</Original>
                 <English>EUFOR Combat Helmet (Multitarn)</English>
@@ -55,6 +60,11 @@
                 <Original>EUFOR Combat Helmet (Camo, Multitarn)</Original>
                 <English>EUFOR Combat Helmet (Camo, Multitarn)</English>
                 <German>EUFOR Kampfhelm Tarn Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_HelmetIA">
+                <Original>EUFOR Modular Helmet (Multitarn)</Original>
+                <English>EUFOR Modular Helmet (Multitarn)</English>
+                <German>EUFOR Modularer Helm Multitarn</German>
             </Key>
             <Key ID="STR_EUFOR_Helmets_Schnee_HelmetB">
                 <Original>EUFOR Combat Helmet (Snow)</Original>
@@ -76,6 +86,11 @@
                 <English>EUFOR Combat Helmet (Camo, Snow)</English>
                 <German>EUFOR Kampfhelm Tarn Schneetarn</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_HelmetIA">
+                <Original>EUFOR Modular Helmet (Snow)</Original>
+                <English>EUFOR Modular Helmet (Snow)</English>
+                <German>EUFOR Modularer Helm Schneetarn</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_Tropen_HelmetB">
                 <Original>EUFOR Combat Helmet (Tropentarn)</Original>
                 <English>EUFOR Combat Helmet (Tropentarn)</English>
@@ -96,6 +111,11 @@
                 <English>EUFOR Combat Helmet (Camo, Tropentarn)</English>
                 <German>EUFOR Kampfhelm Tarn Tropentarn</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_HelmetIA">
+                <Original>EUFOR Modular Helmet (Tropentarn)</Original>
+                <English>EUFOR Modular Helmet (Tropentarn)</English>
+                <German>EUFOR Modularer Helm Tropentarn</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_TropenD_HelmetB">
                 <Original>EUFOR Combat Helmet (Digital-Tropentarn)</Original>
                 <English>EUFOR Combat Helmet (Digital-Tropentarn)</English>
@@ -115,6 +135,11 @@
                 <Original>EUFOR Combat Helmet (Camo, Digital-Tropentarn)</Original>
                 <English>EUFOR Combat Helmet (Camo, Digital-Tropentarn)</English>
                 <German>EUFOR Kampfhelm Tarn Digital Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_TropenD_HelmetIA">
+                <Original>EUFOR Modular Helmet (Digital-Tropentarn)</Original>
+                <English>EUFOR Modular Helmet (Digital-Tropentarn)</English>
+                <German>EUFOR Modularer Helm Digital Tropentarn</German>
             </Key>
     </Package>
 </Project>

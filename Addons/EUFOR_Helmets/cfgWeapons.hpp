@@ -170,3 +170,31 @@ class EUFOR_Helmets_HelmetB_Camo_Base: EUFOR_Helmets_HelmetB_Base
     };
 };
 
+class EUFOR_Helmets_HelmetIA_Base: EUFOR_Helmets_HelmetB_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    displayName="EUFOR Helmet IA Base";
+    picture="\A3\characters_F_Beta\Data\UI\icon_H_I_Helmet_canvas_ca.paa";
+    model="\A3\Characters_F_Beta\INDEP\headgear_helmet_canvas";
+    hiddenSelectionsTextures[]=
+    {
+        "\A3\Characters_F_Beta\INDEP\Data\headgear_helmet_canvas_co.paa"
+    };
+    class ItemInfo: ItemInfo
+    {
+        mass=30;
+        allowedSlots[]={801,901,701,605};
+        uniformModel="\A3\Characters_F_Beta\INDEP\headgear_helmet_canvas.p3d";
+        modelSides[]={2,3};
+        class HitpointsProtectionInfo
+        {
+            class Head
+            {
+                hitpointName="HitHead";
+                armor=8;
+                passThrough=0.5;
+            };
+        };
+    };
+};
+

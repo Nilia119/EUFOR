@@ -69,3 +69,22 @@ class EUFOR_Helmets_HelmetB_Camo_Schnee: EUFOR_Helmets_HelmetB_Camo_Base
     };
 };
 
+// Modular Helmet (AAF)
+
+class EUFOR_Helmets_HelmetIA_Schnee: EUFOR_Helmets_HelmetIA_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Schnee_HelmetIA";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelections[]=
+    {
+        "camo"
+    };
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Schnee\EUFOR_Helmets_Schnee_IA_co.paa"
+    };
+};
+

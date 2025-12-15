@@ -69,3 +69,22 @@ class EUFOR_Helmets_HelmetB_Camo_TropenD: EUFOR_Helmets_HelmetB_Camo_Base
     };
 };
 
+// Modular Helmet (AAF)
+
+class EUFOR_Helmets_HelmetIA_TropenD: EUFOR_Helmets_HelmetIA_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_TropenD_HelmetIA";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelections[]=
+    {
+        "camo"
+    };
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\TropenD\EUFOR_Helmets_TropenD_IA_co.paa"
+    };
+};
+
