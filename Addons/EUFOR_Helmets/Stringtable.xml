@@ -96,6 +96,11 @@
                 <English>EUFOR Stealth Balaclava Glasses (Flecktarn) [Apex]</English>
                 <German>EUFOR Tarnsturmhaube mit Brille Flecktarn [Apex]</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_Bandana">
+                <Original>EUFOR Bandana (Flecktarn)</Original>
+                <English>EUFOR Bandana (Flecktarn)</English>
+                <German>EUFOR Bandana Flecktarn</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_Fleck_TI">
                 <Original>EUFOR Stealth Helmet (Flecktarn) [Apex]</Original>
                 <English>EUFOR Stealth Helmet (Flecktarn) [Apex]</English>
@@ -180,6 +185,11 @@
                 <Original>EUFOR Stealth Balaclava Glasses (Multitarn) [Apex]</Original>
                 <English>EUFOR Stealth Balaclava Glasses (Multitarn) [Apex]</English>
                 <German>EUFOR Tarnsturmhaube mit Brille Multitarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_Bandana">
+                <Original>EUFOR Bandana (Multitarn)</Original>
+                <English>EUFOR Bandana (Multitarn)</English>
+                <German>EUFOR Bandana Multitarn</German>
             </Key>
             <Key ID="STR_EUFOR_Helmets_Multi_TI">
                 <Original>EUFOR Stealth Helmet (Multitarn) [Apex]</Original>
@@ -266,6 +276,11 @@
                 <English>EUFOR Stealth Balaclava Glasses (Snow) [Apex]</English>
                 <German>EUFOR Tarnsturmhaube mit Brille Schneetarn [Apex]</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_Bandana">
+                <Original>EUFOR Bandana (Snow)</Original>
+                <English>EUFOR Bandana (Snow)</English>
+                <German>EUFOR Bandana Schneetarn</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_Schnee_TI">
                 <Original>EUFOR Stealth Helmet (Snow) [Apex]</Original>
                 <English>EUFOR Stealth Helmet (Snow) [Apex]</English>
@@ -350,6 +365,11 @@
                 <Original>EUFOR Stealth Balaclava Glasses (Tropentarn) [Apex]</Original>
                 <English>EUFOR Stealth Balaclava Glasses (Tropentarn) [Apex]</English>
                 <German>EUFOR Tarnsturmhaube mit Brille Tropentarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_Bandana">
+                <Original>EUFOR Bandana (Tropentarn)</Original>
+                <English>EUFOR Bandana (Tropentarn)</English>
+                <German>EUFOR Bandana Tropentarn</German>
             </Key>
             <Key ID="STR_EUFOR_Helmets_Tropen_TI">
                 <Original>EUFOR Stealth Helmet (Tropentarn) [Apex]</Original>

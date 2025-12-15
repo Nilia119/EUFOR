@@ -33,3 +33,20 @@ class EUFOR_Helmets_Balaclava_G_Schnee: EUFOR_Helmets_Balaclava_G_Base
     };
 };
 
+//  Bandana
+
+class EUFOR_Helmets_Bandana_Schnee: EUFOR_Helmets_Bandana_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    displayName="$STR_EUFOR_Helmets_Schnee_Bandana";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelections[]=
+    {
+        "camo"
+    };
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Schnee\EUFOR_Helmets_Schnee_Bandana_co.paa"
+    };
+};

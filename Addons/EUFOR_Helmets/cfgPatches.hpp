@@ -115,14 +115,23 @@ class CfgPatches {
         glasses[] = {
                 "EUFOR_Helmets_Balaclava_Base",
                 "EUFOR_Helmets_Balaclava_G_Base",
+                "EUFOR_Helmets_Bandana_Base",
+
                 "EUFOR_Helmets_Balaclava_Fleck",
                 "EUFOR_Helmets_Balaclava_G_Fleck",
+                "EUFOR_Helmets_Bandana_Fleck",
+
                 "EUFOR_Helmets_Balaclava_Multi",
                 "EUFOR_Helmets_Balaclava_G_Multi",
+                "EUFOR_Helmets_Bandana_Multi",
+
                 "EUFOR_Helmets_Balaclava_Schnee",
                 "EUFOR_Helmets_Balaclava_G_Schnee",
+                "EUFOR_Helmets_Bandana_Schnee",
+
                 "EUFOR_Helmets_Balaclava_Tropen",
                 "EUFOR_Helmets_Balaclava_G_Tropen",
+                "EUFOR_Helmets_Bandana_Tropen"
         };
         magazines[] = {};
     };
