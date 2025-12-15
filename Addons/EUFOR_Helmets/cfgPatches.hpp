@@ -12,7 +12,37 @@ class CfgPatches {
         versionStr = "0.0.1";
         versionAr[] = {0,0,1};
         weapons[] = {
+                "EUFOR_Helmets_Beret_Base",
+                "EUFOR_Helmets_HelmetB_Base",
+                "EUFOR_Helmets_HelmetB_Light_Base",
+                "EUFOR_Helmets_HelmetB_Spec_Base",
+                "EUFOR_Helmets_HelmetB_Camo_Base",
                 "EUFOR_Helmets_Beret_EuDef",
+
+                "EUFOR_Helmets_HelmetB_Fleck",
+                "EUFOR_Helmets_HelmetB_Light_Fleck",
+                "EUFOR_Helmets_HelmetB_Spec_Fleck",
+                "EUFOR_Helmets_HelmetB_Camo_Fleck",
+
+                "EUFOR_Helmets_HelmetB_Multi",
+                "EUFOR_Helmets_HelmetB_Light_Multi",
+                "EUFOR_Helmets_HelmetB_Spec_Multi",
+                "EUFOR_Helmets_HelmetB_Camo_Multi",
+
+                "EUFOR_Helmets_HelmetB_Schnee",
+                "EUFOR_Helmets_HelmetB_Light_Schnee",
+                "EUFOR_Helmets_HelmetB_Spec_Schnee",
+                "EUFOR_Helmets_HelmetB_Camo_Schnee",
+
+                "EUFOR_Helmets_HelmetB_Tropen",
+                "EUFOR_Helmets_HelmetB_Light_Tropen",
+                "EUFOR_Helmets_HelmetB_Spec_Tropen",
+                "EUFOR_Helmets_HelmetB_Camo_Tropen",
+
+                "EUFOR_Helmets_HelmetB_TropenD",
+                "EUFOR_Helmets_HelmetB_Light_TropenD",
+                "EUFOR_Helmets_HelmetB_Spec_TropenD",
+                "EUFOR_Helmets_HelmetB_Camo_TropenD",
         };
         magazines[] = {};
     };

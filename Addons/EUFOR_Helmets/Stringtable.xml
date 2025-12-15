@@ -16,5 +16,105 @@
                 <English>Beret of the European Defence Force</English>
                 <German>Barett der European Defence Force</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_HelmetB">
+                <Original>EUFOR Combat Helmet (Flecktarn)</Original>
+                <English>EUFOR Combat Helmet (Flecktarn)</English>
+                <German>EUFOR Kampfhelm Flecktarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_HelmetB_Light">
+                <Original>EUFOR Light Combat Helmet (Flecktarn)</Original>
+                <English>EUFOR Light Combat Helmet (Flecktarn)</English>
+                <German>EUFOR Kampfhelm Flecktarn leicht</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_HelmetB_Spec">
+                <Original>EUFOR Enhanced Combat Helmet (Flecktarn)</Original>
+                <English>EUFOR Enhanced Combat Helmet (Flecktarn)</English>
+                <German>EUFOR Kampfhelm Flecktarn verbessert</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_HelmetB_Camo">
+                <Original>EUFOR Combat Helmet (Camo, Flecktarn)</Original>
+                <English>EUFOR Combat Helmet (Camo, Flecktarn)</English>
+                <German>EUFOR Kampfhelm Tarn Flecktarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_HelmetB">
+                <Original>EUFOR Combat Helmet (Multitarn)</Original>
+                <English>EUFOR Combat Helmet (Multitarn)</English>
+                <German>EUFOR Kampfhelm Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_HelmetB_Light">
+                <Original>EUFOR Light Combat Helmet (Multitarn)</Original>
+                <English>EUFOR Light Combat Helmet (Multitarn)</English>
+                <German>EUFOR Kampfhelm Multitarn leicht</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_HelmetB_Spec">
+                <Original>EUFOR Enhanced Combat Helmet (Multitarn)</Original>
+                <English>EUFOR Enhanced Combat Helmet (Multitarn)</English>
+                <German>EUFOR Kampfhelm Multitarn verbessert</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_HelmetB_Camo">
+                <Original>EUFOR Combat Helmet (Camo, Multitarn)</Original>
+                <English>EUFOR Combat Helmet (Camo, Multitarn)</English>
+                <German>EUFOR Kampfhelm Tarn Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_HelmetB">
+                <Original>EUFOR Combat Helmet (Snow)</Original>
+                <English>EUFOR Combat Helmet (Snow)</English>
+                <German>EUFOR Kampfhelm Schneetarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_HelmetB_Light">
+                <Original>EUFOR Light Combat Helmet (Snow)</Original>
+                <English>EUFOR Light Combat Helmet (Snow)</English>
+                <German>EUFOR Kampfhelm Schneetarn leicht</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_HelmetB_Spec">
+                <Original>EUFOR Enhanced Combat Helmet (Snow)</Original>
+                <English>EUFOR Enhanced Combat Helmet (Snow)</English>
+                <German>EUFOR Kampfhelm Schneetarn verbessert</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_HelmetB_Camo">
+                <Original>EUFOR Combat Helmet (Camo, Snow)</Original>
+                <English>EUFOR Combat Helmet (Camo, Snow)</English>
+                <German>EUFOR Kampfhelm Tarn Schneetarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_HelmetB">
+                <Original>EUFOR Combat Helmet (Tropentarn)</Original>
+                <English>EUFOR Combat Helmet (Tropentarn)</English>
+                <German>EUFOR Kampfhelm Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_HelmetB_Light">
+                <Original>EUFOR Light Combat Helmet (Tropentarn)</Original>
+                <English>EUFOR Light Combat Helmet (Tropentarn)</English>
+                <German>EUFOR Kampfhelm Tropentarn leicht</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_HelmetB_Spec">
+                <Original>EUFOR Enhanced Combat Helmet (Tropentarn)</Original>
+                <English>EUFOR Enhanced Combat Helmet (Tropentarn)</English>
+                <German>EUFOR Kampfhelm Tropentarn verbessert</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_HelmetB_Camo">
+                <Original>EUFOR Combat Helmet (Camo, Tropentarn)</Original>
+                <English>EUFOR Combat Helmet (Camo, Tropentarn)</English>
+                <German>EUFOR Kampfhelm Tarn Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_TropenD_HelmetB">
+                <Original>EUFOR Combat Helmet (Digital-Tropentarn)</Original>
+                <English>EUFOR Combat Helmet (Digital-Tropentarn)</English>
+                <German>EUFOR Kampfhelm Digital Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_TropenD_HelmetB_Light">
+                <Original>EUFOR Light Combat Helmet (Digital-Tropentarn)</Original>
+                <English>EUFOR Light Combat Helmet (Digital-Tropentarn)</English>
+                <German>EUFOR Kampfhelm Digital Tropentarn leicht</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_TropenD_HelmetB_Spec">
+                <Original>EUFOR Enhanced Combat Helmet (Digital-Tropentarn)</Original>
+                <English>EUFOR Enhanced Combat Helmet (Digital-Tropentarn)</English>
+                <German>EUFOR Kampfhelm Digital Tropentarn verbessert</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_TropenD_HelmetB_Camo">
+                <Original>EUFOR Combat Helmet (Camo, Digital-Tropentarn)</Original>
+                <English>EUFOR Combat Helmet (Camo, Digital-Tropentarn)</English>
+                <German>EUFOR Kampfhelm Tarn Digital Tropentarn</German>
+            </Key>
     </Package>
 </Project>

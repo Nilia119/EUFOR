@@ -31,3 +31,142 @@ class EUFOR_Helmets_Beret_Base: H_Beret_CSAT_01_F  {
         };
     };
 };
+
+
+
+class EUFOR_Helmets_HelmetB_Base: ItemCore
+	{
+		author="$STR_EUFOR_Helmets_Author";
+		scope=0;
+		weaponPoolAvailable=1;
+		displayName="EUFOR Helmet B Base";
+		picture="\A3\characters_f\Data\UI\icon_H_helmet_plain_ca.paa";
+		model="\A3\Characters_F\BLUFOR\headgear_b_helmet_plain";
+        ctab_camera=1;
+        grad_slingHelmet_allow = true;
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\BLUFOR\Data\equip1_co.paa"
+		};
+		descriptionShort="$STR_A3_SP_AL_III";
+		class ItemInfo: HeadgearItem
+		{
+			mass=30;
+            allowedSlots[]={801,901,701,605};
+			uniformModel="\A3\Characters_F\BLUFOR\headgear_b_helmet_plain";
+			modelSides[]={3,1};
+			hiddenSelections[]=
+			{
+				"camo"
+			};
+			class HitpointsProtectionInfo
+			{
+				class Head
+				{
+					hitpointName="HitHead";
+					armor=8;
+					passThrough=0.5;
+				};
+			};
+		};
+	};
+
+class EUFOR_Helmets_HelmetB_Light_Base: EUFOR_Helmets_HelmetB_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    picture="\A3\Characters_F\data\ui\icon_H_HelmetB_light_ca.paa";
+    displayName="EUFOR Helmet B Light Base";
+    model="\A3\Characters_F\BLUFOR\headgear_b_helmet_light";
+    descriptionShort="$STR_A3_SP_AL_II";
+    ace_hearing_hasEHP = 1;
+    class ItemInfo: ItemInfo
+    {
+        mass=20;
+        allowedSlots[]={801,901,701,605};
+        uniformModel="\A3\Characters_F\BLUFOR\headgear_b_helmet_light";
+        class HitpointsProtectionInfo
+        {
+            class Head
+            {
+                hitpointName="HitHead";
+                armor=6;
+                passThrough=0.5;
+            };
+        };
+    };
+};
+
+class EUFOR_Helmets_HelmetB_Spec_Base: EUFOR_Helmets_HelmetB_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    picture="\A3\characters_f\Data\UI\icon_H_HelmetB_CA.paa";
+    displayName="EUFOR Helmet B Special Base";
+    model="\A3\Characters_F\BLUFOR\headgear_b_helmet_ballistic";
+    descriptionShort="$STR_A3_SP_AL_IV";
+    ace_hearing_hasEHP = 1;
+    hiddenSelectionsTextures[]=
+    {
+        "\A3\Characters_F\BLUFOR\Data\equip1_co.paa"
+    };
+        class ItemInfo: ItemInfo
+    {
+        mass=50;
+        allowedSlots[]={801,901,701,605};
+        uniformModel="\A3\Characters_F\BLUFOR\headgear_b_helmet_ballistic";
+        modelSides[]={3,1};
+        class HitpointsProtectionInfo
+        {
+            class Head
+            {
+                hitpointName="HitHead";
+                armor=10;
+                passThrough=0.5;
+            };
+        };
+    };
+};
+
+class EUFOR_Helmets_HelmetB_Camo_Base: EUFOR_Helmets_HelmetB_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    displayName="EUFOR Helmet B Camo Base";
+    model="\A3\Characters_F\BLUFOR\headgear_b_helmet_camo";
+    picture="\A3\Characters_F\data\ui\icon_H_HelmetB_camo_ca.paa";
+    ace_hearing_hasEHP = 1;
+    hiddenSelections[]=
+    {
+        "camo1",
+        "camo2"
+    };
+    hiddenSelectionsTextures[]=
+    {
+        "\A3\Characters_f\BLUFOR\Data\equip1_co.paa",
+                "\A3\characters_f\common\data\ghillie2_co.paa"
+    };
+    class ItemInfo: HeadgearItem
+    {
+        mass=40;
+        allowedSlots[]={801,901,701,605};
+        uniformModel="\A3\Characters_F\BLUFOR\headgear_b_helmet_camo";
+        modelSides[]={3,1};
+        hiddenSelections[]=
+        {
+            "camo1",
+            "camo2"
+        };
+        class HitpointsProtectionInfo
+        {
+            class Head
+            {
+                hitpointName="HitHead";
+                armor=8;
+                passThrough=0.5;
+            };
+        };
+    };
+};
+
