@@ -198,3 +198,54 @@ class EUFOR_Helmets_HelmetIA_Base: EUFOR_Helmets_HelmetB_Base
     };
 };
 
+class EUFOR_Helmets_Boonie_Base: EUFOR_Helmets_HelmetB_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=0;
+    displayName="EUFOR Helmet Boonie Base";
+    picture="\A3\characters_f\Data\UI\icon_H_booniehat_desert_ca.paa";
+    model="\A3\Characters_F\Common\booniehat";
+    hiddenSelectionsTextures[]=
+    {
+        "\A3\Characters_F_Bootcamp\Civil\Data\booniehat_khk_co.paa"
+    };
+    allowedFacewear[]=
+    {
+        "",
+                6.5,
+                "G_Aviator",
+                1,
+                "G_Bandanna_aviator",
+                1,
+                "G_Bandanna_beast",
+                1,
+                "G_Bandanna_blk",
+                1,
+                "G_Bandanna_khk",
+                1,
+                "G_Bandanna_oli",
+                1,
+                "G_Bandanna_shades",
+                1,
+                "G_Bandanna_sport",
+                1,
+                "G_Bandanna_tan",
+                1,
+                "G_Shades_Black",
+                1,
+                "G_Shades_Blue",
+                1,
+                "G_Shades_Red",
+                1,
+                "G_Shades_Green",
+                1
+    };
+    class ItemInfo: ItemInfo
+    {
+        mass=2;
+        allowedSlots[]={801,901,701,605};
+        uniformModel="\A3\Characters_F\Common\booniehat";
+        modelSides[]={6};
+    };
+};
+

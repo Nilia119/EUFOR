@@ -19,6 +19,7 @@ class CfgPatches {
                 "EUFOR_Helmets_HelmetB_Spec_Base",
                 "EUFOR_Helmets_HelmetB_Camo_Base",
                 "EUFOR_Helmets_HelmetIA_Base",
+                "EUFOR_Helmets_Boonie_Base",
                 "EUFOR_Helmets_Beret_EuDef",
 
                 "EUFOR_Helmets_HelmetB_Fleck",
@@ -26,30 +27,35 @@ class CfgPatches {
                 "EUFOR_Helmets_HelmetB_Spec_Fleck",
                 "EUFOR_Helmets_HelmetB_Camo_Fleck",
                 "EUFOR_Helmets_HelmetIA_Fleck",
+                "EUFOR_Helmets_Boonie_Fleck",
 
                 "EUFOR_Helmets_HelmetB_Multi",
                 "EUFOR_Helmets_HelmetB_Light_Multi",
                 "EUFOR_Helmets_HelmetB_Spec_Multi",
                 "EUFOR_Helmets_HelmetB_Camo_Multi",
                 "EUFOR_Helmets_HelmetIA_Multi",
+                "EUFOR_Helmets_Boonie_Multi",
 
                 "EUFOR_Helmets_HelmetB_Schnee",
                 "EUFOR_Helmets_HelmetB_Light_Schnee",
                 "EUFOR_Helmets_HelmetB_Spec_Schnee",
                 "EUFOR_Helmets_HelmetB_Camo_Schnee",
                 "EUFOR_Helmets_HelmetIA_Schnee",
+                "EUFOR_Helmets_Boonie_Schnee",
 
                 "EUFOR_Helmets_HelmetB_Tropen",
                 "EUFOR_Helmets_HelmetB_Light_Tropen",
                 "EUFOR_Helmets_HelmetB_Spec_Tropen",
                 "EUFOR_Helmets_HelmetB_Camo_Tropen",
                 "EUFOR_Helmets_HelmetIA_Tropen",
+                "EUFOR_Helmets_Boonie_Tropen",
 
                 "EUFOR_Helmets_HelmetB_TropenD",
                 "EUFOR_Helmets_HelmetB_Light_TropenD",
                 "EUFOR_Helmets_HelmetB_Spec_TropenD",
                 "EUFOR_Helmets_HelmetB_Camo_TropenD",
                 "EUFOR_Helmets_HelmetIA_TropenD",
+                "EUFOR_Helmets_Boonie_TropenD",
         };
         magazines[] = {};
     };

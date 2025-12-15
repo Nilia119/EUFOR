@@ -41,6 +41,11 @@
                 <English>EUFOR Modular Helmet (Flecktarn)</English>
                 <German>EUFOR Modularer Helm Flecktarn</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_Boonie">
+                <Original>EUFOR Booniehat (Flecktarn)</Original>
+                <English>EUFOR Booniehat (Flecktarn)</English>
+                <German>EUFOR Buschhut Flecktarn</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_Multi_HelmetB">
                 <Original>EUFOR Combat Helmet (Multitarn)</Original>
                 <English>EUFOR Combat Helmet (Multitarn)</English>
@@ -65,6 +70,11 @@
                 <Original>EUFOR Modular Helmet (Multitarn)</Original>
                 <English>EUFOR Modular Helmet (Multitarn)</English>
                 <German>EUFOR Modularer Helm Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_Boonie">
+                <Original>EUFOR Booniehat (Multitarn)</Original>
+                <English>EUFOR Booniehat (Multitarn)</English>
+                <German>EUFOR Buschhut Multitarn</German>
             </Key>
             <Key ID="STR_EUFOR_Helmets_Schnee_HelmetB">
                 <Original>EUFOR Combat Helmet (Snow)</Original>
@@ -91,6 +101,11 @@
                 <English>EUFOR Modular Helmet (Snow)</English>
                 <German>EUFOR Modularer Helm Schneetarn</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_Boonie">
+                <Original>EUFOR Booniehat (Snow)</Original>
+                <English>EUFOR Booniehat (Snow)</English>
+                <German>EUFOR Buschhut Schneetarn</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_Tropen_HelmetB">
                 <Original>EUFOR Combat Helmet (Tropentarn)</Original>
                 <English>EUFOR Combat Helmet (Tropentarn)</English>
@@ -116,6 +131,11 @@
                 <English>EUFOR Modular Helmet (Tropentarn)</English>
                 <German>EUFOR Modularer Helm Tropentarn</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_Boonie">
+                <Original>EUFOR Booniehat (Tropentarn)</Original>
+                <English>EUFOR Booniehat (Tropentarn)</English>
+                <German>EUFOR Buschhut Tropentarn</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_TropenD_HelmetB">
                 <Original>EUFOR Combat Helmet (Digital-Tropentarn)</Original>
                 <English>EUFOR Combat Helmet (Digital-Tropentarn)</English>
@@ -140,6 +160,11 @@
                 <Original>EUFOR Modular Helmet (Digital-Tropentarn)</Original>
                 <English>EUFOR Modular Helmet (Digital-Tropentarn)</English>
                 <German>EUFOR Modularer Helm Digital Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_TropenD_Boonie">
+                <Original>EUFOR Booniehat (Digital-Tropentarn)</Original>
+                <English>EUFOR Booniehat (Digital-Tropentarn)</English>
+                <German>EUFOR Buschhut Digital Tropentarn</German>
             </Key>
     </Package>
 </Project>

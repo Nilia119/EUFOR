@@ -88,3 +88,18 @@ class EUFOR_Helmets_HelmetIA_Schnee: EUFOR_Helmets_HelmetIA_Base
     };
 };
 
+//  Boonie
+
+class EUFOR_Helmets_Boonie_Schnee: EUFOR_Helmets_Boonie_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Schnee_Boonie";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Schnee\EUFOR_Helmets_Schnee_Boonie_co.paa"
+    };
+};
+

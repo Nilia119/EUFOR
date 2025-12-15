@@ -88,3 +88,18 @@ class EUFOR_Helmets_HelmetIA_TropenD: EUFOR_Helmets_HelmetIA_Base
     };
 };
 
+//  Boonie
+
+class EUFOR_Helmets_Boonie_TropenD: EUFOR_Helmets_Boonie_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_TropenD_Boonie";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\TropenD\EUFOR_Helmets_TropenD_Boonie_co.paa"
+    };
+};
+

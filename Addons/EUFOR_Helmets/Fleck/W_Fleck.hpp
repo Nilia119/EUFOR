@@ -88,3 +88,18 @@ class EUFOR_Helmets_HelmetIA_Fleck: EUFOR_Helmets_HelmetIA_Base
     };
 };
 
+//  Boonie
+
+class EUFOR_Helmets_Boonie_Fleck: EUFOR_Helmets_Boonie_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Fleck_Boonie";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Fleck\EUFOR_Helmets_Fleck_Boonie_co.paa"
+    };
+};
+
