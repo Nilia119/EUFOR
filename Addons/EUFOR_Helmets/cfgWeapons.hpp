@@ -249,3 +249,23 @@ class EUFOR_Helmets_Boonie_Base: EUFOR_Helmets_HelmetB_Base
     };
 };
 
+class EUFOR_Helmets_MilCap_Base: EUFOR_Helmets_HelmetB_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=0;
+    displayName="EUFOR Military Cap Base";
+    picture="\A3\Characters_F_Bootcamp\Data\UI\icon_H_MilCap_ocamo_ca.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "\A3\Characters_F\Common\Data\cappatrol_ocamo_co.paa"
+    };
+    model="\A3\Characters_F\Common\cappatrol";
+    class ItemInfo: ItemInfo
+    {
+        mass=3;
+        allowedSlots[]={801,901,701,605};
+        uniformModel="\A3\Characters_F\Common\cappatrol.p3d";
+        modelSides[]={6};
+    };
+};
+

@@ -103,3 +103,18 @@ class EUFOR_Helmets_Boonie_Fleck: EUFOR_Helmets_Boonie_Base
     };
 };
 
+// Military Cap
+
+class EUFOR_Helmets_MilCap_Fleck: EUFOR_Helmets_MilCap_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Fleck_MilCap";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Fleck\EUFOR_Helmets_Fleck_MilCap_co.paa"
+    };
+};
+
