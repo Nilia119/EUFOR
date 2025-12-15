@@ -438,3 +438,61 @@ class EUFOR_Helmets_HBK_Chops_Base: EUFOR_Helmets_HBK_Base
     };
 };
 
+//  CTRG Helmet
+
+class EUFOR_Helmets_HelmetB_TI_Base: EUFOR_Helmets_HelmetB_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    picture="\A3\Characters_F_Exp\BLUFOR\Data\UI\icon_H_HelmetB_TI_tna_F_ca.paa";
+    model="\A3\Characters_F_Exp\BLUFOR\H_HelmetB_TI_tna_F.p3d";
+    descriptionShort="$STR_A3_SP_AL_II";
+    ace_hearing_hasEHP = 1;
+    hiddenSelections[]=
+    {
+        "camo"
+    };
+    hiddenSelectionsTextures[]=
+    {
+        "\A3\Characters_F_Exp\BLUFOR\Data\H_HelmetB_TI_tna_F_co.paa"
+    };
+    hiddenSelectionsMaterials[]=
+    {
+        "\A3\Characters_F_Exp\BLUFOR\Data\H_HelmetB_TI_tna_F.rvmat"
+    };
+    class ItemInfo: HeadgearItem
+    {
+        allowedSlots[]={801,901,701,605};
+        mass=50;
+        uniformModel="\A3\Characters_F_Exp\BLUFOR\H_HelmetB_TI_tna_F.p3d";
+        hiddenSelections[]=
+        {
+            "camo"
+        };
+        modelSides[]={0,3};
+        class HitpointsProtectionInfo
+        {
+            class Head
+            {
+                hitpointName="HitHead";
+                armor=8;
+                passThrough=0.5;
+            };
+            class Face
+            {
+                hitpointName="HitFace";
+                armor=6;
+                passThrough=0.5;
+            };
+        };
+    };
+};
+
+// Includes
+
+#include "\EUFOR_Helmets\Beret\W_Beret.hpp"
+#include "\EUFOR_Helmets\Fleck\W_Fleck.hpp"
+#include "\EUFOR_Helmets\Multi\W_Multi.hpp"
+#include "\EUFOR_Helmets\Schnee\W_Schnee.hpp"
+#include "\EUFOR_Helmets\Tropen\W_Tropen.hpp"
+#include "\EUFOR_Helmets\TropenD\W_TropenD.hpp"
+

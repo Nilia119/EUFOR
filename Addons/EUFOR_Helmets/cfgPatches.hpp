@@ -28,6 +28,8 @@ class CfgPatches {
                 "EUFOR_Helmets_HBK_Headset_Base",
                 "EUFOR_Helmets_HBK_Ear_Base",
                 "EUFOR_Helmets_HBK_Chops_Base",
+                "EUFOR_Helmets_PASGT_Base",
+                "EUFOR_Helmets_HelmetB_TI_Base",
 
                 "EUFOR_Helmets_Beret_EuDef",
 
@@ -44,6 +46,8 @@ class CfgPatches {
                 "EUFOR_Helmets_HBK_Headset_Fleck",
                 "EUFOR_Helmets_HBK_Ear_Fleck",
                 "EUFOR_Helmets_HBK_Chops_Fleck",
+                "EUFOR_Helmets_PASGT_Fleck",
+                "EUFOR_Helmets_HelmetB_TI_Fleck",
 
                 "EUFOR_Helmets_HelmetB_Multi",
                 "EUFOR_Helmets_HelmetB_Light_Multi",
@@ -58,6 +62,8 @@ class CfgPatches {
                 "EUFOR_Helmets_HBK_Headset_Multi",
                 "EUFOR_Helmets_HBK_Ear_Multi",
                 "EUFOR_Helmets_HBK_Chops_Multi",
+                "EUFOR_Helmets_PASGT_Multi",
+                "EUFOR_Helmets_HelmetB_TI_Multi",
 
                 "EUFOR_Helmets_HelmetB_Schnee",
                 "EUFOR_Helmets_HelmetB_Light_Schnee",
@@ -72,6 +78,8 @@ class CfgPatches {
                 "EUFOR_Helmets_HBK_Headset_Schnee",
                 "EUFOR_Helmets_HBK_Ear_Schnee",
                 "EUFOR_Helmets_HBK_Chops_Schnee",
+                "EUFOR_Helmets_PASGT_Schnee",
+                "EUFOR_Helmets_HelmetB_TI_Schnee",
 
                 "EUFOR_Helmets_HelmetB_Tropen",
                 "EUFOR_Helmets_HelmetB_Light_Tropen",
@@ -86,6 +94,8 @@ class CfgPatches {
                 "EUFOR_Helmets_HBK_Headset_Tropen",
                 "EUFOR_Helmets_HBK_Ear_Tropen",
                 "EUFOR_Helmets_HBK_Chops_Tropen",
+                "EUFOR_Helmets_PASGT_Tropen",
+                "EUFOR_Helmets_HelmetB_TI_Tropen",
 
                 "EUFOR_Helmets_HelmetB_TropenD",
                 "EUFOR_Helmets_HelmetB_Light_TropenD",
@@ -100,6 +110,19 @@ class CfgPatches {
                 "EUFOR_Helmets_HBK_Headset_TropenD",
                 "EUFOR_Helmets_HBK_Ear_TropenD",
                 "EUFOR_Helmets_HBK_Chops_TropenD",
+                "EUFOR_Helmets_HelmetB_TI_TropenD"
+        };
+        glasses[] = {
+                "EUFOR_Helmets_Balaclava_Base",
+                "EUFOR_Helmets_Balaclava_G_Base",
+                "EUFOR_Helmets_Balaclava_Fleck",
+                "EUFOR_Helmets_Balaclava_G_Fleck",
+                "EUFOR_Helmets_Balaclava_Multi",
+                "EUFOR_Helmets_Balaclava_G_Multi",
+                "EUFOR_Helmets_Balaclava_Schnee",
+                "EUFOR_Helmets_Balaclava_G_Schnee",
+                "EUFOR_Helmets_Balaclava_Tropen",
+                "EUFOR_Helmets_Balaclava_G_Tropen",
         };
         magazines[] = {};
     };

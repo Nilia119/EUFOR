@@ -81,6 +81,21 @@
                 <English>EUFOR Advanced Modular Helmet, Chops (Flecktarn) [Contact]</English>
                 <German>EUFOR Fortgeschrittener, modularer Helm mit Kotletten Flecktarn [Contact]</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_Balaclava">
+                <Original>EUFOR Stealth Balaclava (Flecktarn) [Apex]</Original>
+                <English>EUFOR Stealth Balaclava (Flecktarn) [Apex]</English>
+                <German>EUFOR Tarnsturmhaube Flecktarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_Balaclava_G">
+                <Original>EUFOR Stealth Balaclava Glasses (Flecktarn) [Apex]</Original>
+                <English>EUFOR Stealth Balaclava Glasses (Flecktarn) [Apex]</English>
+                <German>EUFOR Tarnsturmhaube mit Brille Flecktarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_TI">
+                <Original>EUFOR Stealth Helmet (Flecktarn) [Apex]</Original>
+                <English>EUFOR Stealth Helmet (Flecktarn) [Apex]</English>
+                <German>EUFOR Tarn-Kampfhelm Flecktarn [Apex]</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_Multi_HelmetB">
                 <Original>EUFOR Combat Helmet (Multitarn)</Original>
                 <English>EUFOR Combat Helmet (Multitarn)</English>
@@ -145,6 +160,21 @@
                 <Original>EUFOR Advanced Modular Helmet, Chops (Multitarn) [Contact]</Original>
                 <English>EUFOR Advanced Modular Helmet, Chops (Multitarn) [Contact]</English>
                 <German>EUFOR Fortgeschrittener, modularer Helm mit Kotletten Multitarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_Balaclava">
+                <Original>EUFOR Stealth Balaclava (Multitarn) [Apex]</Original>
+                <English>EUFOR Stealth Balaclava (Multitarn) [Apex]</English>
+                <German>EUFOR Tarnsturmhaube Multitarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_Balaclava_G">
+                <Original>EUFOR Stealth Balaclava Glasses (Multitarn) [Apex]</Original>
+                <English>EUFOR Stealth Balaclava Glasses (Multitarn) [Apex]</English>
+                <German>EUFOR Tarnsturmhaube mit Brille Multitarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_TI">
+                <Original>EUFOR Stealth Helmet (Multitarn) [Apex]</Original>
+                <English>EUFOR Stealth Helmet (Multitarn) [Apex]</English>
+                <German>EUFOR Tarn-Kampfhelm Multitarn [Apex]</German>
             </Key>
             <Key ID="STR_EUFOR_Helmets_Schnee_HelmetB">
                 <Original>EUFOR Combat Helmet (Snow)</Original>
@@ -211,6 +241,21 @@
                 <English>EUFOR Advanced Modular Helmet, Chops (Snow) [Contact]</English>
                 <German>EUFOR Fortgeschrittener, modularer Helm mit Kotletten Schneetarn [Contact]</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_Balaclava">
+                <Original>EUFOR Stealth Balaclava (Snow) [Apex]</Original>
+                <English>EUFOR Stealth Balaclava (Snow) [Apex]</English>
+                <German>EUFOR Tarnsturmhaube Schneetarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_Balaclava_G">
+                <Original>EUFOR Stealth Balaclava Glasses (Snow) [Apex]</Original>
+                <English>EUFOR Stealth Balaclava Glasses (Snow) [Apex]</English>
+                <German>EUFOR Tarnsturmhaube mit Brille Schneetarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_TI">
+                <Original>EUFOR Stealth Helmet (Snow) [Apex]</Original>
+                <English>EUFOR Stealth Helmet (Snow) [Apex]</English>
+                <German>EUFOR Tarn-Kampfhelm Schneetarn [Apex]</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_Tropen_HelmetB">
                 <Original>EUFOR Combat Helmet (Tropentarn)</Original>
                 <English>EUFOR Combat Helmet (Tropentarn)</English>
@@ -276,6 +321,21 @@
                 <English>EUFOR Advanced Modular Helmet, Chops (Tropentarn) [Contact]</English>
                 <German>EUFOR Fortgeschrittener, modularer Helm mit Kotletten Tropentarn [Contact]</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_Balaclava">
+                <Original>EUFOR Stealth Balaclava (Tropentarn) [Apex]</Original>
+                <English>EUFOR Stealth Balaclava (Tropentarn) [Apex]</English>
+                <German>EUFOR Tarnsturmhaube Tropentarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_Balaclava_G">
+                <Original>EUFOR Stealth Balaclava Glasses (Tropentarn) [Apex]</Original>
+                <English>EUFOR Stealth Balaclava Glasses (Tropentarn) [Apex]</English>
+                <German>EUFOR Tarnsturmhaube mit Brille Tropentarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_TI">
+                <Original>EUFOR Stealth Helmet (Tropentarn) [Apex]</Original>
+                <English>EUFOR Stealth Helmet (Tropentarn) [Apex]</English>
+                <German>EUFOR Tarn-Kampfhelm Tropentarn [Apex]</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_TropenD_HelmetB">
                 <Original>EUFOR Combat Helmet (Digital-Tropentarn)</Original>
                 <English>EUFOR Combat Helmet (Digital-Tropentarn)</English>
@@ -340,6 +400,11 @@
                 <Original>EUFOR Advanced Modular Helmet, Chops (Digital-Tropentarn) [Contact]</Original>
                 <English>EUFOR Advanced Modular Helmet, Chops (Digital-Tropentarn) [Contact]</English>
                 <German>EUFOR Fortgeschrittener, modularer Helm mit Kotletten Digital Tropentarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_TropenD_TI">
+                <Original>EUFOR Stealth Helmet (Digital-Tropentarn) [Apex]</Original>
+                <English>EUFOR Stealth Helmet (Digital-Tropentarn) [Apex]</English>
+                <German>EUFOR Tarn-Kampfhelm Digital Tropentarn [Apex]</German>
             </Key>
     </Package>
 </Project>

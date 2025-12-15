@@ -204,3 +204,17 @@ class EUFOR_Helmets_HBK_Chops_Tropen: EUFOR_Helmets_HBK_Chops_Base
     };
 };
 
+//  CTRG Helmet
+
+class EUFOR_Helmets_HelmetB_TI_Tropen: EUFOR_Helmets_HelmetB_TI_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Tropen_TI";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_B_TI_co.paa"
+    };
+};
