@@ -204,6 +204,21 @@ class EUFOR_Helmets_HBK_Chops_Tropen: EUFOR_Helmets_HBK_Chops_Base
     };
 };
 
+//  PASGT IDAP
+
+class EUFOR_Helmets_PASGT_Tropen: EUFOR_Helmets_PASGT_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Tropen_PASGT";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_PASGT_co.paa"
+    };
+};
+
 //  CTRG Helmet
 
 class EUFOR_Helmets_HelmetB_TI_Tropen: EUFOR_Helmets_HelmetB_TI_Base

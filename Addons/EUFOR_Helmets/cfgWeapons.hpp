@@ -438,6 +438,40 @@ class EUFOR_Helmets_HBK_Chops_Base: EUFOR_Helmets_HBK_Base
     };
 };
 
+//  PASGT IDAP
+
+class EUFOR_Helmets_PASGT_Base: EUFOR_Helmets_HelmetB_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=0;
+    model="\A3\Characters_F_Orange\Headgear\H_PASGT_basic_F.p3d";
+    hiddenSelections[]=
+    {
+        "Camo"
+    };
+    descriptionShort="$STR_A3_SP_AL_II";
+    class ItemInfo: ItemInfo
+    {
+        uniformModel="\A3\Characters_F_Orange\Headgear\H_PASGT_basic_F.p3d";
+        modelSides[]={3};
+        hiddenSelections[]=
+        {
+            "Camo"
+        };
+        allowedSlots[]={801,901,701,605};
+        mass=30;
+        class HitpointsProtectionInfo
+        {
+            class Head
+            {
+                hitpointName="HitHead";
+                armor=8;
+                passThrough=0.5;
+            };
+        };
+    };
+};
+
 //  CTRG Helmet
 
 class EUFOR_Helmets_HelmetB_TI_Base: EUFOR_Helmets_HelmetB_Base

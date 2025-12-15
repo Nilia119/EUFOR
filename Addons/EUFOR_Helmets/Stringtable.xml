@@ -81,6 +81,11 @@
                 <English>EUFOR Advanced Modular Helmet, Chops (Flecktarn) [Contact]</English>
                 <German>EUFOR Fortgeschrittener, modularer Helm mit Kotletten Flecktarn [Contact]</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_PASGT">
+                <Original>EUFOR Helmet Blank Olive [IDAP]</Original>
+                <English>EUFOR Helmet Blank Olive [IDAP]</English>
+                <German>EUFOR Blanker Helm Olive [IDAP]</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_Fleck_Balaclava">
                 <Original>EUFOR Stealth Balaclava (Flecktarn) [Apex]</Original>
                 <English>EUFOR Stealth Balaclava (Flecktarn) [Apex]</English>
@@ -160,6 +165,11 @@
                 <Original>EUFOR Advanced Modular Helmet, Chops (Multitarn) [Contact]</Original>
                 <English>EUFOR Advanced Modular Helmet, Chops (Multitarn) [Contact]</English>
                 <German>EUFOR Fortgeschrittener, modularer Helm mit Kotletten Multitarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_PASGT">
+                <Original>EUFOR Helmet Blank Khaki [IDAP]</Original>
+                <English>EUFOR Helmet Blank Khaki [IDAP]</English>
+                <German>EUFOR Blanker Helm Khaki [IDAP]</German>
             </Key>
             <Key ID="STR_EUFOR_Helmets_Multi_Balaclava">
                 <Original>EUFOR Stealth Balaclava (Multitarn) [Apex]</Original>
@@ -241,6 +251,11 @@
                 <English>EUFOR Advanced Modular Helmet, Chops (Snow) [Contact]</English>
                 <German>EUFOR Fortgeschrittener, modularer Helm mit Kotletten Schneetarn [Contact]</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_PASGT">
+                <Original>EUFOR Helmet Blank White [IDAP]</Original>
+                <English>EUFOR Helmet Blank White [IDAP]</English>
+                <German>EUFOR Blanker Helm Weiß [IDAP]</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_Schnee_Balaclava">
                 <Original>EUFOR Stealth Balaclava (Snow) [Apex]</Original>
                 <English>EUFOR Stealth Balaclava (Snow) [Apex]</English>
@@ -320,6 +335,11 @@
                 <Original>EUFOR Advanced Modular Helmet, Chops (Tropentarn) [Contact]</Original>
                 <English>EUFOR Advanced Modular Helmet, Chops (Tropentarn) [Contact]</English>
                 <German>EUFOR Fortgeschrittener, modularer Helm mit Kotletten Tropentarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_PASGT">
+                <Original>EUFOR Helmet Blank Brown [IDAP]</Original>
+                <English>EUFOR Helmet Blank Brown [IDAP]</English>
+                <German>EUFOR Blanker Helm Braun [IDAP]</German>
             </Key>
             <Key ID="STR_EUFOR_Helmets_Tropen_Balaclava">
                 <Original>EUFOR Stealth Balaclava (Tropentarn) [Apex]</Original>
