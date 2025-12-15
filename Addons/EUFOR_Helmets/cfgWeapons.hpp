@@ -2,20 +2,20 @@ class ItemCore;
 class HeadgearItem;
 class H_Beret_CSAT_01_F;
 
+class EUFOR_Helmets_Beret_Base: H_Beret_CSAT_01_F  {
 
-class H_Barett_EuDeF: H_Beret_CSAT_01_F  {
-
-    author = "$STR_EUFOR_Helmet_Author";
-    scope = 2;
+    author = "$STR_EUFOR_Helmets_Author";
+    scope = 0;
     weaponPoolAvailable = 1;
-    displayName = "$STR_EUFOR_Helmet_Barett_EuDef";
-    picture = "\EUFOR_Helme\Barett\ui\EUFOR_Helmet_Barett_EuDef_Icon.paa";
+    displayName = "EUFOR Berets Base";
+    picture = "\EUFOR_Helmets\Beret\ui\EUFOR_Helmets_Beret_EuDef_Icon.paa";
     model = "\A3\Characters_F\OPFOR\H_Beret_CSAT_01_F.p3d";
     hiddenSelections[] = { "camo" };
-    hiddenSelectionsTextures[] = {"EUFOR_Helme\Barett\EUFOR_Helmet_Barett_EuDef_co.paa"};
+    hiddenSelectionsTextures[] = {"EUFOR_Helmets\Beret\EUFOR_Helmets_Beret_EuDef_co.paa"};
     class ItemInfo: HeadgearItem
     {
         mass = 1;
+        allowedSlots[]={801,901,701,605};
         uniformModel = "\A3\Characters_F\OPFOR\H_Beret_CSAT_01_F.p3d";
         modelSides[] = {TCivilian, TWest};
         hiddenSelections[] = {"camo"};
