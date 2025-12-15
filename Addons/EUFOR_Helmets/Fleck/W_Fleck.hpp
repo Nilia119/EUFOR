@@ -150,3 +150,57 @@ class EUFOR_Helmets_Viper_Fleck_Spec: EUFOR_Helmets_Viper_Base
     };
 };
 
+//  Enoch HBK
+
+class EUFOR_Helmets_HBK_Fleck: EUFOR_Helmets_HBK_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Fleck_HBK";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Fleck\EUFOR_Helmets_Fleck_HBK_co.paa"
+    };
+};
+
+class EUFOR_Helmets_HBK_Headset_Fleck: EUFOR_Helmets_HBK_Headset_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Fleck_HBK_Headset";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Fleck\EUFOR_Helmets_Fleck_HBK_co.paa"
+    };
+};
+
+class EUFOR_Helmets_HBK_Ear_Fleck: EUFOR_Helmets_HBK_Ear_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Fleck_HBK_Ear";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Fleck\EUFOR_Helmets_Fleck_HBK_co.paa"
+    };
+};
+
+class EUFOR_Helmets_HBK_Chops_Fleck: EUFOR_Helmets_HBK_Chops_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Fleck_HBK_Chops";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Fleck\EUFOR_Helmets_Fleck_HBK_co.paa"
+    };
+};
+

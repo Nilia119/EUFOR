@@ -346,3 +346,95 @@ class EUFOR_Helmets_Viper_Base: EUFOR_Helmets_HelmetB_Base
     };
 };
 
+//  Contact HBK
+
+class EUFOR_Helmets_HBK_Base: EUFOR_Helmets_HelmetB_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=0;
+    displayName="EUFOR HBK Helmet Base";
+    model="\A3\Characters_F_Enoch\Headgear\H_HelmetHBK_01_F.p3d";
+    hiddenSelections[]=
+    {
+        "Camo"
+    };
+    descriptionShort="$STR_A3_SP_AL_III";
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelections[]=
+        {
+            "Camo"
+        };
+        uniformModel="\A3\Characters_F_Enoch\Headgear\H_HelmetHBK_01_F.p3d";
+        modelSides[]={2};
+        mass=30;
+        allowedSlots[]={801,901,701,605};
+        class HitpointsProtectionInfo
+        {
+            class Head
+            {
+                hitpointName="HitHead";
+                armor=8;
+                passThrough=0.5;
+            };
+        };
+    };
+};
+class EUFOR_Helmets_HBK_Headset_Base: EUFOR_Helmets_HBK_Base
+{
+    model="\A3\Characters_F_Enoch\Headgear\H_HelmetHBK_01_headset_F.p3d";
+    ace_hearing_hasEHP = 1;
+    class ItemInfo: ItemInfo
+    {
+        uniformModel="\A3\Characters_F_Enoch\Headgear\H_HelmetHBK_01_headset_F.p3d";
+        allowedSlots[]={801,901,701,605};
+        mass=32;
+    };
+};
+class EUFOR_Helmets_HBK_Ear_Base: EUFOR_Helmets_HBK_Base
+{
+    model="\A3\Characters_F_Enoch\Headgear\H_HelmetHBK_01_ear_F.p3d";
+    ace_hearing_hasEHP = 1;
+    class ItemInfo: ItemInfo
+    {
+        uniformModel="\A3\Characters_F_Enoch\Headgear\H_HelmetHBK_01_ear_F.p3d";
+        allowedSlots[]={801,901,701,605};
+        mass=40;
+        class HitpointsProtectionInfo
+        {
+            class Head
+            {
+                hitpointName="HitHead";
+                armor=9;
+                passThrough=0.5;
+            };
+        };
+    };
+};
+class EUFOR_Helmets_HBK_Chops_Base: EUFOR_Helmets_HBK_Base
+{
+    model="\A3\Characters_F_Enoch\Headgear\H_HelmetHBK_01_chops_F.p3d";
+    ace_hearing_hasEHP = 1;
+    class ItemInfo: ItemInfo
+    {
+        uniformModel="\A3\Characters_F_Enoch\Headgear\H_HelmetHBK_01_chops_F.p3d";
+        allowedSlots[]={801,901,701,605};
+        mass=50;
+        class HitpointsProtectionInfo: HitpointsProtectionInfo
+        {
+            class Head
+            {
+                hitpointName="HitHead";
+                armor=9;
+                passThrough=0.5;
+            };
+            class Face
+            {
+                hitpointName="HitFace";
+                armor=5;
+                passThrough=0.1;
+            };
+        };
+    };
+};
+

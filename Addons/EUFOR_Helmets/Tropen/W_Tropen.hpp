@@ -150,3 +150,57 @@ class EUFOR_Helmets_Viper_Tropen_Spec: EUFOR_Helmets_Viper_Base
     };
 };
 
+//  Enoch HBK
+
+class EUFOR_Helmets_HBK_Tropen: EUFOR_Helmets_HBK_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Tropen_HBK";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_HBK_co.paa"
+    };
+};
+
+class EUFOR_Helmets_HBK_Headset_Tropen: EUFOR_Helmets_HBK_Headset_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Tropen_HBK_Headset";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_HBK_co.paa"
+    };
+};
+
+class EUFOR_Helmets_HBK_Ear_Tropen: EUFOR_Helmets_HBK_Ear_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Tropen_HBK_Ear";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_HBK_co.paa"
+    };
+};
+
+class EUFOR_Helmets_HBK_Chops_Tropen: EUFOR_Helmets_HBK_Chops_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Tropen_HBK_Chops";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_HBK_co.paa"
+    };
+};
+

@@ -150,3 +150,57 @@ class EUFOR_Helmets_Viper_Schnee_Spec: EUFOR_Helmets_Viper_Base
     };
 };
 
+//  Enoch HBK
+
+class EUFOR_Helmets_HBK_Schnee: EUFOR_Helmets_HBK_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Schnee_HBK";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Schnee\EUFOR_Helmets_Schnee_HBK_co.paa"
+    };
+};
+
+class EUFOR_Helmets_HBK_Headset_Schnee: EUFOR_Helmets_HBK_Headset_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Schnee_HBK_Headset";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Schnee\EUFOR_Helmets_Schnee_HBK_co.paa"
+    };
+};
+
+class EUFOR_Helmets_HBK_Ear_Schnee: EUFOR_Helmets_HBK_Ear_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Schnee_HBK_Ear";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Schnee\EUFOR_Helmets_Schnee_HBK_co.paa"
+    };
+};
+
+class EUFOR_Helmets_HBK_Chops_Schnee: EUFOR_Helmets_HBK_Chops_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_Schnee_HBK_Chops";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\Schnee\EUFOR_Helmets_Schnee_HBK_co.paa"
+    };
+};
+

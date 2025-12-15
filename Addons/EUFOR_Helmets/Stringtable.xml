@@ -61,6 +61,26 @@
                 <English>EUFOR Special Purpose Helmet+ (Flecktarn) [Apex]</English>
                 <German>EUFOR Viper Spezialhelm Flecktarn [Apex]</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_HBK">
+                <Original>EUFOR Advanced Modular Helmet (Flecktarn) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet (Flecktarn) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm Flecktarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_HBK_Headset">
+                <Original>EUFOR Advanced Modular Helmet, Ear Protectors (Flecktarn) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet, Ear Protectors (Flecktarn) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm mit Gehörschutz Flecktarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_HBK_Ear">
+                <Original>EUFOR Advanced Modular Helmet, Ear Protectors (Flecktarn) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet, Ear Protectors (Flecktarn) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm mit Ohrenschützern Flecktarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Fleck_HBK_Chops">
+                <Original>EUFOR Advanced Modular Helmet, Chops (Flecktarn) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet, Chops (Flecktarn) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm mit Kotletten Flecktarn [Contact]</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_Multi_HelmetB">
                 <Original>EUFOR Combat Helmet (Multitarn)</Original>
                 <English>EUFOR Combat Helmet (Multitarn)</English>
@@ -105,6 +125,26 @@
                 <Original>EUFOR Special Purpose Helmet+ (Multitarn) [Apex]</Original>
                 <English>EUFOR Special Purpose Helmet+ (Multitarn) [Apex]</English>
                 <German>EUFOR Viper Spezialhelm Multitarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_HBK">
+                <Original>EUFOR Advanced Modular Helmet (Multitarn) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet (Multitarn) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm Multitarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_HBK_Headset">
+                <Original>EUFOR Advanced Modular Helmet, Ear Protectors (Multitarn) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet, Ear Protectors (Multitarn) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm mit Gehörschutz Multitarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_HBK_Ear">
+                <Original>EUFOR Advanced Modular Helmet, Ear Protectors (Multitarn) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet, Ear Protectors (Multitarn) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm mit Ohrenschützern Multitarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Multi_HBK_Chops">
+                <Original>EUFOR Advanced Modular Helmet, Chops (Multitarn) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet, Chops (Multitarn) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm mit Kotletten Multitarn [Contact]</German>
             </Key>
             <Key ID="STR_EUFOR_Helmets_Schnee_HelmetB">
                 <Original>EUFOR Combat Helmet (Snow)</Original>
@@ -151,6 +191,26 @@
                 <English>EUFOR Special Purpose Helmet+ (Snow) [Apex]</English>
                 <German>EUFOR Viper Spezialhelm Schneetarn [Apex]</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_HBK">
+                <Original>EUFOR Advanced Modular Helmet (Snow) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet (Snow) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm Schneetarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_HBK_Headset">
+                <Original>EUFOR Advanced Modular Helmet, Ear Protectors (Snow) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet, Ear Protectors (Snow) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm mit Gehörschutz Schneetarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_HBK_Ear">
+                <Original>EUFOR Advanced Modular Helmet, Ear Protectors (Snow) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet, Ear Protectors (Snow) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm mit Ohrenschützern Schneetarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Schnee_HBK_Chops">
+                <Original>EUFOR Advanced Modular Helmet, Chops (Snow) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet, Chops (Snow) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm mit Kotletten Schneetarn [Contact]</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_Tropen_HelmetB">
                 <Original>EUFOR Combat Helmet (Tropentarn)</Original>
                 <English>EUFOR Combat Helmet (Tropentarn)</English>
@@ -196,6 +256,26 @@
                 <English>EUFOR Special Purpose Helmet+ (Tropentarn) [Apex]</English>
                 <German>EUFOR Viper Spezialhelm Tropentarn [Apex]</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_HBK">
+                <Original>EUFOR Advanced Modular Helmet (Tropentarn) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet (Tropentarn) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm Tropentarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_HBK_Headset">
+                <Original>EUFOR Advanced Modular Helmet, Ear Protectors (Tropentarn) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet, Ear Protectors (Tropentarn) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm mit Gehörschutz Tropentarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_HBK_Ear">
+                <Original>EUFOR Advanced Modular Helmet, Ear Protectors (Tropentarn) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet, Ear Protectors (Tropentarn) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm mit Ohrenschützern Tropentarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Tropen_HBK_Chops">
+                <Original>EUFOR Advanced Modular Helmet, Chops (Tropentarn) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet, Chops (Tropentarn) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm mit Kotletten Tropentarn [Contact]</German>
+            </Key>
             <Key ID="STR_EUFOR_Helmets_TropenD_HelmetB">
                 <Original>EUFOR Combat Helmet (Digital-Tropentarn)</Original>
                 <English>EUFOR Combat Helmet (Digital-Tropentarn)</English>
@@ -240,6 +320,26 @@
                 <Original>EUFOR Special Purpose Helmet+ (Digital-Tropentarn) [Apex]</Original>
                 <English>EUFOR Special Purpose Helmet+ (Digital-Tropentarn) [Apex]</English>
                 <German>EUFOR Viper Spezialhelm Digital Tropentarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_TropenD_HBK">
+                <Original>EUFOR Advanced Modular Helmet (Digital-Tropentarn) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet (Digital-Tropentarn) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm Digital Tropentarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_TropenD_HBK_Headset">
+                <Original>EUFOR Advanced Modular Helmet, Ear Protectors (Digital-Tropentarn) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet, Ear Protectors (Digital-Tropentarn) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm mit Gehörschutz Digital Tropentarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_TropenD_HBK_Ear">
+                <Original>EUFOR Advanced Modular Helmet, Ear Protectors (Digital-Tropentarn) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet, Ear Protectors (Digital-Tropentarn) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm mit Ohrenschützern Digital Tropentarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_TropenD_HBK_Chops">
+                <Original>EUFOR Advanced Modular Helmet, Chops (Digital-Tropentarn) [Contact]</Original>
+                <English>EUFOR Advanced Modular Helmet, Chops (Digital-Tropentarn) [Contact]</English>
+                <German>EUFOR Fortgeschrittener, modularer Helm mit Kotletten Digital Tropentarn [Contact]</German>
             </Key>
     </Package>
 </Project>

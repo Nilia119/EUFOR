@@ -24,6 +24,11 @@ class CfgPatches {
                 "EUFOR_Integrated_NVG_TI_0",
                 "EUFOR_Integrated_NVG_TI_1",
                 "EUFOR_Helmets_Viper_Base",
+                "EUFOR_Helmets_HBK_Base",
+                "EUFOR_Helmets_HBK_Headset_Base",
+                "EUFOR_Helmets_HBK_Ear_Base",
+                "EUFOR_Helmets_HBK_Chops_Base",
+
                 "EUFOR_Helmets_Beret_EuDef",
 
                 "EUFOR_Helmets_HelmetB_Fleck",
@@ -34,6 +39,11 @@ class CfgPatches {
                 "EUFOR_Helmets_Boonie_Fleck",
                 "EUFOR_Helmets_MilCap_Fleck",
                 "EUFOR_Helmets_Viper_Fleck",
+                "EUFOR_Helmets_Viper_Fleck_Spec",
+                "EUFOR_Helmets_HBK_Fleck",
+                "EUFOR_Helmets_HBK_Headset_Fleck",
+                "EUFOR_Helmets_HBK_Ear_Fleck",
+                "EUFOR_Helmets_HBK_Chops_Fleck",
 
                 "EUFOR_Helmets_HelmetB_Multi",
                 "EUFOR_Helmets_HelmetB_Light_Multi",
@@ -43,6 +53,11 @@ class CfgPatches {
                 "EUFOR_Helmets_Boonie_Multi",
                 "EUFOR_Helmets_MilCap_Multi",
                 "EUFOR_Helmets_Viper_Multi",
+                "EUFOR_Helmets_Viper_Multi_Spec",
+                "EUFOR_Helmets_HBK_Multi",
+                "EUFOR_Helmets_HBK_Headset_Multi",
+                "EUFOR_Helmets_HBK_Ear_Multi",
+                "EUFOR_Helmets_HBK_Chops_Multi",
 
                 "EUFOR_Helmets_HelmetB_Schnee",
                 "EUFOR_Helmets_HelmetB_Light_Schnee",
@@ -52,6 +67,11 @@ class CfgPatches {
                 "EUFOR_Helmets_Boonie_Schnee",
                 "EUFOR_Helmets_MilCap_Schnee",
                 "EUFOR_Helmets_Viper_Schnee",
+                "EUFOR_Helmets_Viper_Schnee_Spec",
+                "EUFOR_Helmets_HBK_Schnee",
+                "EUFOR_Helmets_HBK_Headset_Schnee",
+                "EUFOR_Helmets_HBK_Ear_Schnee",
+                "EUFOR_Helmets_HBK_Chops_Schnee",
 
                 "EUFOR_Helmets_HelmetB_Tropen",
                 "EUFOR_Helmets_HelmetB_Light_Tropen",
@@ -61,6 +81,11 @@ class CfgPatches {
                 "EUFOR_Helmets_Boonie_Tropen",
                 "EUFOR_Helmets_MilCap_Tropen",
                 "EUFOR_Helmets_Viper_Tropen",
+                "EUFOR_Helmets_Viper_Tropen_Spec",
+                "EUFOR_Helmets_HBK_Tropen",
+                "EUFOR_Helmets_HBK_Headset_Tropen",
+                "EUFOR_Helmets_HBK_Ear_Tropen",
+                "EUFOR_Helmets_HBK_Chops_Tropen",
 
                 "EUFOR_Helmets_HelmetB_TropenD",
                 "EUFOR_Helmets_HelmetB_Light_TropenD",
@@ -70,6 +95,11 @@ class CfgPatches {
                 "EUFOR_Helmets_Boonie_TropenD",
                 "EUFOR_Helmets_MilCap_TropenD",
                 "EUFOR_Helmets_Viper_TropenD",
+                "EUFOR_Helmets_Viper_TropenD_Spec",
+                "EUFOR_Helmets_HBK_TropenD",
+                "EUFOR_Helmets_HBK_Headset_TropenD",
+                "EUFOR_Helmets_HBK_Ear_TropenD",
+                "EUFOR_Helmets_HBK_Chops_TropenD",
         };
         magazines[] = {};
     };
