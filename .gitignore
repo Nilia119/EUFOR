@@ -35,6 +35,6 @@
 *.psd
 
 /Addons/EUFOR_Uniform/Tropen/Test Stuff/
-/Addons/EUFOR_Backpack/ArmA Stuff/
+/Addons/EUFOR_Backpacks/ArmA Stuff/
 /cmake-build-debug/
 CMakeLists.txt
