@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="EUFOR">
+    <Package name="ACE_Compat">
+            <Key ID="STR_EUFOR_ACE_Compat_name">
+                <Original>Nilia - EUFOR ACE Compatibility</Original>
+                <English>Nilia - EUFOR ACE Compatibility</English>
+                <German>Nilia - EUFOR ACE Kompatibilität</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACE_Compat_Author">
+                <Original>Nilia</Original>
+                <English>Nilia</English>
+                <German>Nilia</German>
+            </Key>
+    </Package>
+</Project>
