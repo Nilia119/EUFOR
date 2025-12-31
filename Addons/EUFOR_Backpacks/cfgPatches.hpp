@@ -25,20 +25,32 @@ class CfgPatches {
             "EUFOR_Backpacks_Tortilia_Multi",
             "EUFOR_Backpacks_Tortilia_Multi_Medic",
             "EUFOR_Backpacks_Tortilia_Multi_Ammo",
+            "EUFOR_Backpacks_Compact_Multi",
+            "EUFOR_Backpacks_Compact_Multi_Medic",
             "EUFOR_Backpacks_Tortilia_Schnee",
             "EUFOR_Backpacks_Tortilia_Schnee_Medic",
             "EUFOR_Backpacks_Tortilia_Schnee_Ammo",
+            "EUFOR_Backpacks_Compact_Schnee",
+            "EUFOR_Backpacks_Compact_Schnee_Medic",
 
             "EUFOR_Backpacks_Tortilia_Tropen",
             "EUFOR_Backpacks_Tortilia_Tropen_Medic",
             "EUFOR_Backpacks_Tortilia_Tropen_Ammo",
+            "EUFOR_Backpacks_Compact_Tropen",
+            "EUFOR_Backpacks_Compact_Tropen_Medic",
             "EUFOR_Backpacks_Tortilia_TropenD",
             "EUFOR_Backpacks_Tortilia_TropenD_Medic",
             "EUFOR_Backpacks_Tortilia_TropenD_Ammo",
+            "EUFOR_Backpacks_Compact_TropenD",
+            "EUFOR_Backpacks_Compact_TropenD_Medic",
 
             "EUFOR_Backpacks_Tortilia_Medic",
             "EUFOR_Backpacks_Tortilia_Medic_1",
             "EUFOR_Backpacks_Tortilia_Medic_2",
+            "EUFOR_Backpacks_Compact_Medic",
+            "EUFOR_Backpacks_Compact_Medic_1",
+            "EUFOR_Backpacks_Compact_Medic_2",
+            "EUFOR_Backpacks_Compact_Medic_3",
         };
         weapons[] = {};
         magazines[] = { };

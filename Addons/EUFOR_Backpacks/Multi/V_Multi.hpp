@@ -24,3 +24,21 @@ class EUFOR_Backpacks_Tortilia_Multi_Ammo : EUFOR_Backpacks_Tortilia_Base_Ammo {
     hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_Tortilia_Multi_Ammo_co.paa"};
 };
 
+//  Compact
+
+class EUFOR_Backpacks_Compact_Multi : EUFOR_Backpacks_Compact_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Compact_Multi";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_Compact_Multi_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_Compact_Multi_co.paa"};
+};
+
+class EUFOR_Backpacks_Compact_Multi_Medic : EUFOR_Backpacks_Compact_Base_Medic {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Compact_Multi_Medic";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_Compact_Multi_Medic_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_Compact_Multi_Medic_co.paa"};
+};
+

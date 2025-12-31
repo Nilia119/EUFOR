@@ -21,17 +21,17 @@
                 <English>EUFOR Carryall Medic (Flecktarn)</English>
                 <German>EUFOR Großer Rucksack Flecktarn, Arzt</German>
             </Key>
-            <Key ID="STR_EUFOR_Backpacks_Fleck_Compact">
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Fleck_Ammo">
                 <Original>EUFOR Carryall Ammo (Flecktarn)</Original>
                 <English>EUFOR Carryall Ammo (Flecktarn)</English>
                 <German>EUFOR Großer Rucksack Flecktarn, Munition</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Fleck">
                 <Original>EUFOR Assault Pack (Flecktarn)</Original>
                 <English>EUFOR Assault Pack (Flecktarn)</English>
                 <German>EUFOR Angriffsrucksack Flecktarn</German>
             </Key>
-            <Key ID="STR_EUFOR_Backpacks_Fleck_Compact_Medic">
+            <Key ID="STR_EUFOR_Backpacks_Compact_Fleck_Medic">
                 <Original>EUFOR Assault Pack Medic (Flecktarn)</Original>
                 <English>EUFOR Assault Pack Medic (Flecktarn)</English>
                 <German>EUFOR Angriffsrucksack Flecktarn, Arzt</German>
@@ -51,6 +51,16 @@
                 <English>EUFOR Carryall Ammo (Multitarn)</English>
                 <German>EUFOR Großer Rucksack Multitarn, Munition</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Multi">
+                <Original>EUFOR Assault Pack (Multitarn)</Original>
+                <English>EUFOR Assault Pack (Multitarn)</English>
+                <German>EUFOR Angriffsrucksack Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Multi_Medic">
+                <Original>EUFOR Assault Pack Medic (Multitarn)</Original>
+                <English>EUFOR Assault Pack Medic (Multitarn)</English>
+                <German>EUFOR Angriffsrucksack Multitarn, Arzt</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Schnee">
                 <Original>EUFOR Carryall (Snow)</Original>
                 <English>EUFOR Carryall (Snow)</English>
@@ -65,6 +75,11 @@
                 <Original>EUFOR Carryall Ammo (Snow)</Original>
                 <English>EUFOR Carryall Ammo (Snow)</English>
                 <German>EUFOR Großer Rucksack Schneetarn, Munition</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Schnee">
+                <Original>EUFOR Assault Pack (Snow)</Original>
+                <English>EUFOR Assault Pack (Snow)</English>
+                <German>EUFOR Angriffsrucksack Schneetarn</German>
             </Key>
             <Key ID="STR_EUFOR_Backpacks_Compact_Schnee_Medic">
                 <Original>EUFOR Assault Pack Medic (Snow)</Original>
@@ -86,6 +101,16 @@
                 <English>EUFOR Carryall Ammo (Tropentarn)</English>
                 <German>EUFOR Großer Rucksack Tropentarn, Munition</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Tropen">
+                <Original>EUFOR Assault Pack (Tropentarn)</Original>
+                <English>EUFOR Assault Pack (Tropentarn)</English>
+                <German>EUFOR Angriffsrucksack Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Tropen_Medic">
+                <Original>EUFOR Assault Pack Medic (Tropentarn)</Original>
+                <English>EUFOR Assault Pack Medic (Tropentarn)</English>
+                <German>EUFOR Angriffsrucksack Tropentarn, Arzt</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_TropenD">
                 <Original>EUFOR Carryall (Digital-Tropentarn)</Original>
                 <English>EUFOR Carryall (Digital-Tropentarn)</English>
@@ -101,6 +126,16 @@
                 <English>EUFOR Carryall Ammo (Digital-Tropentarn)</English>
                 <German>EUFOR Großer Rucksack Digital Tropentarn, Munition</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_TropenD">
+                <Original>EUFOR Assault Pack (Digital-Tropentarn)</Original>
+                <English>EUFOR Assault Pack (Digital-Tropentarn)</English>
+                <German>EUFOR Angriffsrucksack Digital Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_TropenD_Medic">
+                <Original>EUFOR Assault Pack Medic (Digital-Tropentarn)</Original>
+                <English>EUFOR Assault Pack Medic (Digital-Tropentarn)</English>
+                <German>EUFOR Angriffsrucksack Digital Tropentarn, Arzt</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Medic">
                 <Original>EUFOR Carryall Medic</Original>
                 <English>EUFOR Carryall Medic</English>
@@ -115,6 +150,26 @@
                 <Original>EUFOR Carryall Medic Orange</Original>
                 <English>EUFOR Carryall Medic Orange</English>
                 <German>EUFOR Großer Rucksack Arzt Orange</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Medic">
+                <Original>EUFOR Assault Pack Medic</Original>
+                <English>EUFOR Assault Pack Medic</English>
+                <German>EUFOR Angriffsrucksack Sanitäter</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Medic_1">
+                <Original>EUFOR Assault Pack Medic Green</Original>
+                <English>EUFOR Assault Pack Medic Green</English>
+                <German>EUFOR Angriffsrucksack Sanitäter Grün</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Medic_2">
+                <Original>EUFOR Assault Pack Medic Orange</Original>
+                <English>EUFOR Assault Pack Medic Orange</English>
+                <German>EUFOR Angriffsrucksack Sanitäter Orange</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Medic_3">
+                <Original>EUFOR Assault Pack Medic Red</Original>
+                <English>EUFOR Assault Pack Medic Red</English>
+                <German>EUFOR Angriffsrucksack Sanitäter Rot</German>
             </Key>
     </Package>
 </Project>

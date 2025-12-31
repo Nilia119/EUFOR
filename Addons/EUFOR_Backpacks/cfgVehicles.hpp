@@ -54,9 +54,8 @@ class EUFOR_Backpacks_Compact_Base : EUFOR_Backpacks_Bag_Base {
     mass = 20;
 };
 
-class EUFOR_Backpack_Fleck_Compact_Rk : Bag_Base {
 class EUFOR_Backpacks_Compact_Base_Medic : EUFOR_Backpacks_Compact_Base {
-    maximumLoad = 300;
+    maximumLoad = 240;
     mass = 20;
 };
 
@@ -67,3 +66,4 @@ class EUFOR_Backpacks_Compact_Base_Medic : EUFOR_Backpacks_Compact_Base {
 #include "\EUFOR_Backpacks\Multi\V_Multi.hpp"
 #include "\EUFOR_Backpacks\Schnee\V_Schnee.hpp"
 #include "\EUFOR_Backpacks\Tropen\V_Tropen.hpp"
+#include "\EUFOR_Backpacks\TropenD\V_TropenD.hpp"
