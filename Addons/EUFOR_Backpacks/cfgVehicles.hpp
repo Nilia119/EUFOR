@@ -102,6 +102,25 @@ class EUFOR_Backpacks_Radiobag_Base_PL: EUFOR_Backpacks_Tortilia_Base_Medic
     hiddenSelectionsTextures[]={"a3\supplies_f_enoch\bags\data\B_RadioBag_01_WDL_CO.paa"};
 };
 
+//  Fieldpack
+
+class EUFOR_Backpacks_FieldPack_Base: EUFOR_Backpacks_Bag_Base
+{
+    author="$STR_EUFOR_Backpack_Author";
+    scope = 0;
+    picture = "EUFOR_Backpacks\WIP.paa";
+    model="\A3\weapons_f\Ammoboxes\bags\Backpack_Gorod";
+    hiddenSelectionsTextures[]={"\A3\weapons_f\ammoboxes\bags\data\backpack_gorod_cbr_co.paa"};
+    maximumLoad=200;
+    mass=30;
+};
+
+class EUFOR_Backpacks_FieldPack_Base_Medic: EUFOR_Backpacks_FieldPack_Base
+{
+    maximumLoad=300;
+    mass=30;
+};
+
 
 #include "\EUFOR_Backpacks\Fleck\V_Fleck.hpp"
 #include "\EUFOR_Backpacks\Medic\V_Medic.hpp"

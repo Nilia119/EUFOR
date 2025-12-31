@@ -78,4 +78,22 @@ class EUFOR_Backpacks_Radiobag_Fleck_PL : EUFOR_Backpacks_Radiobag_Base_PL {
     hiddenSelectionsTextures[]={"EUFOR_Backpacks\Fleck\EUFOR_Backpacks_Radiobag_Fleck_PL_co.paa"};
 };
 
+//  FieldPack
+
+class EUFOR_Backpacks_FieldPack_Fleck : EUFOR_Backpacks_FieldPack_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_FieldPack_Fleck";
+    //picture = "EUFOR_Backpacks\Fleck\ui\EUFOR_Backpacks_Kitbag_Fleck_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Fleck\EUFOR_Backpacks_FieldPack_Fleck_co.paa"};
+};
+
+class EUFOR_Backpacks_FieldPack_Fleck_Medic : EUFOR_Backpacks_FieldPack_Base_Medic {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_FieldPack_Fleck_Medic";
+    //picture = "EUFOR_Backpacks\Fleck\ui\EUFOR_Backpacks_Kitbag_Fleck_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Fleck\EUFOR_Backpacks_FieldPack_Fleck_Medic_co.paa"};
+};
+
 };

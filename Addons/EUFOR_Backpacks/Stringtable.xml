@@ -56,6 +56,16 @@
                 <English>EUFOR Radio Platoon-Leader (Flecktarn) [Contact]</English>
                 <German>EUFOR Funkrucksack Zugführer Flecktarn [Contact]</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_Fleck">
+                <Original>EUFOR Field Pack (Flecktarn)</Original>
+                <English>EUFOR Field Pack (Flecktarn)</English>
+                <German>EUFOR Feldpack Flecktarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_Fleck_Medic">
+                <Original>EUFOR Field Pack Medic (Flecktarn)</Original>
+                <English>EUFOR Field Pack Medic (Flecktarn)</English>
+                <German>EUFOR Feldpack Flecktarn, Arzt</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Multi">
                 <Original>EUFOR Carryall (Multitarn)</Original>
                 <English>EUFOR Carryall (Multitarn)</English>
@@ -100,6 +110,16 @@
                 <Original>EUFOR Radio Platoon-Leader (Multitarn) [Contact]</Original>
                 <English>EUFOR Radio Platoon-Leader (Multitarn) [Contact]</English>
                 <German>EUFOR Funkrucksack Zugführer Multitarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_Multi">
+                <Original>EUFOR Field Pack (Multitarn)</Original>
+                <English>EUFOR Field Pack (Multitarn)</English>
+                <German>EUFOR Feldpack Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_Multi_Medic">
+                <Original>EUFOR Field Pack Medic (Multitarn)</Original>
+                <English>EUFOR Field Pack Medic (Multitarn)</English>
+                <German>EUFOR Feldpack Multitarn, Arzt</German>
             </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Schnee">
                 <Original>EUFOR Carryall (Snow)</Original>
@@ -146,6 +166,16 @@
                 <English>EUFOR Radio Platoon-Leader (Snow) [Contact]</English>
                 <German>EUFOR Funkrucksack Zugführer Schneetarn [Contact]</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_Schnee">
+                <Original>EUFOR Field Pack (Snow)</Original>
+                <English>EUFOR Field Pack (Snow)</English>
+                <German>EUFOR Feldpack Schneetarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_Schnee_Medic">
+                <Original>EUFOR Field Pack Medic (Snow)</Original>
+                <English>EUFOR Field Pack Medic (Snow)</English>
+                <German>EUFOR Feldpack Schneetarn, Arzt</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Tropen">
                 <Original>EUFOR Carryall (Tropentarn)</Original>
                 <English>EUFOR Carryall (Tropentarn)</English>
@@ -191,6 +221,16 @@
                 <English>EUFOR Radio Platoon-Leader (Tropentarn) [Contact]</English>
                 <German>EUFOR Funkrucksack Zugführer Tropentarn [Contact]</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_Tropen">
+                <Original>EUFOR Field Pack (Tropentarn)</Original>
+                <English>EUFOR Field Pack (Tropentarn)</English>
+                <German>EUFOR Feldpack Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_Tropen_Medic">
+                <Original>EUFOR Field Pack Medic (Tropentarn)</Original>
+                <English>EUFOR Field Pack Medic (Tropentarn)</English>
+                <German>EUFOR Feldpack Tropentarn, Arzt</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_TropenD">
                 <Original>EUFOR Carryall (Digital-Tropentarn)</Original>
                 <English>EUFOR Carryall (Digital-Tropentarn)</English>
@@ -235,6 +275,16 @@
                 <Original>EUFOR Radio Platoon-Leader (Digital-Tropentarn) [Contact]</Original>
                 <English>EUFOR Radio Platoon-Leader (Digital-Tropentarn) [Contact]</English>
                 <German>EUFOR Funkrucksack Zugführer Digital Tropentarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_TropenD">
+                <Original>EUFOR Field Pack (Digital-Tropentarn)</Original>
+                <English>EUFOR Field Pack (Digital-Tropentarn)</English>
+                <German>EUFOR Feldpack Digital Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_TropenD_Medic">
+                <Original>EUFOR Field Pack Medic (Digital-Tropentarn)</Original>
+                <English>EUFOR Field Pack Medic (Digital-Tropentarn)</English>
+                <German>EUFOR Feldpack Digital Tropentarn, Arzt</German>
             </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Medic">
                 <Original>EUFOR Carryall Medic</Original>

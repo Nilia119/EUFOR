@@ -78,3 +78,21 @@ class EUFOR_Backpacks_Radiobag_TropenD_PL : EUFOR_Backpacks_Radiobag_Base_PL {
     hiddenSelectionsTextures[]={"EUFOR_Backpacks\TropenD\EUFOR_Backpacks_Radiobag_TropenD_PL_co.paa"};
 };
 
+//  FieldPack
+
+class EUFOR_Backpacks_FieldPack_TropenD : EUFOR_Backpacks_FieldPack_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_FieldPack_TropenD";
+    //picture = "EUFOR_Backpacks\TropenD\ui\EUFOR_Backpacks_Kitbag_TropenD_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\TropenD\EUFOR_Backpacks_FieldPack_TropenD_co.paa"};
+};
+
+class EUFOR_Backpacks_FieldPack_TropenD_Medic : EUFOR_Backpacks_FieldPack_Base_Medic {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_FieldPack_TropenD_Medic";
+    //picture = "EUFOR_Backpacks\TropenD\ui\EUFOR_Backpacks_Kitbag_TropenD_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\TropenD\EUFOR_Backpacks_FieldPack_TropenD_Medic_co.paa"};
+};
+
