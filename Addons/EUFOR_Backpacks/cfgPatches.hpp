@@ -5,6 +5,7 @@ class CfgPatches {
             "A3_Characters_F",
             "A3_Supplies_F_Enoch",
             "A3_Supplies_F_Exp",
+            "A3_Weapons_F",
             "A3_Characters_F_Orange",
         };
         author = "$STR_EUFOR_Backpacks_Author";
@@ -30,6 +31,7 @@ class CfgPatches {
             "EUFOR_Backpacks_LegStrapBag_Base",
             "EUFOR_Backpacks_ViperHarness_Base",
             "EUFOR_Backpacks_ViperHarnessLight_Base",
+            "EUFOR_Backpacks_Civ_Base",
 
             "EUFOR_Backpacks_Tortilia_Fleck",
             "EUFOR_Backpacks_Tortilia_Fleck_Medic",
@@ -47,6 +49,7 @@ class CfgPatches {
             "EUFOR_Backpacks_LegStrapBag_Fleck",
             "EUFOR_Backpacks_ViperHarness_Fleck",
             "EUFOR_Backpacks_ViperHarnessLight_Fleck",
+            "EUFOR_Backpacks_Civ_Fleck",
 
             "EUFOR_Backpacks_Tortilia_Multi",
             "EUFOR_Backpacks_Tortilia_Multi_Medic",
@@ -64,6 +67,7 @@ class CfgPatches {
             "EUFOR_Backpacks_LegStrapBag_Multi",
             "EUFOR_Backpacks_ViperHarness_Multi",
             "EUFOR_Backpacks_ViperHarnessLight_Multi",
+            "EUFOR_Backpacks_Civ_Multi",
 
             "EUFOR_Backpacks_Tortilia_Schnee",
             "EUFOR_Backpacks_Tortilia_Schnee_Medic",
@@ -81,6 +85,7 @@ class CfgPatches {
             "EUFOR_Backpacks_LegStrapBag_Schnee",
             "EUFOR_Backpacks_ViperHarness_Schnee",
             "EUFOR_Backpacks_ViperHarnessLight_Schnee",
+            "EUFOR_Backpacks_Civ_Schnee",
 
             "EUFOR_Backpacks_Tortilia_Tropen",
             "EUFOR_Backpacks_Tortilia_Tropen_Medic",
@@ -98,6 +103,7 @@ class CfgPatches {
             "EUFOR_Backpacks_LegStrapBag_Tropen",
             "EUFOR_Backpacks_ViperHarness_Tropen",
             "EUFOR_Backpacks_ViperHarnessLight_Tropen",
+            "EUFOR_Backpacks_Civ_Tropen",
 
             "EUFOR_Backpacks_Tortilia_TropenD",
             "EUFOR_Backpacks_Tortilia_TropenD_Medic",
@@ -115,6 +121,7 @@ class CfgPatches {
             "EUFOR_Backpacks_LegStrapBag_TropenD",
             "EUFOR_Backpacks_ViperHarness_TropenD",
             "EUFOR_Backpacks_ViperHarnessLight_TropenD",
+            "EUFOR_Backpacks_Civ_TropenD",
 
             "EUFOR_Backpacks_Tortilia_Medic",
             "EUFOR_Backpacks_Tortilia_Medic_1",

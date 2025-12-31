@@ -142,4 +142,14 @@ class EUFOR_Backpacks_ViperHarnessLight_Fleck : EUFOR_Backpacks_ViperHarnessLigh
     hiddenSelectionsTextures[]={"EUFOR_Backpacks\Fleck\EUFOR_Backpacks_Viper_Fleck_co.paa"};
 };
 
+//  Civilian
+
+class EUFOR_Backpacks_Civ_Fleck : EUFOR_Backpacks_Civ_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Civ_Fleck";
+    //picture = "EUFOR_Backpacks\Fleck\ui\EUFOR_Backpacks_LegStrapBag_Fleck_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Fleck\EUFOR_Backpacks_Civ_Fleck_co.paa"};
+};
+
 };

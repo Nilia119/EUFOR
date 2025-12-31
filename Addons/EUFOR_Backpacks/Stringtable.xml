@@ -91,6 +91,11 @@
                 <English>EUFOR Viper Light Harness (Flecktarn) [Apex]</English>
                 <German>EUFOR Viper-Harnisch leicht Flecktarn [Apex]</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_Civ_Fleck">
+                <Original>EUFOR Everyday Backpack (Flecktarn) [Laws of War]</Original>
+                <English>EUFOR Everyday Backpack (Flecktarn) [Laws of War]</English>
+                <German>EUFOR Tagesrucksack Flecktarn [Laws of War]</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Multi">
                 <Original>EUFOR Carryall (Multitarn)</Original>
                 <English>EUFOR Carryall (Multitarn)</English>
@@ -170,6 +175,11 @@
                 <Original>EUFOR Viper Light Harness (Multitarn) [Apex]</Original>
                 <English>EUFOR Viper Light Harness (Multitarn) [Apex]</English>
                 <German>EUFOR Viper-Harnisch leicht Multitarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Civ_Multi">
+                <Original>EUFOR Everyday Backpack (Multitarn) [Laws of War]</Original>
+                <English>EUFOR Everyday Backpack (Multitarn) [Laws of War]</English>
+                <German>EUFOR Tagesrucksack Multitarn [Laws of War]</German>
             </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Schnee">
                 <Original>EUFOR Carryall (Snow)</Original>
@@ -251,6 +261,11 @@
                 <English>EUFOR Viper Light Harness (Snow) [Apex]</English>
                 <German>EUFOR Viper-Harnisch leicht Schneetarn [Apex]</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_Civ_Schnee">
+                <Original>EUFOR Everyday Backpack (Snow) [Laws of War]</Original>
+                <English>EUFOR Everyday Backpack (Snow) [Laws of War]</English>
+                <German>EUFOR Tagesrucksack Schneetarn [Laws of War]</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Tropen">
                 <Original>EUFOR Carryall (Tropentarn)</Original>
                 <English>EUFOR Carryall (Tropentarn)</English>
@@ -331,6 +346,11 @@
                 <English>EUFOR Viper Light Harness (Tropentarn) [Apex]</English>
                 <German>EUFOR Viper-Harnisch leicht Tropentarn [Apex]</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_Civ_Tropen">
+                <Original>EUFOR Everyday Backpack (Tropentarn) [Laws of War]</Original>
+                <English>EUFOR Everyday Backpack (Tropentarn) [Laws of War]</English>
+                <German>EUFOR Tagesrucksack Tropentarn [Laws of War]</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_TropenD">
                 <Original>EUFOR Carryall (Digital-Tropentarn)</Original>
                 <English>EUFOR Carryall (Digital-Tropentarn)</English>
@@ -410,6 +430,11 @@
                 <Original>EUFOR Viper Light Harness (Digital-Tropentarn) [Apex]</Original>
                 <English>EUFOR Viper Light Harness (Digital-Tropentarn) [Apex]</English>
                 <German>EUFOR Viper-Harnisch leicht Digital Tropentarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Civ_TropenD">
+                <Original>EUFOR Everyday Backpack (Digital-Tropentarn) [Laws of War]</Original>
+                <English>EUFOR Everyday Backpack (Digital-Tropentarn) [Laws of War]</English>
+                <German>EUFOR Tagesrucksack Digital Tropentarn [Laws of War]</German>
             </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Medic">
                 <Original>EUFOR Carryall Medic</Original>

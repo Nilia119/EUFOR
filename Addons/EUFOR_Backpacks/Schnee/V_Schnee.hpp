@@ -142,3 +142,13 @@ class EUFOR_Backpacks_ViperHarnessLight_Schnee : EUFOR_Backpacks_ViperHarnessLig
     hiddenSelectionsTextures[]={"EUFOR_Backpacks\Schnee\EUFOR_Backpacks_Viper_Schnee_co.paa"};
 };
 
+//  Civilian
+
+class EUFOR_Backpacks_Civ_Schnee : EUFOR_Backpacks_Civ_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Civ_Schnee";
+    //picture = "EUFOR_Backpacks\Schnee\ui\EUFOR_Backpacks_LegStrapBag_Schnee_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Schnee\EUFOR_Backpacks_Civ_Schnee_co.paa"};
+};
+

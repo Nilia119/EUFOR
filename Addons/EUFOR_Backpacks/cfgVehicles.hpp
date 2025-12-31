@@ -173,6 +173,19 @@ class EUFOR_Backpacks_ViperHarnessLight_Base: EUFOR_Backpacks_ViperHarness_Base
     mass=45;
 };
 
+//  Civilian
+
+class EUFOR_Backpacks_Civ_Base: EUFOR_Backpacks_Bag_Base
+{
+    author="$STR_EUFOR_Backpack_Author";
+    scope = 0;
+    picture = "EUFOR_Backpacks\WIP.paa";
+    model="\a3\Supplies_F_AoW\Bags\B_CivilianBackpack_01_F.p3d";
+    hiddenSelectionsTextures[]={"a3\Supplies_F_AoW\Bags\Data\CivilianBackpack_01_Sport_Blue_F_co.paa"};
+    maximumLoad=240;
+    mass=50;
+};
+
 
 #include "\EUFOR_Backpacks\Fleck\V_Fleck.hpp"
 #include "\EUFOR_Backpacks\Medic\V_Medic.hpp"
