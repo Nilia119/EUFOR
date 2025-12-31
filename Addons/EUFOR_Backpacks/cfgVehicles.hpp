@@ -140,6 +140,19 @@ class EUFOR_Backpacks_TacticalPack_Base_Medic: EUFOR_Backpacks_TacticalPack_Base
     mass=40;
 };
 
+//  LegStrapBag
+
+class EUFOR_Backpacks_LegStrapBag_Base: EUFOR_Backpacks_Bag_Base
+{
+    author="$STR_EUFOR_Backpack_Author";
+    scope = 0;
+    picture = "EUFOR_Backpacks\WIP.paa";
+    model="\A3\Characters_F_Orange\Vests\V_LegStrapBag_F.p3d";
+    hiddenSelectionsTextures[]={"\A3\Characters_F_Orange\Vests\Data\V_LegStrapBag_black_CO.paa"};
+    maximumLoad=80;
+    mass=8;
+};
+
 
 #include "\EUFOR_Backpacks\Fleck\V_Fleck.hpp"
 #include "\EUFOR_Backpacks\Medic\V_Medic.hpp"

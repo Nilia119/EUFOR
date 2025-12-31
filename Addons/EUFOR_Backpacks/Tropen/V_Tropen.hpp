@@ -114,3 +114,13 @@ class EUFOR_Backpacks_TacticalPack_Tropen_Medic : EUFOR_Backpacks_TacticalPack_B
     hiddenSelectionsTextures[]={"EUFOR_Backpacks\Tropen\EUFOR_Backpacks_TacticalPack_Tropen_Medic_co.paa"};
 };
 
+//  LegStrapBag
+
+class EUFOR_Backpacks_LegStrapBag_Tropen : EUFOR_Backpacks_LegStrapBag_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_LegStrapBag_Tropen";
+    //picture = "EUFOR_Backpacks\Tropen\ui\EUFOR_Backpacks_LegStrapBag_Tropen_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Tropen\EUFOR_Backpacks_LegStrapBag_Tropen_co.paa"};
+};
+

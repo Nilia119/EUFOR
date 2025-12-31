@@ -114,4 +114,14 @@ class EUFOR_Backpacks_TacticalPack_Fleck_Medic : EUFOR_Backpacks_TacticalPack_Ba
     hiddenSelectionsTextures[]={"EUFOR_Backpacks\Fleck\EUFOR_Backpacks_TacticalPack_Fleck_Medic_co.paa"};
 };
 
+//  LegStrapBag
+
+class EUFOR_Backpacks_LegStrapBag_Fleck : EUFOR_Backpacks_LegStrapBag_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_LegStrapBag_Fleck";
+    //picture = "EUFOR_Backpacks\Fleck\ui\EUFOR_Backpacks_LegStrapBag_Fleck_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Fleck\EUFOR_Backpacks_LegStrapBag_Fleck_co.paa"};
+};
+
 };

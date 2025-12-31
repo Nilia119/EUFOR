@@ -76,6 +76,11 @@
                 <English>EUFOR Tactical Backpack Medic (Flecktarn)</English>
                 <German>EUFOR Taktischer Rucksack Flecktarn, Arzt</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_LegStrapBag_Fleck">
+                <Original>EUFOR Leg Strap Bag (Flecktarn) [Laws of War]</Original>
+                <English>EUFOR Leg Strap Bag (Flecktarn) [Laws of War]</English>
+                <German>EUFOR Beintasche Flecktarn [Laws of War]</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Multi">
                 <Original>EUFOR Carryall (Multitarn)</Original>
                 <English>EUFOR Carryall (Multitarn)</English>
@@ -140,6 +145,11 @@
                 <Original>EUFOR Tactical Backpack Medic (Multitarn)</Original>
                 <English>EUFOR Tactical Backpack Medic (Multitarn)</English>
                 <German>EUFOR Taktischer Rucksack Multitarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_LegStrapBag_Multi">
+                <Original>EUFOR Leg Strap Bag (Multitarn) [Laws of War]</Original>
+                <English>EUFOR Leg Strap Bag (Multitarn) [Laws of War]</English>
+                <German>EUFOR Beintasche Multitarn [Laws of War]</German>
             </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Schnee">
                 <Original>EUFOR Carryall (Snow)</Original>
@@ -206,6 +216,11 @@
                 <English>EUFOR Tactical Backpack Medic (Snow)</English>
                 <German>EUFOR Taktischer Rucksack Schneetarn, Arzt</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_LegStrapBag_Schnee">
+                <Original>EUFOR Leg Strap Bag (Snow) [Laws of War]</Original>
+                <English>EUFOR Leg Strap Bag (Snow) [Laws of War]</English>
+                <German>EUFOR Beintasche Schneetarn [Laws of War]</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Tropen">
                 <Original>EUFOR Carryall (Tropentarn)</Original>
                 <English>EUFOR Carryall (Tropentarn)</English>
@@ -271,6 +286,11 @@
                 <English>EUFOR Tactical Backpack Medic (Tropentarn)</English>
                 <German>EUFOR Taktischer Rucksack Tropentarn, Arzt</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_LegStrapBag_Tropen">
+                <Original>EUFOR Leg Strap Bag (Tropentarn) [Laws of War]</Original>
+                <English>EUFOR Leg Strap Bag (Tropentarn) [Laws of War]</English>
+                <German>EUFOR Beintasche Tropentarn [Laws of War]</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_TropenD">
                 <Original>EUFOR Carryall (Digital-Tropentarn)</Original>
                 <English>EUFOR Carryall (Digital-Tropentarn)</English>
@@ -335,6 +355,11 @@
                 <Original>EUFOR Tactical Backpack Medic (Digital-Tropentarn)</Original>
                 <English>EUFOR Tactical Backpack Medic (Digital-Tropentarn)</English>
                 <German>EUFOR Taktischer Rucksack Digital Tropentarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_LegStrapBag_TropenD">
+                <Original>EUFOR Leg Strap Bag (Digital-Tropentarn) [Laws of War]</Original>
+                <English>EUFOR Leg Strap Bag (Digital-Tropentarn) [Laws of War]</English>
+                <German>EUFOR Beintasche Digital Tropentarn [Laws of War]</German>
             </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Medic">
                 <Original>EUFOR Carryall Medic</Original>
