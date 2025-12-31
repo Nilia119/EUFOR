@@ -5,6 +5,8 @@ ArmA 3 Mod representing the European Armed Forces (EUFOR) in the Year 2035
 Current features:
 
 - Fully ACE Compatible.
+- Fully compatible with ACE Arsenal Extended > v.1.5.1: https://steamcommunity.com/workshop/filedetails/?id=2522638637
+  - I would suggest downloading it if you use ACE (it is just the framework).
 
 - Current Uniforms (all CTRG-Uniforms (Std./Sleeves/T) and CTRG-Camo Uniform \[APEX\]).
   - German (5-Color/5-Farb) Flecktarn (Woodland) Camo Version.
@@ -22,6 +24,7 @@ Current features:
   - Booniehat and military cap in all colors.
   - All helmets can be slung with Grad Sling Helmets.
   - All helmets have a built-in cTAB camera (when cTAB is loaded separately).
+- Multiple Backpacks in all colors; when DLC is required, name includes [DLC].
 
 Planned features:
 
@@ -30,7 +33,5 @@ Planned features:
 - A Black (Digital) Camo Pattern and an EMR-Leto (Summer)/Blue (Police/National Guard) Version. (Might not fit in 100%, however I like the pattern xD).
 - Ability to change uniforms and helmets via the Ace Interaction Menu. (With ACE Wardrobe kind of implemented, however it does not work 100% to my satisfaction).
 - Vests are modifiable with ACE Wardrobe and “Armor Plate” items.
-- Multiple Fleck-/Tropentarn Backpacks.
-- Multiple Fleck-/Tropentarn retextured TFAR radios.
 - Multiple (Transport) Vehicles.
 - There are a lot of Icons Missing :(
