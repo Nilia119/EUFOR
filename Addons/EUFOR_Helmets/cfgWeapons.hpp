@@ -84,6 +84,8 @@ class EUFOR_Helmets_HelmetB_Light_Base: EUFOR_Helmets_HelmetB_Base
     model="\A3\Characters_F\BLUFOR\headgear_b_helmet_light";
     descriptionShort="$STR_A3_SP_AL_II";
     ace_hearing_hasEHP = 1;
+    ace_hearing_protection = 0.70;
+    ace_hearing_lowerVolume = 0.20;
     class ItemInfo: ItemInfo
     {
         mass=20;
@@ -109,6 +111,8 @@ class EUFOR_Helmets_HelmetB_Spec_Base: EUFOR_Helmets_HelmetB_Base
     model="\A3\Characters_F\BLUFOR\headgear_b_helmet_ballistic";
     descriptionShort="$STR_A3_SP_AL_IV";
     ace_hearing_hasEHP = 1;
+    ace_hearing_protection = 0.70;
+    ace_hearing_lowerVolume = 0.20;
     hiddenSelectionsTextures[]=
     {
         "\A3\Characters_F\BLUFOR\Data\equip1_co.paa"
@@ -138,6 +142,8 @@ class EUFOR_Helmets_HelmetB_Camo_Base: EUFOR_Helmets_HelmetB_Base
     model="\A3\Characters_F\BLUFOR\headgear_b_helmet_camo";
     picture="\A3\Characters_F\data\ui\icon_H_HelmetB_camo_ca.paa";
     ace_hearing_hasEHP = 1;
+    ace_hearing_protection = 0.70;
+    ace_hearing_lowerVolume = 0.20;
     hiddenSelections[]=
     {
         "camo1",
@@ -305,6 +311,8 @@ class EUFOR_Helmets_Viper_Base: EUFOR_Helmets_HelmetB_Base
     picture="\A3\Characters_F_Exp\OPFOR\Data\UI\icon_H_HelmetO_ViperSP_hex_F_ca.paa";
     model="\A3\Characters_F_Exp\OPFOR\headgear_o_vipersp.p3d";
     ace_hearing_hasEHP = 1;
+    ace_hearing_protection = 0.90;
+    ace_hearing_lowerVolume = 0.50;
     descriptionShort="$STR_A3_SP_AL_V";
     hiddenSelections[]=
     {
@@ -384,6 +392,8 @@ class EUFOR_Helmets_HBK_Headset_Base: EUFOR_Helmets_HBK_Base
 {
     model="\A3\Characters_F_Enoch\Headgear\H_HelmetHBK_01_headset_F.p3d";
     ace_hearing_hasEHP = 1;
+    ace_hearing_protection = 0.70;
+    ace_hearing_lowerVolume = 0.20;
     class ItemInfo: ItemInfo
     {
         uniformModel="\A3\Characters_F_Enoch\Headgear\H_HelmetHBK_01_headset_F.p3d";
@@ -395,6 +405,8 @@ class EUFOR_Helmets_HBK_Ear_Base: EUFOR_Helmets_HBK_Base
 {
     model="\A3\Characters_F_Enoch\Headgear\H_HelmetHBK_01_ear_F.p3d";
     ace_hearing_hasEHP = 1;
+    ace_hearing_protection = 0.70;
+    ace_hearing_lowerVolume = 0.20;
     class ItemInfo: ItemInfo
     {
         uniformModel="\A3\Characters_F_Enoch\Headgear\H_HelmetHBK_01_ear_F.p3d";
@@ -415,6 +427,8 @@ class EUFOR_Helmets_HBK_Chops_Base: EUFOR_Helmets_HBK_Base
 {
     model="\A3\Characters_F_Enoch\Headgear\H_HelmetHBK_01_chops_F.p3d";
     ace_hearing_hasEHP = 1;
+    ace_hearing_protection = 0.70;
+    ace_hearing_lowerVolume = 0.20;
     class ItemInfo: ItemInfo
     {
         uniformModel="\A3\Characters_F_Enoch\Headgear\H_HelmetHBK_01_chops_F.p3d";
@@ -481,6 +495,8 @@ class EUFOR_Helmets_HelmetB_TI_Base: EUFOR_Helmets_HelmetB_Base
     model="\A3\Characters_F_Exp\BLUFOR\H_HelmetB_TI_tna_F.p3d";
     descriptionShort="$STR_A3_SP_AL_II";
     ace_hearing_hasEHP = 1;
+    ace_hearing_protection = 0.70;
+    ace_hearing_lowerVolume = 0.20;
     hiddenSelections[]=
     {
         "camo"
