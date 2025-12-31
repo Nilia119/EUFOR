@@ -124,4 +124,22 @@ class EUFOR_Backpacks_LegStrapBag_Fleck : EUFOR_Backpacks_LegStrapBag_Base {
     hiddenSelectionsTextures[]={"EUFOR_Backpacks\Fleck\EUFOR_Backpacks_LegStrapBag_Fleck_co.paa"};
 };
 
+//  ViperOP
+
+class EUFOR_Backpacks_ViperHarness_Fleck : EUFOR_Backpacks_ViperHarness_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Viper_Fleck";
+    //picture = "EUFOR_Backpacks\Fleck\ui\EUFOR_Backpacks_LegStrapBag_Fleck_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Fleck\EUFOR_Backpacks_Viper_Fleck_co.paa"};
+};
+
+class EUFOR_Backpacks_ViperHarnessLight_Fleck : EUFOR_Backpacks_ViperHarnessLight_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_ViperLight_Fleck";
+    //picture = "EUFOR_Backpacks\Fleck\ui\EUFOR_Backpacks_LegStrapBag_Fleck_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Fleck\EUFOR_Backpacks_Viper_Fleck_co.paa"};
+};
+
 };

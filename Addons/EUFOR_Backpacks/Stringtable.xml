@@ -81,6 +81,16 @@
                 <English>EUFOR Leg Strap Bag (Flecktarn) [Laws of War]</English>
                 <German>EUFOR Beintasche Flecktarn [Laws of War]</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_Viper_Fleck">
+                <Original>EUFOR Viper Harness (Flecktarn) [Apex]</Original>
+                <English>EUFOR Viper Harness (Flecktarn) [Apex]</English>
+                <German>EUFOR Viper-Harnisch Flecktarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_ViperLight_Fleck">
+                <Original>EUFOR Viper Light Harness (Flecktarn) [Apex]</Original>
+                <English>EUFOR Viper Light Harness (Flecktarn) [Apex]</English>
+                <German>EUFOR Viper-Harnisch leicht Flecktarn [Apex]</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Multi">
                 <Original>EUFOR Carryall (Multitarn)</Original>
                 <English>EUFOR Carryall (Multitarn)</English>
@@ -150,6 +160,16 @@
                 <Original>EUFOR Leg Strap Bag (Multitarn) [Laws of War]</Original>
                 <English>EUFOR Leg Strap Bag (Multitarn) [Laws of War]</English>
                 <German>EUFOR Beintasche Multitarn [Laws of War]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Viper_Multi">
+                <Original>EUFOR Viper Harness (Multitarn) [Apex]</Original>
+                <English>EUFOR Viper Harness (Multitarn) [Apex]</English>
+                <German>EUFOR Viper-Harnisch Multitarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_ViperLight_Multi">
+                <Original>EUFOR Viper Light Harness (Multitarn) [Apex]</Original>
+                <English>EUFOR Viper Light Harness (Multitarn) [Apex]</English>
+                <German>EUFOR Viper-Harnisch leicht Multitarn [Apex]</German>
             </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Schnee">
                 <Original>EUFOR Carryall (Snow)</Original>
@@ -221,6 +241,16 @@
                 <English>EUFOR Leg Strap Bag (Snow) [Laws of War]</English>
                 <German>EUFOR Beintasche Schneetarn [Laws of War]</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_Viper_Schnee">
+                <Original>EUFOR Viper Harness (Snow) [Apex]</Original>
+                <English>EUFOR Viper Harness (Snow) [Apex]</English>
+                <German>EUFOR Viper-Harnisch Schneetarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_ViperLight_Schnee">
+                <Original>EUFOR Viper Light Harness (Snow) [Apex]</Original>
+                <English>EUFOR Viper Light Harness (Snow) [Apex]</English>
+                <German>EUFOR Viper-Harnisch leicht Schneetarn [Apex]</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Tropen">
                 <Original>EUFOR Carryall (Tropentarn)</Original>
                 <English>EUFOR Carryall (Tropentarn)</English>
@@ -291,6 +321,16 @@
                 <English>EUFOR Leg Strap Bag (Tropentarn) [Laws of War]</English>
                 <German>EUFOR Beintasche Tropentarn [Laws of War]</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_Viper_Tropen">
+                <Original>EUFOR Viper Harness (Tropentarn) [Apex]</Original>
+                <English>EUFOR Viper Harness (Tropentarn) [Apex]</English>
+                <German>EUFOR Viper-Harnisch Tropentarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_ViperLight_Tropen">
+                <Original>EUFOR Viper Light Harness (Tropentarn) [Apex]</Original>
+                <English>EUFOR Viper Light Harness (Tropentarn) [Apex]</English>
+                <German>EUFOR Viper-Harnisch leicht Tropentarn [Apex]</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_TropenD">
                 <Original>EUFOR Carryall (Digital-Tropentarn)</Original>
                 <English>EUFOR Carryall (Digital-Tropentarn)</English>
@@ -360,6 +400,16 @@
                 <Original>EUFOR Leg Strap Bag (Digital-Tropentarn) [Laws of War]</Original>
                 <English>EUFOR Leg Strap Bag (Digital-Tropentarn) [Laws of War]</English>
                 <German>EUFOR Beintasche Digital Tropentarn [Laws of War]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Viper_TropenD">
+                <Original>EUFOR Viper Harness (Digital-Tropentarn) [Apex]</Original>
+                <English>EUFOR Viper Harness (Digital-Tropentarn) [Apex]</English>
+                <German>EUFOR Viper-Harnisch Digital Tropentarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_ViperLight_TropenD">
+                <Original>EUFOR Viper Light Harness (Digital-Tropentarn) [Apex]</Original>
+                <English>EUFOR Viper Light Harness (Digital-Tropentarn) [Apex]</English>
+                <German>EUFOR Viper-Harnisch leicht Digital Tropentarn [Apex]</German>
             </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Medic">
                 <Original>EUFOR Carryall Medic</Original>

@@ -124,3 +124,21 @@ class EUFOR_Backpacks_LegStrapBag_Schnee : EUFOR_Backpacks_LegStrapBag_Base {
     hiddenSelectionsTextures[]={"EUFOR_Backpacks\Schnee\EUFOR_Backpacks_LegStrapBag_Schnee_co.paa"};
 };
 
+//  ViperOP
+
+class EUFOR_Backpacks_ViperHarness_Schnee : EUFOR_Backpacks_ViperHarness_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Viper_Schnee";
+    //picture = "EUFOR_Backpacks\Schnee\ui\EUFOR_Backpacks_LegStrapBag_Schnee_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Schnee\EUFOR_Backpacks_Viper_Schnee_co.paa"};
+};
+
+class EUFOR_Backpacks_ViperHarnessLight_Schnee : EUFOR_Backpacks_ViperHarnessLight_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_ViperLight_Schnee";
+    //picture = "EUFOR_Backpacks\Schnee\ui\EUFOR_Backpacks_LegStrapBag_Schnee_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Schnee\EUFOR_Backpacks_Viper_Schnee_co.paa"};
+};
+

@@ -124,3 +124,21 @@ class EUFOR_Backpacks_LegStrapBag_Tropen : EUFOR_Backpacks_LegStrapBag_Base {
     hiddenSelectionsTextures[]={"EUFOR_Backpacks\Tropen\EUFOR_Backpacks_LegStrapBag_Tropen_co.paa"};
 };
 
+//  ViperOP
+
+class EUFOR_Backpacks_ViperHarness_Tropen : EUFOR_Backpacks_ViperHarness_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Viper_Tropen";
+    //picture = "EUFOR_Backpacks\Tropen\ui\EUFOR_Backpacks_LegStrapBag_Tropen_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Tropen\EUFOR_Backpacks_Viper_Tropen_co.paa"};
+};
+
+class EUFOR_Backpacks_ViperHarnessLight_Tropen : EUFOR_Backpacks_ViperHarnessLight_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_ViperLight_Tropen";
+    //picture = "EUFOR_Backpacks\Tropen\ui\EUFOR_Backpacks_LegStrapBag_Tropen_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Tropen\EUFOR_Backpacks_Viper_Tropen_co.paa"};
+};
+

@@ -153,6 +153,26 @@ class EUFOR_Backpacks_LegStrapBag_Base: EUFOR_Backpacks_Bag_Base
     mass=8;
 };
 
+//  ViperOP
+
+class EUFOR_Backpacks_ViperHarness_Base: EUFOR_Backpacks_Bag_Base
+{
+    author="$STR_EUFOR_Backpack_Author";
+    scope = 0;
+    picture = "EUFOR_Backpacks\WIP.paa";
+    model="\A3\Supplies_F_Exp\Bags\B_ViperHarness_F.p3d";
+    hiddenSelectionsTextures[]={"\A3\Supplies_F_Exp\Bags\Data\Backpack_ViperOp_blk_co.paa"};
+    maximumLoad=300;
+    mass=55;
+};
+
+class EUFOR_Backpacks_ViperHarnessLight_Base: EUFOR_Backpacks_ViperHarness_Base
+{
+    model="\A3\Supplies_F_Exp\Bags\B_ViperLightHarness_F.p3d";
+    maximumLoad=260;
+    mass=45;
+};
+
 
 #include "\EUFOR_Backpacks\Fleck\V_Fleck.hpp"
 #include "\EUFOR_Backpacks\Medic\V_Medic.hpp"
