@@ -23,6 +23,8 @@ class CfgPatches {
             "EUFOR_Backpacks_Radiobag_Base_PL",
             "EUFOR_Backpacks_FieldPack_Base",
             "EUFOR_Backpacks_FieldPack_Base_Medic",
+            "EUFOR_Backpacks_TacticalPack_Base",
+            "EUFOR_Backpacks_TacticalPack_Base_Medic",
 
             "EUFOR_Backpacks_Tortilia_Fleck",
             "EUFOR_Backpacks_Tortilia_Fleck_Medic",
@@ -35,6 +37,9 @@ class CfgPatches {
             "EUFOR_Backpacks_Radiobag_Fleck_PL",
             "EUFOR_Backpacks_FieldPack_Fleck",
             "EUFOR_Backpacks_FieldPack_Fleck_Medic",
+            "EUFOR_Backpacks_TacticalPack_Fleck",
+            "EUFOR_Backpacks_TacticalPack_Fleck_Medic",
+
             "EUFOR_Backpacks_Tortilia_Multi",
             "EUFOR_Backpacks_Tortilia_Multi_Medic",
             "EUFOR_Backpacks_Tortilia_Multi_Ammo",
@@ -46,6 +51,9 @@ class CfgPatches {
             "EUFOR_Backpacks_Radiobag_Multi_PL",
             "EUFOR_Backpacks_FieldPack_Multi",
             "EUFOR_Backpacks_FieldPack_Multi_Medic",
+            "EUFOR_Backpacks_TacticalPack_Multi",
+            "EUFOR_Backpacks_TacticalPack_Multi_Medic",
+
             "EUFOR_Backpacks_Tortilia_Schnee",
             "EUFOR_Backpacks_Tortilia_Schnee_Medic",
             "EUFOR_Backpacks_Tortilia_Schnee_Ammo",
@@ -57,6 +65,8 @@ class CfgPatches {
             "EUFOR_Backpacks_Radiobag_Schnee_PL",
             "EUFOR_Backpacks_FieldPack_Schnee",
             "EUFOR_Backpacks_FieldPack_Schnee_Medic",
+            "EUFOR_Backpacks_TacticalPack_Schnee",
+            "EUFOR_Backpacks_TacticalPack_Schnee_Medic",
 
             "EUFOR_Backpacks_Tortilia_Tropen",
             "EUFOR_Backpacks_Tortilia_Tropen_Medic",
@@ -69,6 +79,8 @@ class CfgPatches {
             "EUFOR_Backpacks_Radiobag_Tropen_PL",
             "EUFOR_Backpacks_FieldPack_Tropen",
             "EUFOR_Backpacks_FieldPack_Tropen_Medic",
+            "EUFOR_Backpacks_TacticalPack_Tropen",
+            "EUFOR_Backpacks_TacticalPack_Tropen_Medic",
 
             "EUFOR_Backpacks_Tortilia_TropenD",
             "EUFOR_Backpacks_Tortilia_TropenD_Medic",
@@ -81,6 +93,8 @@ class CfgPatches {
             "EUFOR_Backpacks_Radiobag_TropenD_PL",
             "EUFOR_Backpacks_FieldPack_TropenD",
             "EUFOR_Backpacks_FieldPack_TropenD_Medic",
+            "EUFOR_Backpacks_TacticalPack_TropenD",
+            "EUFOR_Backpacks_TacticalPack_TropenD_Medic",
 
             "EUFOR_Backpacks_Tortilia_Medic",
             "EUFOR_Backpacks_Tortilia_Medic_1",

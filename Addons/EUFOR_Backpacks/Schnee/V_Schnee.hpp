@@ -96,3 +96,21 @@ class EUFOR_Backpacks_FieldPack_Schnee_Medic : EUFOR_Backpacks_FieldPack_Base_Me
     hiddenSelectionsTextures[]={"EUFOR_Backpacks\Schnee\EUFOR_Backpacks_FieldPack_Schnee_Medic_co.paa"};
 };
 
+//  TacticalPack
+
+class EUFOR_Backpacks_TacticalPack_Schnee : EUFOR_Backpacks_TacticalPack_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_TacticalPack_Schnee";
+    //picture = "EUFOR_Backpacks\Schnee\ui\EUFOR_Backpacks_Kitbag_Schnee_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Schnee\EUFOR_Backpacks_TacticalPack_Schnee_co.paa"};
+};
+
+class EUFOR_Backpacks_TacticalPack_Schnee_Medic : EUFOR_Backpacks_TacticalPack_Base_Medic {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_TacticalPack_Schnee_Medic";
+    //picture = "EUFOR_Backpacks\Schnee\ui\EUFOR_Backpacks_Kitbag_Schnee_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Schnee\EUFOR_Backpacks_TacticalPack_Schnee_Medic_co.paa"};
+};
+

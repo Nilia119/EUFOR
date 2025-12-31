@@ -66,6 +66,16 @@
                 <English>EUFOR Field Pack Medic (Flecktarn)</English>
                 <German>EUFOR Feldpack Flecktarn, Arzt</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_Fleck">
+                <Original>EUFOR Tactical Backpack (Flecktarn)</Original>
+                <English>EUFOR Tactical Backpack (Flecktarn)</English>
+                <German>EUFOR Taktischer Rucksack Flecktarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_Fleck_Medic">
+                <Original>EUFOR Tactical Backpack Medic (Flecktarn)</Original>
+                <English>EUFOR Tactical Backpack Medic (Flecktarn)</English>
+                <German>EUFOR Taktischer Rucksack Flecktarn, Arzt</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Multi">
                 <Original>EUFOR Carryall (Multitarn)</Original>
                 <English>EUFOR Carryall (Multitarn)</English>
@@ -120,6 +130,16 @@
                 <Original>EUFOR Field Pack Medic (Multitarn)</Original>
                 <English>EUFOR Field Pack Medic (Multitarn)</English>
                 <German>EUFOR Feldpack Multitarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_Multi">
+                <Original>EUFOR Tactical Backpack (Multitarn)</Original>
+                <English>EUFOR Tactical Backpack (Multitarn)</English>
+                <German>EUFOR Taktischer Rucksack Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_Multi_Medic">
+                <Original>EUFOR Tactical Backpack Medic (Multitarn)</Original>
+                <English>EUFOR Tactical Backpack Medic (Multitarn)</English>
+                <German>EUFOR Taktischer Rucksack Multitarn, Arzt</German>
             </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Schnee">
                 <Original>EUFOR Carryall (Snow)</Original>
@@ -176,6 +196,16 @@
                 <English>EUFOR Field Pack Medic (Snow)</English>
                 <German>EUFOR Feldpack Schneetarn, Arzt</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_Schnee">
+                <Original>EUFOR Tactical Backpack (Snow)</Original>
+                <English>EUFOR Tactical Backpack (Snow)</English>
+                <German>EUFOR Taktischer Rucksack Schneetarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_Schnee_Medic">
+                <Original>EUFOR Tactical Backpack Medic (Snow)</Original>
+                <English>EUFOR Tactical Backpack Medic (Snow)</English>
+                <German>EUFOR Taktischer Rucksack Schneetarn, Arzt</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Tropen">
                 <Original>EUFOR Carryall (Tropentarn)</Original>
                 <English>EUFOR Carryall (Tropentarn)</English>
@@ -231,6 +261,16 @@
                 <English>EUFOR Field Pack Medic (Tropentarn)</English>
                 <German>EUFOR Feldpack Tropentarn, Arzt</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_Tropen">
+                <Original>EUFOR Tactical Backpack (Tropentarn)</Original>
+                <English>EUFOR Tactical Backpack (Tropentarn)</English>
+                <German>EUFOR Taktischer Rucksack Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_Tropen_Medic">
+                <Original>EUFOR Tactical Backpack Medic (Tropentarn)</Original>
+                <English>EUFOR Tactical Backpack Medic (Tropentarn)</English>
+                <German>EUFOR Taktischer Rucksack Tropentarn, Arzt</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_TropenD">
                 <Original>EUFOR Carryall (Digital-Tropentarn)</Original>
                 <English>EUFOR Carryall (Digital-Tropentarn)</English>
@@ -285,6 +325,16 @@
                 <Original>EUFOR Field Pack Medic (Digital-Tropentarn)</Original>
                 <English>EUFOR Field Pack Medic (Digital-Tropentarn)</English>
                 <German>EUFOR Feldpack Digital Tropentarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_TropenD">
+                <Original>EUFOR Tactical Backpack (Digital-Tropentarn)</Original>
+                <English>EUFOR Tactical Backpack (Digital-Tropentarn)</English>
+                <German>EUFOR Taktischer Rucksack Digital Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_TropenD_Medic">
+                <Original>EUFOR Tactical Backpack Medic (Digital-Tropentarn)</Original>
+                <English>EUFOR Tactical Backpack Medic (Digital-Tropentarn)</English>
+                <German>EUFOR Taktischer Rucksack Digital Tropentarn, Arzt</German>
             </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Medic">
                 <Original>EUFOR Carryall Medic</Original>

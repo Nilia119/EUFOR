@@ -121,6 +121,25 @@ class EUFOR_Backpacks_FieldPack_Base_Medic: EUFOR_Backpacks_FieldPack_Base
     mass=30;
 };
 
+//  Tacticalpack
+
+class EUFOR_Backpacks_TacticalPack_Base: EUFOR_Backpacks_Bag_Base
+{
+    author="$STR_EUFOR_Backpack_Author";
+    scope = 0;
+    picture = "EUFOR_Backpacks\WIP.paa";
+    model="\A3\weapons_f\Ammoboxes\bags\Backpack_Small";
+    hiddenSelectionsTextures[]={"\A3\weapons_f\ammoboxes\bags\data\backpack_small_co.paa"};
+    maximumLoad=240;
+    mass=40;
+};
+
+class EUFOR_Backpacks_TacticalPack_Base_Medic: EUFOR_Backpacks_TacticalPack_Base
+{
+    maximumLoad=360;
+    mass=40;
+};
+
 
 #include "\EUFOR_Backpacks\Fleck\V_Fleck.hpp"
 #include "\EUFOR_Backpacks\Medic\V_Medic.hpp"

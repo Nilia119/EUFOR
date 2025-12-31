@@ -96,4 +96,22 @@ class EUFOR_Backpacks_FieldPack_Fleck_Medic : EUFOR_Backpacks_FieldPack_Base_Med
     hiddenSelectionsTextures[]={"EUFOR_Backpacks\Fleck\EUFOR_Backpacks_FieldPack_Fleck_Medic_co.paa"};
 };
 
+//  TacticalPack
+
+class EUFOR_Backpacks_TacticalPack_Fleck : EUFOR_Backpacks_TacticalPack_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_TacticalPack_Fleck";
+    //picture = "EUFOR_Backpacks\Fleck\ui\EUFOR_Backpacks_Kitbag_Fleck_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Fleck\EUFOR_Backpacks_TacticalPack_Fleck_co.paa"};
+};
+
+class EUFOR_Backpacks_TacticalPack_Fleck_Medic : EUFOR_Backpacks_TacticalPack_Base_Medic {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_TacticalPack_Fleck_Medic";
+    //picture = "EUFOR_Backpacks\Fleck\ui\EUFOR_Backpacks_Kitbag_Fleck_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Fleck\EUFOR_Backpacks_TacticalPack_Fleck_Medic_co.paa"};
+};
+
 };
