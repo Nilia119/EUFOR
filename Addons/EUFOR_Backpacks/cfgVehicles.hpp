@@ -59,6 +59,24 @@ class EUFOR_Backpacks_Compact_Base_Medic : EUFOR_Backpacks_Compact_Base {
     mass = 20;
 };
 
+//  Kitbag
+
+class EUFOR_Backpacks_Kitbag_Base: EUFOR_Backpacks_Bag_Base
+{
+    author="$STR_EUFOR_Backpack_Author";
+    scope = 0;
+    picture = "EUFOR_Backpacks\WIP.paa";
+    model="\A3\weapons_f\Ammoboxes\bags\Backpack_Fast";
+    hiddenSelectionsTextures[]={"\A3\weapons_f\ammoboxes\bags\data\backpack_fast_rgr_co.paa"};
+    maximumLoad=280;
+    mass=50;
+};
+
+class EUFOR_Backpacks_Kitbag_Base_Medic: EUFOR_Backpacks_Kitbag_Base
+{
+    maximumLoad=420;
+    mass=50;
+};
 
 
 #include "\EUFOR_Backpacks\Fleck\V_Fleck.hpp"

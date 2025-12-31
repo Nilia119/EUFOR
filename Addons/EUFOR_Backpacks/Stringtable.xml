@@ -36,6 +36,16 @@
                 <English>EUFOR Assault Pack Medic (Flecktarn)</English>
                 <German>EUFOR Angriffsrucksack Flecktarn, Arzt</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Fleck">
+                <Original>EUFOR Kitbag (Flecktarn)</Original>
+                <English>EUFOR Kitbag (Flecktarn)</English>
+                <German>EUFOR Ranzen Flecktarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Fleck_Medic">
+                <Original>EUFOR Kitbag Medic (Flecktarn)</Original>
+                <English>EUFOR Kitbag Medic (Flecktarn)</English>
+                <German>EUFOR Ranzen Flecktarn, Arzt</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Multi">
                 <Original>EUFOR Carryall (Multitarn)</Original>
                 <English>EUFOR Carryall (Multitarn)</English>
@@ -60,6 +70,16 @@
                 <Original>EUFOR Assault Pack Medic (Multitarn)</Original>
                 <English>EUFOR Assault Pack Medic (Multitarn)</English>
                 <German>EUFOR Angriffsrucksack Multitarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Multi">
+                <Original>EUFOR Kitbag (Multitarn)</Original>
+                <English>EUFOR Kitbag (Multitarn)</English>
+                <German>EUFOR Ranzen Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Multi_Medic">
+                <Original>EUFOR Kitbag Medic (Multitarn)</Original>
+                <English>EUFOR Kitbag Medic (Multitarn)</English>
+                <German>EUFOR Ranzen Multitarn, Arzt</German>
             </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Schnee">
                 <Original>EUFOR Carryall (Snow)</Original>
@@ -86,6 +106,16 @@
                 <English>EUFOR Assault Pack Medic (Snow)</English>
                 <German>EUFOR Angriffsrucksack Schneetarn, Arzt</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Schnee">
+                <Original>EUFOR Kitbag (Snow)</Original>
+                <English>EUFOR Kitbag (Snow)</English>
+                <German>EUFOR Ranzen Schneetarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Schnee_Medic">
+                <Original>EUFOR Kitbag Medic (Snow)</Original>
+                <English>EUFOR Kitbag Medic (Snow)</English>
+                <German>EUFOR Ranzen Schneetarn, Arzt</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Tropen">
                 <Original>EUFOR Carryall (Tropentarn)</Original>
                 <English>EUFOR Carryall (Tropentarn)</English>
@@ -111,6 +141,16 @@
                 <English>EUFOR Assault Pack Medic (Tropentarn)</English>
                 <German>EUFOR Angriffsrucksack Tropentarn, Arzt</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Tropen">
+                <Original>EUFOR Kitbag (Tropentarn)</Original>
+                <English>EUFOR Kitbag (Tropentarn)</English>
+                <German>EUFOR Ranzen Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Tropen_Medic">
+                <Original>EUFOR Kitbag Medic (Tropentarn)</Original>
+                <English>EUFOR Kitbag Medic (Tropentarn)</English>
+                <German>EUFOR Ranzen Tropentarn, Arzt</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_TropenD">
                 <Original>EUFOR Carryall (Digital-Tropentarn)</Original>
                 <English>EUFOR Carryall (Digital-Tropentarn)</English>
@@ -135,6 +175,16 @@
                 <Original>EUFOR Assault Pack Medic (Digital-Tropentarn)</Original>
                 <English>EUFOR Assault Pack Medic (Digital-Tropentarn)</English>
                 <German>EUFOR Angriffsrucksack Digital Tropentarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_TropenD">
+                <Original>EUFOR Kitbag (Digital-Tropentarn)</Original>
+                <English>EUFOR Kitbag (Digital-Tropentarn)</English>
+                <German>EUFOR Ranzen Digital Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_TropenD_Medic">
+                <Original>EUFOR Kitbag Medic (Digital-Tropentarn)</Original>
+                <English>EUFOR Kitbag Medic (Digital-Tropentarn)</English>
+                <German>EUFOR Ranzen Digital Tropentarn, Arzt</German>
             </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Medic">
                 <Original>EUFOR Carryall Medic</Original>
@@ -170,6 +220,26 @@
                 <Original>EUFOR Assault Pack Medic Red</Original>
                 <English>EUFOR Assault Pack Medic Red</English>
                 <German>EUFOR Angriffsrucksack Sanitäter Rot</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Medic">
+                <Original>EUFOR Kitbag Medic</Original>
+                <English>EUFOR Kitbag Medic</English>
+                <German>EUFOR Ranzen Sanitäter</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Medic_1">
+                <Original>EUFOR Kitbag Medic Green</Original>
+                <English>EUFOR Kitbag Medic Green</English>
+                <German>EUFOR Ranzen Sanitäter Grün</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Medic_2">
+                <Original>EUFOR Kitbag Medic Orange</Original>
+                <English>EUFOR Kitbag Medic Orange</English>
+                <German>EUFOR Ranzen Sanitäter Orange</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Medic_3">
+                <Original>EUFOR Kitbag Medic Red</Original>
+                <English>EUFOR Kitbag Medic Red</English>
+                <German>EUFOR Ranzen Sanitäter Rot</German>
             </Key>
     </Package>
 </Project>

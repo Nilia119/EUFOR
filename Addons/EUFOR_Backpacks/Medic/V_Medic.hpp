@@ -57,4 +57,35 @@ class EUFOR_Backpacks_Compact_Medic_3 : EUFOR_Backpacks_Compact_Medic {
     hiddenSelectionsTextures[]={"EUFOR_Backpacks\Medic\EUFOR_Backpacks_Compact_Medic_Red_co.paa"};
 };
 
+//  Kitbag
+
+class EUFOR_Backpacks_Kitbag_Medic : EUFOR_Backpacks_Kitbag_Base_Medic {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Kitbag_Medic";
+    //picture = "EUFOR_Backpacks\Fleck\ui\EUFOR_Backpacks_Kitbag_Fleck_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Medic\EUFOR_Backpacks_Kitbag_Medic_co.paa"};
+    maximumLoad = 520;
+    mass = 50;
+};
+
+class EUFOR_Backpacks_Kitbag_Medic_1 : EUFOR_Backpacks_Kitbag_Medic {
+    author = "$STR_EUFOR_Backpacks_Author";
+    displayName = "$STR_EUFOR_Backpacks_Kitbag_Medic_1";
+    //picture = "EUFOR_Backpacks\Fleck\ui\EUFOR_Backpacks_Kitbag_Fleck_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Medic\EUFOR_Backpacks_Kitbag_Medic_Green_co.paa"};
+};
+
+class EUFOR_Backpacks_Kitbag_Medic_2 : EUFOR_Backpacks_Kitbag_Medic {
+    author = "$STR_EUFOR_Backpacks_Author";
+    displayName = "$STR_EUFOR_Backpacks_Kitbag_Medic_2";
+    //picture = "EUFOR_Backpacks\Fleck\ui\EUFOR_Backpacks_Kitbag_Fleck_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Medic\EUFOR_Backpacks_Kitbag_Medic_Orange_co.paa"};
+};
+
+class EUFOR_Backpacks_Kitbag_Medic_3 : EUFOR_Backpacks_Kitbag_Medic {
+    author = "$STR_EUFOR_Backpacks_Author";
+    displayName = "$STR_EUFOR_Backpacks_Kitbag_Medic_3";
+    //picture = "EUFOR_Backpacks\Fleck\ui\EUFOR_Backpacks_Kitbag_Fleck_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Medic\EUFOR_Backpacks_Kitbag_Medic_Red_co.paa"};
 };
