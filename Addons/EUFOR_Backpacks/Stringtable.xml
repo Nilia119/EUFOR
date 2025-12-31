@@ -11,17 +11,22 @@
                 <English>Nilia</English>
                 <German>Nilia</German>
             </Key>
-            <Key ID="STR_EUFOR_Backpacks_Fleck_Tortilia">
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Fleck">
                 <Original>EUFOR Carryall (Flecktarn)</Original>
                 <English>EUFOR Carryall (Flecktarn)</English>
                 <German>EUFOR Großer Rucksack Flecktarn</German>
             </Key>
-            <Key ID="STR_EUFOR_Backpacks_Fleck_Tortilia_Medic">
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Fleck_Medic">
                 <Original>EUFOR Carryall Medic (Flecktarn)</Original>
                 <English>EUFOR Carryall Medic (Flecktarn)</English>
                 <German>EUFOR Großer Rucksack Flecktarn, Arzt</German>
             </Key>
             <Key ID="STR_EUFOR_Backpacks_Fleck_Compact">
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Fleck_Ammo">
+                <Original>EUFOR Carryall Ammo (Flecktarn)</Original>
+                <English>EUFOR Carryall Ammo (Flecktarn)</English>
+                <German>EUFOR Großer Rucksack Flecktarn, Munition</German>
+            </Key>
                 <Original>EUFOR Assault Pack (Flecktarn)</Original>
                 <English>EUFOR Assault Pack (Flecktarn)</English>
                 <German>EUFOR Angriffsrucksack Flecktarn</German>
@@ -31,25 +36,85 @@
                 <English>EUFOR Assault Pack Medic (Flecktarn)</English>
                 <German>EUFOR Angriffsrucksack Flecktarn, Arzt</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Multi">
+                <Original>EUFOR Carryall (Multitarn)</Original>
+                <English>EUFOR Carryall (Multitarn)</English>
+                <German>EUFOR Großer Rucksack Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Multi_Medic">
+                <Original>EUFOR Carryall Medic (Multitarn)</Original>
+                <English>EUFOR Carryall Medic (Multitarn)</English>
+                <German>EUFOR Großer Rucksack Multitarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Multi_Ammo">
+                <Original>EUFOR Carryall Ammo (Multitarn)</Original>
+                <English>EUFOR Carryall Ammo (Multitarn)</English>
+                <German>EUFOR Großer Rucksack Multitarn, Munition</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Schnee">
+                <Original>EUFOR Carryall (Snow)</Original>
+                <English>EUFOR Carryall (Snow)</English>
+                <German>EUFOR Großer Rucksack Schneetarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Schnee_Medic">
+                <Original>EUFOR Carryall Medic (Snow)</Original>
+                <English>EUFOR Carryall Medic (Snow)</English>
+                <German>EUFOR Großer Rucksack Schneetarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Schnee_Ammo">
+                <Original>EUFOR Carryall Ammo (Snow)</Original>
+                <English>EUFOR Carryall Ammo (Snow)</English>
+                <German>EUFOR Großer Rucksack Schneetarn, Munition</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Compact_Schnee_Medic">
                 <Original>EUFOR Assault Pack Medic (Snow)</Original>
                 <English>EUFOR Assault Pack Medic (Snow)</English>
                 <German>EUFOR Angriffsrucksack Schneetarn, Arzt</German>
             </Key>
-            <Key ID="STR_EUFOR_Backpacks_Tropen_Tortilia">
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Tropen">
                 <Original>EUFOR Carryall (Tropentarn)</Original>
                 <English>EUFOR Carryall (Tropentarn)</English>
                 <German>EUFOR Großer Rucksack Tropentarn</German>
             </Key>
-            <Key ID="STR_EUFOR_Backpacks_Tropen_Tortilia_Medic">
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Tropen_Medic">
                 <Original>EUFOR Carryall Medic (Tropentarn)</Original>
                 <English>EUFOR Carryall Medic (Tropentarn)</English>
                 <German>EUFOR Großer Rucksack Tropentarn, Arzt</German>
             </Key>
-            <Key ID="STR_EUFOR_Backpacks_Medic_Tortilia">
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Tropen_Ammo">
+                <Original>EUFOR Carryall Ammo (Tropentarn)</Original>
+                <English>EUFOR Carryall Ammo (Tropentarn)</English>
+                <German>EUFOR Großer Rucksack Tropentarn, Munition</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_TropenD">
+                <Original>EUFOR Carryall (Digital-Tropentarn)</Original>
+                <English>EUFOR Carryall (Digital-Tropentarn)</English>
+                <German>EUFOR Großer Rucksack Digital Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_TropenD_Medic">
+                <Original>EUFOR Carryall Medic (Digital-Tropentarn)</Original>
+                <English>EUFOR Carryall Medic (Digital-Tropentarn)</English>
+                <German>EUFOR Großer Rucksack Digital Tropentarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_TropenD_Ammo">
+                <Original>EUFOR Carryall Ammo (Digital-Tropentarn)</Original>
+                <English>EUFOR Carryall Ammo (Digital-Tropentarn)</English>
+                <German>EUFOR Großer Rucksack Digital Tropentarn, Munition</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Medic">
                 <Original>EUFOR Carryall Medic</Original>
                 <English>EUFOR Carryall Medic</English>
                 <German>EUFOR Großer Rucksack Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Medic_1">
+                <Original>EUFOR Carryall Medic Green</Original>
+                <English>EUFOR Carryall Medic Green</English>
+                <German>EUFOR Großer Rucksack Arzt Grün</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Medic_2">
+                <Original>EUFOR Carryall Medic Orange</Original>
+                <English>EUFOR Carryall Medic Orange</English>
+                <German>EUFOR Großer Rucksack Arzt Orange</German>
             </Key>
     </Package>
 </Project>

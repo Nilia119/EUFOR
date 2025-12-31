@@ -37,6 +37,11 @@ class EUFOR_Backpacks_Tortilia_Base_Medic : EUFOR_Backpacks_Tortilia_Base {
     mass = 60;
 };
 
+class EUFOR_Backpacks_Tortilia_Base_Ammo : EUFOR_Backpacks_Tortilia_Base {
+    maximumLoad = 440;
+    mass = 60;
+};
+
 //   Compact
 
 class EUFOR_Backpacks_Compact_Base : EUFOR_Backpacks_Bag_Base {
