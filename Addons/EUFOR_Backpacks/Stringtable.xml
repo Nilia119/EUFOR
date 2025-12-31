@@ -96,6 +96,11 @@
                 <English>EUFOR Everyday Backpack (Flecktarn) [Laws of War]</English>
                 <German>EUFOR Tagesrucksack Flecktarn [Laws of War]</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_UAV_Fleck">
+                <Original>EUFOR UAV Backpack (Flecktarn)</Original>
+                <English>EUFOR UAV Backpack (Flecktarn)</English>
+                <German>EUFOR UAV Rucksack Flecktarn</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Multi">
                 <Original>EUFOR Carryall (Multitarn)</Original>
                 <English>EUFOR Carryall (Multitarn)</English>
@@ -180,6 +185,11 @@
                 <Original>EUFOR Everyday Backpack (Multitarn) [Laws of War]</Original>
                 <English>EUFOR Everyday Backpack (Multitarn) [Laws of War]</English>
                 <German>EUFOR Tagesrucksack Multitarn [Laws of War]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_UAV_Multi">
+                <Original>EUFOR UAV Backpack (Multitarn)</Original>
+                <English>EUFOR UAV Backpack (Multitarn)</English>
+                <German>EUFOR UAV Rucksack Multitarn</German>
             </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Schnee">
                 <Original>EUFOR Carryall (Snow)</Original>
@@ -266,6 +276,11 @@
                 <English>EUFOR Everyday Backpack (Snow) [Laws of War]</English>
                 <German>EUFOR Tagesrucksack Schneetarn [Laws of War]</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_UAV_Schnee">
+                <Original>EUFOR UAV Backpack (Snow)</Original>
+                <English>EUFOR UAV Backpack (Snow)</English>
+                <German>EUFOR UAV Rucksack Schneetarn</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Tropen">
                 <Original>EUFOR Carryall (Tropentarn)</Original>
                 <English>EUFOR Carryall (Tropentarn)</English>
@@ -351,6 +366,11 @@
                 <English>EUFOR Everyday Backpack (Tropentarn) [Laws of War]</English>
                 <German>EUFOR Tagesrucksack Tropentarn [Laws of War]</German>
             </Key>
+            <Key ID="STR_EUFOR_Backpacks_UAV_Tropen">
+                <Original>EUFOR UAV Backpack (Tropentarn)</Original>
+                <English>EUFOR UAV Backpack (Tropentarn)</English>
+                <German>EUFOR UAV Rucksack Tropentarn</German>
+            </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_TropenD">
                 <Original>EUFOR Carryall (Digital-Tropentarn)</Original>
                 <English>EUFOR Carryall (Digital-Tropentarn)</English>
@@ -435,6 +455,11 @@
                 <Original>EUFOR Everyday Backpack (Digital-Tropentarn) [Laws of War]</Original>
                 <English>EUFOR Everyday Backpack (Digital-Tropentarn) [Laws of War]</English>
                 <German>EUFOR Tagesrucksack Digital Tropentarn [Laws of War]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_UAV_TropenD">
+                <Original>EUFOR UAV Backpack (Digital-Tropentarn)</Original>
+                <English>EUFOR UAV Backpack (Digital-Tropentarn)</English>
+                <German>EUFOR UAV Rucksack Digital Tropentarn</German>
             </Key>
             <Key ID="STR_EUFOR_Backpacks_Tortilia_Medic">
                 <Original>EUFOR Carryall Medic</Original>

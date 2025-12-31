@@ -152,3 +152,12 @@ class EUFOR_Backpacks_Civ_Schnee : EUFOR_Backpacks_Civ_Base {
     hiddenSelectionsTextures[]={"EUFOR_Backpacks\Schnee\EUFOR_Backpacks_Civ_Schnee_co.paa"};
 };
 
+//  UAV Bag
+
+class EUFOR_Backpacks_UAV_Schnee : EUFOR_Backpacks_UAV_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_UAV_Schnee";
+    //picture = "EUFOR_Backpacks\Schnee\ui\EUFOR_Backpacks_LegStrapBag_Schnee_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Schnee\EUFOR_Backpacks_UAV_Schnee_co.paa"};
+};
