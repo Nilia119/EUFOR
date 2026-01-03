@@ -35,6 +35,7 @@ class EUFOR_Backpacks_Tortilia_Base : EUFOR_Backpacks_Bag_Base {
 class EUFOR_Backpacks_Tortilia_Base_Medic : EUFOR_Backpacks_Tortilia_Base {
     maximumLoad = 820;
     mass = 60;
+    ace_trenches_entrenchingTool = 1;
 };
 
 class EUFOR_Backpacks_Tortilia_Base_Ammo : EUFOR_Backpacks_Tortilia_Base {
@@ -57,6 +58,7 @@ class EUFOR_Backpacks_Compact_Base : EUFOR_Backpacks_Bag_Base {
 class EUFOR_Backpacks_Compact_Base_Medic : EUFOR_Backpacks_Compact_Base {
     maximumLoad = 240;
     mass = 20;
+    ace_trenches_entrenchingTool = 1;
 };
 
 //  Kitbag
@@ -76,6 +78,7 @@ class EUFOR_Backpacks_Kitbag_Base_Medic: EUFOR_Backpacks_Kitbag_Base
 {
     maximumLoad=420;
     mass=50;
+    ace_trenches_entrenchingTool = 1;
 };
 
 //  ENOCH RADIO
@@ -90,6 +93,7 @@ class EUFOR_Backpacks_Radiobag_Base: EUFOR_Backpacks_Bag_Base
     hiddenSelectionsTextures[]={"a3\supplies_f_enoch\bags\data\B_RadioBag_01_WDL_CO.paa"};
     maximumLoad=480;
     mass=60;
+    ace_trenches_entrenchingTool = 1;
 };
 
 class EUFOR_Backpacks_Radiobag_Base_PL: EUFOR_Backpacks_Tortilia_Base_Medic
@@ -197,6 +201,7 @@ class EUFOR_Backpacks_UAV_Base: EUFOR_Backpacks_Bag_Base
     hiddenSelectionsTextures[]={"\A3\Drones_F\Weapons_F_Gamma\Ammoboxes\Bags\Data\UAV_backpack_rgr_co.paa"};
     maximumLoad=400;
     mass=50;
+    ace_trenches_entrenchingTool = 1;
 };
 
 
