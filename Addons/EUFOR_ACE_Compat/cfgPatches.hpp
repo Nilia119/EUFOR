@@ -4,6 +4,7 @@ class CfgPatches {
         requiredAddons[] = {
             "ace_wardrobe",
             "ace_hearing",
+            "ace_logistics_wirecutter",
             "ace_trenches",
             "EUFOR_Uniform",
             "EUFOR_Helmets",
