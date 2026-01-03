@@ -104,6 +104,7 @@ class EUFOR_Backpacks_Radiobag_Base_PL: EUFOR_Backpacks_Tortilia_Base_Medic
     model="a3\Supplies_F_Enoch\Bags\B_RadioBag_01_F.p3d";
     hiddenSelections[]={"Camo1"};
     hiddenSelectionsTextures[]={"a3\supplies_f_enoch\bags\data\B_RadioBag_01_WDL_CO.paa"};
+    ace_logistics_wirecutter_hasWirecutter = 1;
 };
 
 //  Fieldpack
@@ -123,6 +124,7 @@ class EUFOR_Backpacks_FieldPack_Base_Medic: EUFOR_Backpacks_FieldPack_Base
 {
     maximumLoad=300;
     mass=30;
+    ace_trenches_entrenchingTool = 1;
 };
 
 //  Tacticalpack
@@ -142,6 +144,7 @@ class EUFOR_Backpacks_TacticalPack_Base_Medic: EUFOR_Backpacks_TacticalPack_Base
 {
     maximumLoad=360;
     mass=40;
+    ace_trenches_entrenchingTool = 1;
 };
 
 //  LegStrapBag
