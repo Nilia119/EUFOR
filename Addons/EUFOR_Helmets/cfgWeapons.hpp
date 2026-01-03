@@ -256,6 +256,23 @@ class EUFOR_Helmets_Boonie_Base: EUFOR_Helmets_Beret_Base
     };
 };
 
+class EUFOR_Helmets_Boonie_Spec_Base: EUFOR_Helmets_Boonie_Base
+{
+    class ItemInfo: ItemInfo
+    {
+        mass=10;
+        class HitpointsProtectionInfo
+        {
+            class Head
+            {
+                hitpointName="HitHead";
+                armor=8;
+                passThrough=0.5;
+            };
+        };
+    };
+};
+
 class EUFOR_Helmets_MilCap_Base: EUFOR_Helmets_Beret_Base
 {
     author="$STR_EUFOR_Helmets_Author";
@@ -546,3 +563,7 @@ class EUFOR_Helmets_HelmetB_TI_Base: EUFOR_Helmets_HelmetB_Base
 #include "\EUFOR_Helmets\Tropen\W_Tropen.hpp"
 #include "\EUFOR_Helmets\TropenD\W_TropenD.hpp"
 
+/*
+    SLOTBEZEICHNUNG: https://community.bistudio.com/wiki/getSlotItemName
+
+ */

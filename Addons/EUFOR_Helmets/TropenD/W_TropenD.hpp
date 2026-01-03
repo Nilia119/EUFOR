@@ -103,6 +103,19 @@ class EUFOR_Helmets_Boonie_TropenD: EUFOR_Helmets_Boonie_Base
     };
 };
 
+class EUFOR_Helmets_Boonie_Spec_TropenD: EUFOR_Helmets_Boonie_Spec_Base
+{
+    author="$STR_EUFOR_Helmets_Author";
+    scope=2;
+    weaponPoolAvailable=1;
+    displayName="$STR_EUFOR_Helmets_TropenD_Boonie_Spec";
+    picture="\EUFOR_Helmets\WIP.paa";
+    hiddenSelectionsTextures[]=
+    {
+        "EUFOR_Helmets\TropenD\EUFOR_Helmets_TropenD_Boonie_co.paa"
+    };
+};
+
 // Military Cap
 
 class EUFOR_Helmets_MilCap_TropenD: EUFOR_Helmets_MilCap_Base
