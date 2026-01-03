@@ -205,7 +205,7 @@ class EUFOR_Helmets_HelmetIA_Base: EUFOR_Helmets_HelmetB_Base
     };
 };
 
-class EUFOR_Helmets_Boonie_Base: EUFOR_Helmets_HelmetB_Base
+class EUFOR_Helmets_Boonie_Base: EUFOR_Helmets_Beret_Base
 {
     author="$STR_EUFOR_Helmets_Author";
     scope=0;
@@ -256,7 +256,7 @@ class EUFOR_Helmets_Boonie_Base: EUFOR_Helmets_HelmetB_Base
     };
 };
 
-class EUFOR_Helmets_MilCap_Base: EUFOR_Helmets_HelmetB_Base
+class EUFOR_Helmets_MilCap_Base: EUFOR_Helmets_Beret_Base
 {
     author="$STR_EUFOR_Helmets_Author";
     scope=0;

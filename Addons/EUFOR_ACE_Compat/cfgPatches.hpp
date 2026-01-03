@@ -4,8 +4,11 @@ class CfgPatches {
         requiredAddons[] = {
             "ace_wardrobe",
             "ace_hearing",
+            "ace_logistics_wirecutter",
+            "ace_trenches",
             "EUFOR_Uniform",
-            "EUFOR_Helmets"
+            "EUFOR_Helmets",
+            "EUFOR_Backpacks"
         };
         author = "STR_EUFOR_ACE_Compat_Author";
         authorUrl = "https://www.eudef.eu";
