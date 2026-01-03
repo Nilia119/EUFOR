@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="EUFOR">
     <Package name="Uniform">
-        <Key ID="STR_EUFOR_uniform_name">
+        <Key ID="STR_EUFOR_Uniform_name">
             <Original>Nilia - EUFOR Uniform</Original>
             <English>Nilia - EUFOR Uniform</English>
             <German>Nilia - EUFOR Uniform</German>

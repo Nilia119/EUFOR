@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="EUFOR">
+    <Package name="Backpacks">
+            <Key ID="STR_EUFOR_Backpacks_name">
+                <Original>Nilia - EUFOR Backpacks</Original>
+                <English>Nilia - EUFOR Backpacks</English>
+                <German>Nilia - EUFOR Rucksäcke</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Author">
+                <Original>Nilia</Original>
+                <English>Nilia</English>
+                <German>Nilia</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Fleck">
+                <Original>EUFOR Carryall (Flecktarn)</Original>
+                <English>EUFOR Carryall (Flecktarn)</English>
+                <German>EUFOR Großer Rucksack Flecktarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Fleck_Medic">
+                <Original>EUFOR Carryall Medic (Flecktarn)</Original>
+                <English>EUFOR Carryall Medic (Flecktarn)</English>
+                <German>EUFOR Großer Rucksack Flecktarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Fleck_Ammo">
+                <Original>EUFOR Carryall Ammo (Flecktarn)</Original>
+                <English>EUFOR Carryall Ammo (Flecktarn)</English>
+                <German>EUFOR Großer Rucksack Flecktarn, Munition</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Fleck">
+                <Original>EUFOR Assault Pack (Flecktarn)</Original>
+                <English>EUFOR Assault Pack (Flecktarn)</English>
+                <German>EUFOR Angriffsrucksack Flecktarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Fleck_Medic">
+                <Original>EUFOR Assault Pack Medic (Flecktarn)</Original>
+                <English>EUFOR Assault Pack Medic (Flecktarn)</English>
+                <German>EUFOR Angriffsrucksack Flecktarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Fleck">
+                <Original>EUFOR Kitbag (Flecktarn)</Original>
+                <English>EUFOR Kitbag (Flecktarn)</English>
+                <German>EUFOR Ranzen Flecktarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Fleck_Medic">
+                <Original>EUFOR Kitbag Medic (Flecktarn)</Original>
+                <English>EUFOR Kitbag Medic (Flecktarn)</English>
+                <German>EUFOR Ranzen Flecktarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Radiobag_Fleck">
+                <Original>EUFOR Radio (Flecktarn) [Contact]</Original>
+                <English>EUFOR Radio (Flecktarn) [Contact]</English>
+                <German>EUFOR Funkrucksack Flecktarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Radiobag_Fleck_PL">
+                <Original>EUFOR Radio Platoon-Leader (Flecktarn) [Contact]</Original>
+                <English>EUFOR Radio Platoon-Leader (Flecktarn) [Contact]</English>
+                <German>EUFOR Funkrucksack Zugführer Flecktarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_Fleck">
+                <Original>EUFOR Field Pack (Flecktarn)</Original>
+                <English>EUFOR Field Pack (Flecktarn)</English>
+                <German>EUFOR Feldpack Flecktarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_Fleck_Medic">
+                <Original>EUFOR Field Pack Medic (Flecktarn)</Original>
+                <English>EUFOR Field Pack Medic (Flecktarn)</English>
+                <German>EUFOR Feldpack Flecktarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_Fleck">
+                <Original>EUFOR Tactical Backpack (Flecktarn)</Original>
+                <English>EUFOR Tactical Backpack (Flecktarn)</English>
+                <German>EUFOR Taktischer Rucksack Flecktarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_Fleck_Medic">
+                <Original>EUFOR Tactical Backpack Medic (Flecktarn)</Original>
+                <English>EUFOR Tactical Backpack Medic (Flecktarn)</English>
+                <German>EUFOR Taktischer Rucksack Flecktarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_LegStrapBag_Fleck">
+                <Original>EUFOR Leg Strap Bag (Flecktarn) [Laws of War]</Original>
+                <English>EUFOR Leg Strap Bag (Flecktarn) [Laws of War]</English>
+                <German>EUFOR Beintasche Flecktarn [Laws of War]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Viper_Fleck">
+                <Original>EUFOR Viper Harness (Flecktarn) [Apex]</Original>
+                <English>EUFOR Viper Harness (Flecktarn) [Apex]</English>
+                <German>EUFOR Viper-Harnisch Flecktarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_ViperLight_Fleck">
+                <Original>EUFOR Viper Light Harness (Flecktarn) [Apex]</Original>
+                <English>EUFOR Viper Light Harness (Flecktarn) [Apex]</English>
+                <German>EUFOR Viper-Harnisch leicht Flecktarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Civ_Fleck">
+                <Original>EUFOR Everyday Backpack (Flecktarn) [Laws of War]</Original>
+                <English>EUFOR Everyday Backpack (Flecktarn) [Laws of War]</English>
+                <German>EUFOR Tagesrucksack Flecktarn [Laws of War]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_UAV_Fleck">
+                <Original>EUFOR UAV Backpack (Flecktarn)</Original>
+                <English>EUFOR UAV Backpack (Flecktarn)</English>
+                <German>EUFOR UAV Rucksack Flecktarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Multi">
+                <Original>EUFOR Carryall (Multitarn)</Original>
+                <English>EUFOR Carryall (Multitarn)</English>
+                <German>EUFOR Großer Rucksack Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Multi_Medic">
+                <Original>EUFOR Carryall Medic (Multitarn)</Original>
+                <English>EUFOR Carryall Medic (Multitarn)</English>
+                <German>EUFOR Großer Rucksack Multitarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Multi_Ammo">
+                <Original>EUFOR Carryall Ammo (Multitarn)</Original>
+                <English>EUFOR Carryall Ammo (Multitarn)</English>
+                <German>EUFOR Großer Rucksack Multitarn, Munition</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Multi">
+                <Original>EUFOR Assault Pack (Multitarn)</Original>
+                <English>EUFOR Assault Pack (Multitarn)</English>
+                <German>EUFOR Angriffsrucksack Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Multi_Medic">
+                <Original>EUFOR Assault Pack Medic (Multitarn)</Original>
+                <English>EUFOR Assault Pack Medic (Multitarn)</English>
+                <German>EUFOR Angriffsrucksack Multitarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Multi">
+                <Original>EUFOR Kitbag (Multitarn)</Original>
+                <English>EUFOR Kitbag (Multitarn)</English>
+                <German>EUFOR Ranzen Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Multi_Medic">
+                <Original>EUFOR Kitbag Medic (Multitarn)</Original>
+                <English>EUFOR Kitbag Medic (Multitarn)</English>
+                <German>EUFOR Ranzen Multitarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Radiobag_Multi">
+                <Original>EUFOR Radio (Multitarn) [Contact]</Original>
+                <English>EUFOR Radio (Multitarn) [Contact]</English>
+                <German>EUFOR Funkrucksack Multitarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Radiobag_Multi_PL">
+                <Original>EUFOR Radio Platoon-Leader (Multitarn) [Contact]</Original>
+                <English>EUFOR Radio Platoon-Leader (Multitarn) [Contact]</English>
+                <German>EUFOR Funkrucksack Zugführer Multitarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_Multi">
+                <Original>EUFOR Field Pack (Multitarn)</Original>
+                <English>EUFOR Field Pack (Multitarn)</English>
+                <German>EUFOR Feldpack Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_Multi_Medic">
+                <Original>EUFOR Field Pack Medic (Multitarn)</Original>
+                <English>EUFOR Field Pack Medic (Multitarn)</English>
+                <German>EUFOR Feldpack Multitarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_Multi">
+                <Original>EUFOR Tactical Backpack (Multitarn)</Original>
+                <English>EUFOR Tactical Backpack (Multitarn)</English>
+                <German>EUFOR Taktischer Rucksack Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_Multi_Medic">
+                <Original>EUFOR Tactical Backpack Medic (Multitarn)</Original>
+                <English>EUFOR Tactical Backpack Medic (Multitarn)</English>
+                <German>EUFOR Taktischer Rucksack Multitarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_LegStrapBag_Multi">
+                <Original>EUFOR Leg Strap Bag (Multitarn) [Laws of War]</Original>
+                <English>EUFOR Leg Strap Bag (Multitarn) [Laws of War]</English>
+                <German>EUFOR Beintasche Multitarn [Laws of War]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Viper_Multi">
+                <Original>EUFOR Viper Harness (Multitarn) [Apex]</Original>
+                <English>EUFOR Viper Harness (Multitarn) [Apex]</English>
+                <German>EUFOR Viper-Harnisch Multitarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_ViperLight_Multi">
+                <Original>EUFOR Viper Light Harness (Multitarn) [Apex]</Original>
+                <English>EUFOR Viper Light Harness (Multitarn) [Apex]</English>
+                <German>EUFOR Viper-Harnisch leicht Multitarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Civ_Multi">
+                <Original>EUFOR Everyday Backpack (Multitarn) [Laws of War]</Original>
+                <English>EUFOR Everyday Backpack (Multitarn) [Laws of War]</English>
+                <German>EUFOR Tagesrucksack Multitarn [Laws of War]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_UAV_Multi">
+                <Original>EUFOR UAV Backpack (Multitarn)</Original>
+                <English>EUFOR UAV Backpack (Multitarn)</English>
+                <German>EUFOR UAV Rucksack Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Schnee">
+                <Original>EUFOR Carryall (Snow)</Original>
+                <English>EUFOR Carryall (Snow)</English>
+                <German>EUFOR Großer Rucksack Schneetarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Schnee_Medic">
+                <Original>EUFOR Carryall Medic (Snow)</Original>
+                <English>EUFOR Carryall Medic (Snow)</English>
+                <German>EUFOR Großer Rucksack Schneetarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Schnee_Ammo">
+                <Original>EUFOR Carryall Ammo (Snow)</Original>
+                <English>EUFOR Carryall Ammo (Snow)</English>
+                <German>EUFOR Großer Rucksack Schneetarn, Munition</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Schnee">
+                <Original>EUFOR Assault Pack (Snow)</Original>
+                <English>EUFOR Assault Pack (Snow)</English>
+                <German>EUFOR Angriffsrucksack Schneetarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Schnee_Medic">
+                <Original>EUFOR Assault Pack Medic (Snow)</Original>
+                <English>EUFOR Assault Pack Medic (Snow)</English>
+                <German>EUFOR Angriffsrucksack Schneetarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Schnee">
+                <Original>EUFOR Kitbag (Snow)</Original>
+                <English>EUFOR Kitbag (Snow)</English>
+                <German>EUFOR Ranzen Schneetarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Schnee_Medic">
+                <Original>EUFOR Kitbag Medic (Snow)</Original>
+                <English>EUFOR Kitbag Medic (Snow)</English>
+                <German>EUFOR Ranzen Schneetarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Radiobag_Schnee">
+                <Original>EUFOR Radio (Snow) [Contact]</Original>
+                <English>EUFOR Radio (Snow) [Contact]</English>
+                <German>EUFOR Funkrucksack Schneetarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Radiobag_Schnee_PL">
+                <Original>EUFOR Radio Platoon-Leader (Snow) [Contact]</Original>
+                <English>EUFOR Radio Platoon-Leader (Snow) [Contact]</English>
+                <German>EUFOR Funkrucksack Zugführer Schneetarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_Schnee">
+                <Original>EUFOR Field Pack (Snow)</Original>
+                <English>EUFOR Field Pack (Snow)</English>
+                <German>EUFOR Feldpack Schneetarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_Schnee_Medic">
+                <Original>EUFOR Field Pack Medic (Snow)</Original>
+                <English>EUFOR Field Pack Medic (Snow)</English>
+                <German>EUFOR Feldpack Schneetarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_Schnee">
+                <Original>EUFOR Tactical Backpack (Snow)</Original>
+                <English>EUFOR Tactical Backpack (Snow)</English>
+                <German>EUFOR Taktischer Rucksack Schneetarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_Schnee_Medic">
+                <Original>EUFOR Tactical Backpack Medic (Snow)</Original>
+                <English>EUFOR Tactical Backpack Medic (Snow)</English>
+                <German>EUFOR Taktischer Rucksack Schneetarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_LegStrapBag_Schnee">
+                <Original>EUFOR Leg Strap Bag (Snow) [Laws of War]</Original>
+                <English>EUFOR Leg Strap Bag (Snow) [Laws of War]</English>
+                <German>EUFOR Beintasche Schneetarn [Laws of War]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Viper_Schnee">
+                <Original>EUFOR Viper Harness (Snow) [Apex]</Original>
+                <English>EUFOR Viper Harness (Snow) [Apex]</English>
+                <German>EUFOR Viper-Harnisch Schneetarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_ViperLight_Schnee">
+                <Original>EUFOR Viper Light Harness (Snow) [Apex]</Original>
+                <English>EUFOR Viper Light Harness (Snow) [Apex]</English>
+                <German>EUFOR Viper-Harnisch leicht Schneetarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Civ_Schnee">
+                <Original>EUFOR Everyday Backpack (Snow) [Laws of War]</Original>
+                <English>EUFOR Everyday Backpack (Snow) [Laws of War]</English>
+                <German>EUFOR Tagesrucksack Schneetarn [Laws of War]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_UAV_Schnee">
+                <Original>EUFOR UAV Backpack (Snow)</Original>
+                <English>EUFOR UAV Backpack (Snow)</English>
+                <German>EUFOR UAV Rucksack Schneetarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Tropen">
+                <Original>EUFOR Carryall (Tropentarn)</Original>
+                <English>EUFOR Carryall (Tropentarn)</English>
+                <German>EUFOR Großer Rucksack Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Tropen_Medic">
+                <Original>EUFOR Carryall Medic (Tropentarn)</Original>
+                <English>EUFOR Carryall Medic (Tropentarn)</English>
+                <German>EUFOR Großer Rucksack Tropentarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Tropen_Ammo">
+                <Original>EUFOR Carryall Ammo (Tropentarn)</Original>
+                <English>EUFOR Carryall Ammo (Tropentarn)</English>
+                <German>EUFOR Großer Rucksack Tropentarn, Munition</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Tropen">
+                <Original>EUFOR Assault Pack (Tropentarn)</Original>
+                <English>EUFOR Assault Pack (Tropentarn)</English>
+                <German>EUFOR Angriffsrucksack Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Tropen_Medic">
+                <Original>EUFOR Assault Pack Medic (Tropentarn)</Original>
+                <English>EUFOR Assault Pack Medic (Tropentarn)</English>
+                <German>EUFOR Angriffsrucksack Tropentarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Tropen">
+                <Original>EUFOR Kitbag (Tropentarn)</Original>
+                <English>EUFOR Kitbag (Tropentarn)</English>
+                <German>EUFOR Ranzen Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Tropen_Medic">
+                <Original>EUFOR Kitbag Medic (Tropentarn)</Original>
+                <English>EUFOR Kitbag Medic (Tropentarn)</English>
+                <German>EUFOR Ranzen Tropentarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Radiobag_Tropen">
+                <Original>EUFOR Radio (Tropentarn) [Contact]</Original>
+                <English>EUFOR Radio (Tropentarn) [Contact]</English>
+                <German>EUFOR Funkrucksack Tropentarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Radiobag_Tropen_PL">
+                <Original>EUFOR Radio Platoon-Leader (Tropentarn) [Contact]</Original>
+                <English>EUFOR Radio Platoon-Leader (Tropentarn) [Contact]</English>
+                <German>EUFOR Funkrucksack Zugführer Tropentarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_Tropen">
+                <Original>EUFOR Field Pack (Tropentarn)</Original>
+                <English>EUFOR Field Pack (Tropentarn)</English>
+                <German>EUFOR Feldpack Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_Tropen_Medic">
+                <Original>EUFOR Field Pack Medic (Tropentarn)</Original>
+                <English>EUFOR Field Pack Medic (Tropentarn)</English>
+                <German>EUFOR Feldpack Tropentarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_Tropen">
+                <Original>EUFOR Tactical Backpack (Tropentarn)</Original>
+                <English>EUFOR Tactical Backpack (Tropentarn)</English>
+                <German>EUFOR Taktischer Rucksack Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_Tropen_Medic">
+                <Original>EUFOR Tactical Backpack Medic (Tropentarn)</Original>
+                <English>EUFOR Tactical Backpack Medic (Tropentarn)</English>
+                <German>EUFOR Taktischer Rucksack Tropentarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_LegStrapBag_Tropen">
+                <Original>EUFOR Leg Strap Bag (Tropentarn) [Laws of War]</Original>
+                <English>EUFOR Leg Strap Bag (Tropentarn) [Laws of War]</English>
+                <German>EUFOR Beintasche Tropentarn [Laws of War]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Viper_Tropen">
+                <Original>EUFOR Viper Harness (Tropentarn) [Apex]</Original>
+                <English>EUFOR Viper Harness (Tropentarn) [Apex]</English>
+                <German>EUFOR Viper-Harnisch Tropentarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_ViperLight_Tropen">
+                <Original>EUFOR Viper Light Harness (Tropentarn) [Apex]</Original>
+                <English>EUFOR Viper Light Harness (Tropentarn) [Apex]</English>
+                <German>EUFOR Viper-Harnisch leicht Tropentarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Civ_Tropen">
+                <Original>EUFOR Everyday Backpack (Tropentarn) [Laws of War]</Original>
+                <English>EUFOR Everyday Backpack (Tropentarn) [Laws of War]</English>
+                <German>EUFOR Tagesrucksack Tropentarn [Laws of War]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_UAV_Tropen">
+                <Original>EUFOR UAV Backpack (Tropentarn)</Original>
+                <English>EUFOR UAV Backpack (Tropentarn)</English>
+                <German>EUFOR UAV Rucksack Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_TropenD">
+                <Original>EUFOR Carryall (Digital-Tropentarn)</Original>
+                <English>EUFOR Carryall (Digital-Tropentarn)</English>
+                <German>EUFOR Großer Rucksack Digital Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_TropenD_Medic">
+                <Original>EUFOR Carryall Medic (Digital-Tropentarn)</Original>
+                <English>EUFOR Carryall Medic (Digital-Tropentarn)</English>
+                <German>EUFOR Großer Rucksack Digital Tropentarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_TropenD_Ammo">
+                <Original>EUFOR Carryall Ammo (Digital-Tropentarn)</Original>
+                <English>EUFOR Carryall Ammo (Digital-Tropentarn)</English>
+                <German>EUFOR Großer Rucksack Digital Tropentarn, Munition</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_TropenD">
+                <Original>EUFOR Assault Pack (Digital-Tropentarn)</Original>
+                <English>EUFOR Assault Pack (Digital-Tropentarn)</English>
+                <German>EUFOR Angriffsrucksack Digital Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_TropenD_Medic">
+                <Original>EUFOR Assault Pack Medic (Digital-Tropentarn)</Original>
+                <English>EUFOR Assault Pack Medic (Digital-Tropentarn)</English>
+                <German>EUFOR Angriffsrucksack Digital Tropentarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_TropenD">
+                <Original>EUFOR Kitbag (Digital-Tropentarn)</Original>
+                <English>EUFOR Kitbag (Digital-Tropentarn)</English>
+                <German>EUFOR Ranzen Digital Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_TropenD_Medic">
+                <Original>EUFOR Kitbag Medic (Digital-Tropentarn)</Original>
+                <English>EUFOR Kitbag Medic (Digital-Tropentarn)</English>
+                <German>EUFOR Ranzen Digital Tropentarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Radiobag_TropenD">
+                <Original>EUFOR Radio (Digital-Tropentarn) [Contact]</Original>
+                <English>EUFOR Radio (Digital-Tropentarn) [Contact]</English>
+                <German>EUFOR Funkrucksack Digital Tropentarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Radiobag_TropenD_PL">
+                <Original>EUFOR Radio Platoon-Leader (Digital-Tropentarn) [Contact]</Original>
+                <English>EUFOR Radio Platoon-Leader (Digital-Tropentarn) [Contact]</English>
+                <German>EUFOR Funkrucksack Zugführer Digital Tropentarn [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_TropenD">
+                <Original>EUFOR Field Pack (Digital-Tropentarn)</Original>
+                <English>EUFOR Field Pack (Digital-Tropentarn)</English>
+                <German>EUFOR Feldpack Digital Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_FieldPack_TropenD_Medic">
+                <Original>EUFOR Field Pack Medic (Digital-Tropentarn)</Original>
+                <English>EUFOR Field Pack Medic (Digital-Tropentarn)</English>
+                <German>EUFOR Feldpack Digital Tropentarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_TropenD">
+                <Original>EUFOR Tactical Backpack (Digital-Tropentarn)</Original>
+                <English>EUFOR Tactical Backpack (Digital-Tropentarn)</English>
+                <German>EUFOR Taktischer Rucksack Digital Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_TacticalPack_TropenD_Medic">
+                <Original>EUFOR Tactical Backpack Medic (Digital-Tropentarn)</Original>
+                <English>EUFOR Tactical Backpack Medic (Digital-Tropentarn)</English>
+                <German>EUFOR Taktischer Rucksack Digital Tropentarn, Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_LegStrapBag_TropenD">
+                <Original>EUFOR Leg Strap Bag (Digital-Tropentarn) [Laws of War]</Original>
+                <English>EUFOR Leg Strap Bag (Digital-Tropentarn) [Laws of War]</English>
+                <German>EUFOR Beintasche Digital Tropentarn [Laws of War]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Viper_TropenD">
+                <Original>EUFOR Viper Harness (Digital-Tropentarn) [Apex]</Original>
+                <English>EUFOR Viper Harness (Digital-Tropentarn) [Apex]</English>
+                <German>EUFOR Viper-Harnisch Digital Tropentarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_ViperLight_TropenD">
+                <Original>EUFOR Viper Light Harness (Digital-Tropentarn) [Apex]</Original>
+                <English>EUFOR Viper Light Harness (Digital-Tropentarn) [Apex]</English>
+                <German>EUFOR Viper-Harnisch leicht Digital Tropentarn [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Civ_TropenD">
+                <Original>EUFOR Everyday Backpack (Digital-Tropentarn) [Laws of War]</Original>
+                <English>EUFOR Everyday Backpack (Digital-Tropentarn) [Laws of War]</English>
+                <German>EUFOR Tagesrucksack Digital Tropentarn [Laws of War]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_UAV_TropenD">
+                <Original>EUFOR UAV Backpack (Digital-Tropentarn)</Original>
+                <English>EUFOR UAV Backpack (Digital-Tropentarn)</English>
+                <German>EUFOR UAV Rucksack Digital Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Medic">
+                <Original>EUFOR Carryall Medic</Original>
+                <English>EUFOR Carryall Medic</English>
+                <German>EUFOR Großer Rucksack Arzt</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Medic_1">
+                <Original>EUFOR Carryall Medic Green</Original>
+                <English>EUFOR Carryall Medic Green</English>
+                <German>EUFOR Großer Rucksack Arzt Grün</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Tortilia_Medic_2">
+                <Original>EUFOR Carryall Medic Orange</Original>
+                <English>EUFOR Carryall Medic Orange</English>
+                <German>EUFOR Großer Rucksack Arzt Orange</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Medic">
+                <Original>EUFOR Assault Pack Medic</Original>
+                <English>EUFOR Assault Pack Medic</English>
+                <German>EUFOR Angriffsrucksack Sanitäter</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Medic_1">
+                <Original>EUFOR Assault Pack Medic Green</Original>
+                <English>EUFOR Assault Pack Medic Green</English>
+                <German>EUFOR Angriffsrucksack Sanitäter Grün</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Medic_2">
+                <Original>EUFOR Assault Pack Medic Orange</Original>
+                <English>EUFOR Assault Pack Medic Orange</English>
+                <German>EUFOR Angriffsrucksack Sanitäter Orange</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Compact_Medic_3">
+                <Original>EUFOR Assault Pack Medic Red</Original>
+                <English>EUFOR Assault Pack Medic Red</English>
+                <German>EUFOR Angriffsrucksack Sanitäter Rot</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Medic">
+                <Original>EUFOR Kitbag Medic</Original>
+                <English>EUFOR Kitbag Medic</English>
+                <German>EUFOR Ranzen Sanitäter</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Medic_1">
+                <Original>EUFOR Kitbag Medic Green</Original>
+                <English>EUFOR Kitbag Medic Green</English>
+                <German>EUFOR Ranzen Sanitäter Grün</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Medic_2">
+                <Original>EUFOR Kitbag Medic Orange</Original>
+                <English>EUFOR Kitbag Medic Orange</English>
+                <German>EUFOR Ranzen Sanitäter Orange</German>
+            </Key>
+            <Key ID="STR_EUFOR_Backpacks_Kitbag_Medic_3">
+                <Original>EUFOR Kitbag Medic Red</Original>
+                <English>EUFOR Kitbag Medic Red</English>
+                <German>EUFOR Ranzen Sanitäter Rot</German>
+            </Key>
+    </Package>
+</Project>

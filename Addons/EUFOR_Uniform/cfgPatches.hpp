@@ -75,8 +75,7 @@ class CfgPatches
 		requiredVersion=0.1;
 		requiredAddons[]={
                 "A3_Characters_F",
-                "A3_Characters_F_Exp",
-                "ace_wardrobe"
+                "A3_Characters_F_Exp"
         };
         author = "$STR_EUFOR_Uniform_Author";
         authorUrl = "https://www.eudef.eu";

@@ -1,0 +1,163 @@
+//  Carryall/Tortilia
+
+class EUFOR_Backpacks_Tortilia_Multi : EUFOR_Backpacks_Tortilia_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Tortilia_Multi";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_Tortilia_Multi_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_Tortilia_Multi_co.paa"};
+};
+
+class EUFOR_Backpacks_Tortilia_Multi_Medic : EUFOR_Backpacks_Tortilia_Base_Medic {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Tortilia_Multi_Medic";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_Tortilia_Multi_Medic_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_Tortilia_Multi_Medic_co.paa"};
+};
+
+class EUFOR_Backpacks_Tortilia_Multi_Ammo : EUFOR_Backpacks_Tortilia_Base_Ammo {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Tortilia_Multi_Ammo";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_Tortilia_Multi_Ammo_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_Tortilia_Multi_Ammo_co.paa"};
+};
+
+//  Compact
+
+class EUFOR_Backpacks_Compact_Multi : EUFOR_Backpacks_Compact_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Compact_Multi";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_Compact_Multi_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_Compact_Multi_co.paa"};
+};
+
+class EUFOR_Backpacks_Compact_Multi_Medic : EUFOR_Backpacks_Compact_Base_Medic {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Compact_Multi_Medic";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_Compact_Multi_Medic_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_Compact_Multi_Medic_co.paa"};
+};
+
+//  Kitbag
+
+class EUFOR_Backpacks_Kitbag_Multi : EUFOR_Backpacks_Kitbag_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Kitbag_Multi";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_Kitbag_Multi_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_Kitbag_Multi_co.paa"};
+};
+
+class EUFOR_Backpacks_Kitbag_Multi_Medic : EUFOR_Backpacks_Kitbag_Base_Medic {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Kitbag_Multi_Medic";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_Kitbag_Multi_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_Kitbag_Multi_Medic_co.paa"};
+};
+
+//  Radio
+
+class EUFOR_Backpacks_Radiobag_Multi : EUFOR_Backpacks_Radiobag_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Radiobag_Multi";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_Kitbag_Multi_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_Radiobag_Multi_co.paa"};
+};
+
+class EUFOR_Backpacks_Radiobag_Multi_PL : EUFOR_Backpacks_Radiobag_Base_PL {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Radiobag_Multi_PL";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_Kitbag_Multi_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_Radiobag_Multi_PL_co.paa"};
+};
+
+//  FieldPack
+
+class EUFOR_Backpacks_FieldPack_Multi : EUFOR_Backpacks_FieldPack_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_FieldPack_Multi";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_Kitbag_Multi_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_FieldPack_Multi_co.paa"};
+};
+
+class EUFOR_Backpacks_FieldPack_Multi_Medic : EUFOR_Backpacks_FieldPack_Base_Medic {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_FieldPack_Multi_Medic";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_Kitbag_Multi_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_FieldPack_Multi_Medic_co.paa"};
+};
+
+//  TacticalPack
+
+class EUFOR_Backpacks_TacticalPack_Multi : EUFOR_Backpacks_TacticalPack_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_TacticalPack_Multi";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_Kitbag_Multi_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_TacticalPack_Multi_co.paa"};
+};
+
+class EUFOR_Backpacks_TacticalPack_Multi_Medic : EUFOR_Backpacks_TacticalPack_Base_Medic {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_TacticalPack_Multi_Medic";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_Kitbag_Multi_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_TacticalPack_Multi_Medic_co.paa"};
+};
+
+//  LegStrapBag
+
+class EUFOR_Backpacks_LegStrapBag_Multi : EUFOR_Backpacks_LegStrapBag_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_LegStrapBag_Multi";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_LegStrapBag_Multi_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_LegStrapBag_Multi_co.paa"};
+};
+
+//  ViperOP
+
+class EUFOR_Backpacks_ViperHarness_Multi : EUFOR_Backpacks_ViperHarness_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Viper_Multi";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_LegStrapBag_Multi_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_Viper_Multi_co.paa"};
+};
+
+class EUFOR_Backpacks_ViperHarnessLight_Multi : EUFOR_Backpacks_ViperHarnessLight_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_ViperLight_Multi";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_LegStrapBag_Multi_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_Viper_Multi_co.paa"};
+};
+
+//  Civilian
+
+class EUFOR_Backpacks_Civ_Multi : EUFOR_Backpacks_Civ_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_Civ_Multi";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_LegStrapBag_Multi_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_Civ_Multi_co.paa"};
+};
+
+//  UAV Bag
+
+class EUFOR_Backpacks_UAV_Multi : EUFOR_Backpacks_UAV_Base {
+    author = "$STR_EUFOR_Backpacks_Author";
+    scope = 2;
+    displayName = "$STR_EUFOR_Backpacks_UAV_Multi";
+    //picture = "EUFOR_Backpacks\Multi\ui\EUFOR_Backpacks_LegStrapBag_Multi_Icon.paa";
+    hiddenSelectionsTextures[]={"EUFOR_Backpacks\Multi\EUFOR_Backpacks_UAV_Multi_co.paa"};
+};
