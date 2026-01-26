@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="EUFOR">
+    <Package name="ACE_Compat">
+            <Key ID="STR_EUFOR_CUP_Equipment">
+                <Original>Nilia - EUFOR CUP Equipment</Original>
+                <English>Nilia - EUFOR CUP Equipment</English>
+                <German>Nilia - EUFOR CUP Equipment</German>
+            </Key>
+            <Key ID="$STR_EUFOR_CUP_Equipment_Author">
+                <Original>Nilia</Original>
+                <English>Nilia</English>
+                <German>Nilia</German>
+            </Key>
+            <Key ID="STR_EUFOR_CUP_Equipment_Backpacks_Predator_Fleck">
+                <Original>EUFOR Predator Backpack (Flecktarn)</Original>
+                <English>EUFOR Predator Backpack (Flecktarn)</English>
+                <German>EUFOR Predator Rucksack Flecktarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_CUP_Equipment_Backpacks_PredatorRadio_Fleck">
+                <Original>EUFOR Predator Radiobackpack (Flecktarn)</Original>
+                <English>EUFOR Predator Radiobackpack (Flecktarn)</English>
+                <German>EUFOR Predator Funkrucksack Flecktarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_CUP_Equipment_Backpacks_Predator_Multi">
+                <Original>EUFOR Predator Backpack (Multitarn)</Original>
+                <English>EUFOR Predator Backpack (Multitarn)</English>
+                <German>EUFOR Predator Rucksack Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_CUP_Equipment_Backpacks_PredatorRadio_Multi">
+                <Original>EUFOR Predator Radiobackpack (Multitarn)</Original>
+                <English>EUFOR Predator Radiobackpack (Multitarn)</English>
+                <German>EUFOR Predator Funkrucksack Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_CUP_Equipment_Backpacks_Predator_Schnee">
+                <Original>EUFOR Predator Backpack (Snow)</Original>
+                <English>EUFOR Predator Backpack (Snow)</English>
+                <German>EUFOR Predator Rucksack Schneetarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_CUP_Equipment_Backpacks_PredatorRadio_Schnee">
+                <Original>EUFOR Predator Radiobackpack (Snow)</Original>
+                <English>EUFOR Predator Radiobackpack (Snow)</English>
+                <German>EUFOR Predator Funkrucksack Schneetarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_CUP_Equipment_Backpacks_Predator_Tropen">
+                <Original>EUFOR Predator Backpack (Tropentarn)</Original>
+                <English>EUFOR Predator Backpack (Tropentarn)</English>
+                <German>EUFOR Predator Rucksack Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_CUP_Equipment_Backpacks_PredatorRadio_Tropen">
+                <Original>EUFOR Predator Radiobackpack (Tropentarn)</Original>
+                <English>EUFOR Predator Radiobackpack (Tropentarn)</English>
+                <German>EUFOR Predator Funkrucksack Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_CUP_Equipment_Backpacks_Predator_TropenD">
+                <Original>EUFOR Predator Backpack (Digital-Tropentarn)</Original>
+                <English>EUFOR Predator Backpack (Digital-Tropentarn)</English>
+                <German>EUFOR Predator Rucksack Digital Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_CUP_Equipment_Backpacks_PredatorRadio_TropenD">
+                <Original>EUFOR Predator Radiobackpack (Digital-Tropentarn)</Original>
+                <English>EUFOR Predator Radiobackpack (Digital-Tropentarn)</English>
+                <German>EUFOR Predator Funkrucksack Digital Tropentarn</German>
+            </Key>
+    </Package>
+</Project>
