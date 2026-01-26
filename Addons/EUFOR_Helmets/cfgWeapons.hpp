@@ -11,6 +11,8 @@ class EUFOR_Helmets_Beret_Base: H_Beret_CSAT_01_F  {
     displayName = "EUFOR Berets Base";
     picture = "\EUFOR_Helmets\Beret\ui\EUFOR_Helmets_Beret_EuDef_Icon.paa";
     model = "\A3\Characters_F\OPFOR\H_Beret_CSAT_01_F.p3d";
+    ctab_camera=1;
+    grad_slingHelmet_allow = true;
     hiddenSelections[] = { "camo" };
     hiddenSelectionsTextures[] = {"EUFOR_Helmets\Beret\EUFOR_Helmets_Beret_EuDef_co.paa"};
     class ItemInfo: HeadgearItem
@@ -258,6 +260,7 @@ class EUFOR_Helmets_Boonie_Base: EUFOR_Helmets_Beret_Base
 
 class EUFOR_Helmets_Boonie_Spec_Base: EUFOR_Helmets_Boonie_Base
 {
+    descriptionShort="$STR_A3_SP_AL_III";
     class ItemInfo: ItemInfo
     {
         mass=10;
