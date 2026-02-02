@@ -29,6 +29,21 @@ class EUFOR_Soldat_Schnee_Sleeves: EUFOR_BW_Soldier_Sleeves
 
 };
 
+/* ------- T-Shirt ------- */
+class EUFOR_Soldat_Schnee_Shirt: EUFOR_Soldat_Shirt
+{
+  author = "$STR_EUFOR_Uniform_Author";
+  scope = 1;
+  scopeCurator = 0;
+  scopeArsenal = 2;
+  identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};
+  displayName = "Soldat Schneetarn hoch";
+  model = "\A3\Characters_F\BLUFOR\b_soldier_02.p3d";
+  uniformClass = "W_EUFOR_Uniform_Schnee_Shirt";
+  hiddenSelections[] = {"camo","insignia"};
+  hiddenSelectionsTextures[] = {"EUFOR_Uniform\Schnee\EUFOR_Schnee_Uniform_co.paa"};
+};
+
 /* ------- Normal Tarn------- */
 class EUFOR_Soldat_Tarn_Schnee: EUFOR_BW_Soldier
 {
@@ -57,4 +72,19 @@ class EUFOR_Soldat_Tarn_Schnee_Sleeves: EUFOR_BW_Soldier_Sleeves
     uniformClass = "W_EUFOR_Uniform_Tarn_Schnee_Sleeves";
     hiddenSelections[] = {"camo","insignia"};
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\Schnee\EUFOR_Schnee_Tarn_Uniform_co.paa"};
+};
+
+/* ------- Tarn T-Shirt ------- */
+class EUFOR_Soldat_Tarn_Schnee_Shirt: EUFOR_Soldat_Shirt
+{
+  author = "$STR_EUFOR_Uniform_Author";
+  scope = 1;
+  scopeCurator = 0;
+  scopeArsenal = 2;
+  identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};
+  displayName = "Soldat Tarnuniform Schneetarn T-Shirt";
+  model = "\A3\Characters_F_Exp\BLUFOR\B_CTRG_Soldier_02_F.p3d";
+  uniformClass = "W_EUFOR_Uniform_Tarn_Schnee_Shirt";
+  hiddenSelections[] = {"camo","insignia"};
+  hiddenSelectionsTextures[] = {"EUFOR_Uniform\Schnee\EUFOR_Schnee_Tarn_Uniform_co.paa"};
 };

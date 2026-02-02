@@ -37,6 +37,22 @@ class W_EUFOR_Uniform_Schnee_Sleeves: W_EUFOR_Uniform_Schnee
     };
 };
 
+/* ------- T-Shirt ------- */
+class W_EUFOR_Uniform_Schnee_Shirt: W_EUFOR_Uniform_Schnee
+{
+  author = "$STR_EUFOR_Uniform_Author";
+  displayName = "$STR_EUFOR_Uniform_Schneetarn_Shirt";
+  picture = "\EUFOR_Uniform\Schnee\Icon_schnee_T.paa";
+
+  class ItemInfo: UniformItem
+  {
+    uniformModel = "-";
+    uniformClass = EUFOR_Soldat_Schnee_Shirt;
+    containerClass = Supply80;
+    mass = 40;
+  };
+};
+
 /* ------- Normal Tarn-Uniform------- */
 class W_EUFOR_Uniform_Tarn_Schnee: Uniform_Base
 {
@@ -65,7 +81,7 @@ class W_EUFOR_Uniform_Tarn_Schnee_Sleeves: W_EUFOR_Uniform_Tarn_Schnee
     scope = 2;
     scopeArsenal = 2;
     displayName = "$STR_EUFOR_Uniform_Tarn_Schneetarn_Sleeves";
-    picture = "\EUFOR_Uniform\Schnee\Icon_schnee.paa";
+    picture = "\EUFOR_Uniform\Schnee\Icon_schnee_h.paa";
 
     class ItemInfo: UniformItem
     {
@@ -74,4 +90,20 @@ class W_EUFOR_Uniform_Tarn_Schnee_Sleeves: W_EUFOR_Uniform_Tarn_Schnee
         containerClass = Supply80;
         mass = 40;
     };
+};
+
+/* ------- T-Shirt ------- */
+class W_EUFOR_Uniform_Tarn_Schnee_Shirt: W_EUFOR_Uniform_Tarn_Schnee
+{
+  author = "$STR_EUFOR_Uniform_Author";
+  displayName = "$STR_EUFOR_Uniform_Tarn_Schneetarn_Shirt";
+  picture = "\EUFOR_Uniform\Schnee\Icon_schnee_T.paa";
+
+  class ItemInfo: UniformItem
+  {
+    uniformModel = "-";
+    uniformClass = EUFOR_Soldat_Tarn_Schnee_Shirt;
+    containerClass = Supply80;
+    mass = 40;
+  };
 };
