@@ -1,5 +1,5 @@
 /* ------- Normal ------- */
-class EUFOR_Soldat_Tropen_Digi: EUFOR_BW_Soldier
+class EUFOR_Soldat_Tropen_Digi: EUFOR_Soldat
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -13,7 +13,7 @@ class EUFOR_Soldat_Tropen_Digi: EUFOR_BW_Soldier
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\TropenDigital\EUFOR_Tropen_Uniform_Digital_co.paa"};
 };
 /* ------- Ärmel hoch ------- */
-class EUFOR_Soldat_Tropen_Digi_Sleeves: EUFOR_BW_Soldier_Sleeves
+class EUFOR_Soldat_Tropen_Digi_Sleeves: EUFOR_Soldat_Sleeves
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -27,7 +27,7 @@ class EUFOR_Soldat_Tropen_Digi_Sleeves: EUFOR_BW_Soldier_Sleeves
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\TropenDigital\EUFOR_Tropen_Uniform_Digital_co.paa"};
 };
 /* ------- T-Shirt ------- */
-class EUFOR_Soldat_Tropen_Digi_Shirt: EUFOR_BW_Soldier_Shirt
+class EUFOR_Soldat_Tropen_Digi_Shirt: EUFOR_Soldat_Shirt
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -42,7 +42,7 @@ class EUFOR_Soldat_Tropen_Digi_Shirt: EUFOR_BW_Soldier_Shirt
 };
 
 /* ------- Normal Tarn------- */
-class EUFOR_Soldat_Tarn_Tropen_Digi: EUFOR_BW_Soldier
+class EUFOR_Soldat_Tarn_Tropen_Digi: EUFOR_Soldat
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -56,7 +56,7 @@ class EUFOR_Soldat_Tarn_Tropen_Digi: EUFOR_BW_Soldier
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\TropenDigital\EUFOR_Tropen_Tarn_Uniform_Digital_co.paa"};
 };
 /* ------- Tarn Ärmel hoch ------- */
-class EUFOR_Soldat_Tarn_Tropen_Digi_Sleeves: EUFOR_BW_Soldier_Sleeves
+class EUFOR_Soldat_Tarn_Tropen_Digi_Sleeves: EUFOR_Soldat_Sleeves
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -70,7 +70,7 @@ class EUFOR_Soldat_Tarn_Tropen_Digi_Sleeves: EUFOR_BW_Soldier_Sleeves
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\TropenDigital\EUFOR_Tropen_Tarn_Uniform_Digital_co.paa"};
 };
 /* ------- Tarn T-Shirt ------- */
-class EUFOR_Soldat_Tarn_Tropen_Digi_Shirt: EUFOR_BW_Soldier_Shirt
+class EUFOR_Soldat_Tarn_Tropen_Digi_Shirt: EUFOR_Soldat_Shirt
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
