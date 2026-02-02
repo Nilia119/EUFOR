@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="EUFOR">
+    <Package name="Backpacks">
+            <Key ID="STR_EUFOR_ACEAX_Compat_name">
+                <Original>Nilia - EUFOR ACE Extended Arsenal Compatibility</Original>
+                <English>Nilia - EUFOR ACE Extended Arsenal Compatibility</English>
+                <German>Nilia - EUFOR ACE Extended Arsenal Compatibility</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Author">
+                <Original>Nilia</Original>
+                <English>Nilia</English>
+                <German>Nilia</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Uniforms_CTRG_desc">
+                <Original>EUFOR CTRG-Uniform</Original>
+                <English>EUFOR CTRG-Uniform</English>
+                <German>EUFOR CTRG-Uniform</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Uniforms_CTRG_Sleeves_desc">
+                <Original>EUFOR CTRG-Uniform Sleeves-UP</Original>
+                <English>EUFOR CTRG-Uniform Sleeves-UP</English>
+                <German>EUFOR CTRG-Uniform hochgekrempelt</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Uniforms_CTRG_Shirt_desc">
+                <Original>EUFOR CTRG-Uniform T-Shirt</Original>
+                <English>EUFOR CTRG-Uniform T-Shirt</English>
+                <German>EUFOR CTRG-Uniform T-Shirt</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Uniforms_CTRG_gloves">
+                <Original>Gloves</Original>
+                <English>Gloves</English>
+                <German>Handschuhe</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Uniforms_CTRG_none_desc">
+                <Original>None</Original>
+                <English>None</English>
+                <German>Keine</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Uniforms_CTRG_flag">
+                <Original>Flag</Original>
+                <English>Flag</English>
+                <German>Flagge</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Uniforms_CTRG_gloves_desc">
+                <Original>Sand</Original>
+                <English>Sand</English>
+                <German>Sand</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Uniforms_CTRG_flag_desc">
+                <Original>Europe</Original>
+                <English>Europe</English>
+                <German>Europa</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Uniforms_Camo_desc">
+                <Original>EUFOR Stealth-Uniform</Original>
+                <English>EUFOR Stealth-Uniform</English>
+                <German>EUFOR Tarn-Uniform</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Uniforms_Camo_Sleeves_desc">
+                <Original>EUFOR Stealth-Uniform Sleeves-UP</Original>
+                <English>EUFOR Stealth-Uniform Sleeves-UP</English>
+                <German>EUFOR Tarn-Uniform hochgekrempelt</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Uniforms_Camo_Shirt_desc">
+                <Original>EUFOR Stealth-Uniform T-Shirt</Original>
+                <English>EUFOR Stealth-Uniform T-Shirt</English>
+                <German>EUFOR Tarn-Uniform T-Shirt</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Fleck">
+                <Original>Flecktarn</Original>
+                <English>Flecktarn</English>
+                <German>Flecktarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Fleck_desc">
+                <Original>Flecktarn "Woodland" Camo Pattern (German Flecktarn Pattern)</Original>
+                <English>Flecktarn "Woodland" Camo Pattern (German Flecktarn Pattern)</English>
+                <German>5-Farb Flecktarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Multi">
+                <Original>Multitarn</Original>
+                <English>Multitarn</English>
+                <German>Multitarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Multi_desc">
+                <Original>Digital Multitarn Camo Pattern (Based on German Multitarn Pattern)</Original>
+                <English>Digital Multitarn Camo Pattern (Based on German Multitarn Pattern)</English>
+                <German>Digitales Multitarn (basierend auf deutschen Multitarnmuster)</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Schnee">
+                <Original>Snow Camo</Original>
+                <English>Snow Camo</English>
+                <German>Schneetarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Schnee_desc">
+                <Original>Digital Snow Camo Pattern (Based on Finish Camo Pattern)</Original>
+                <English>Digital Snow Camo Pattern (Based on Finish Camo Pattern)</English>
+                <German>Digitales Schneetarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Tropen">
+                <Original>Tropentarn</Original>
+                <English>Tropentarn</English>
+                <German>Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Tropen_desc">
+                <Original>Tropentarn "Desert" Camo Pattern (German Desert-Flecktarn Pattern)</Original>
+                <English>Tropentarn "Desert" Camo Pattern (German Desert-Flecktarn Pattern)</English>
+                <German>3-Farb Flecktarn "Tropentarn"</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_TropenD">
+                <Original>TropentarnD</Original>
+                <English>TropentarnD</English>
+                <German>TropentarnD</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_TropenD_desc">
+                <Original>Digital-Tropentarn Camo Pattern (Based on German Desert-Flecktarn Pattern)</Original>
+                <English>Digital-Tropentarn Camo Pattern (Based on German Desert-Flecktarn Pattern)</English>
+                <German>Digitales Tropentarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Black">
+                <Original>Black</Original>
+                <English>Black</English>
+                <German>Schwarz</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Black_desc">
+                <Original>Digital-Black Camo Pattern</Original>
+                <English>Digital-Black Camo Pattern</English>
+                <German>Digitales Schwarzes Tarnmuster</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Blue">
+                <Original>Blue</Original>
+                <English>Blue</English>
+                <German>Blau</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Blue_desc">
+                <Original>Digital-Blue Camo Pattern</Original>
+                <English>Digital-Blue Camo Pattern</English>
+                <German>Digitales Blaues Tarnmuster</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_EMR">
+                <Original>EMR</Original>
+                <English>EMR</English>
+                <German>EMR</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_EMR_desc">
+                <Original>Camo Pattern based on Russian EMR-Summer variant</Original>
+                <English>Camo Pattern based on Russian EMR-Summer variant</English>
+                <German>Tarnmuster basierend auf dem Russischen EMR-Sommer</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Olive">
+                <Original>Olive</Original>
+                <English>Olive</English>
+                <German>Oliv</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Olive_desc">
+                <Original>One Colored Olive Camo</Original>
+                <English>One Colored Olive Camo</English>
+                <German>Einfarbige, Olive-grüne Uniform</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Pol">
+                <Original>Dk.Blue</Original>
+                <English>Dk.Blue</English>
+                <German>Dk.Blau</German>
+            </Key>
+            <Key ID="STR_EUFOR_ACEAX_Compat_Pol_desc">
+                <Original>One Colored Dark Blue "Police" Camo</Original>
+                <English>One Colored Dark Blue "Police" Camo</English>
+                <German>Einfarbige, dunkel-blaue "Polizei" Uniform</German>
+            </Key>
+    </Package>
+</Project>
