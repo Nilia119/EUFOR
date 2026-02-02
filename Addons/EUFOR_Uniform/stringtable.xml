@@ -191,5 +191,45 @@
             <English>Switch Gloves</English>
             <German>Tausche Handschuhe</German>
         </Key>
+        <Key ID="STR_EUFOR_Uniform_EMR">
+            <English>EUFOR EMR Summer</English>
+            <German>EUFOR EMR Sommer</German>
+            <Original>EUFOR EMR Summer</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_EMR_Sleeves">
+            <English>EUFOR EMR Summer Sleeves Up</English>
+            <German>EUFOR EMR Sommer hochgekrempelt</German>
+            <Original>EUFOR EMR Summer Sleeves Up</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_EMR_Shirt">
+            <English>EUFOR EMR Summer T-Shirt</English>
+            <German>EUFOR EMR Sommer T-Shirt</German>
+            <Original>EUFOR EMR Summer T-Shirt</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_EMR1">
+            <English>EUFOR EMR Summer No-Flag</English>
+            <German>EUFOR EMR Sommer keine Flagge</German>
+            <Original>EUFOR EMR Summer No-Flag</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_EMR1_Sleeves">
+            <English>EUFOR EMR Summer No-Flag Sleeves Up</English>
+            <German>EUFOR EMR Sommer keine Flagge hochgekrempelt</German>
+            <Original>EUFOR EMR Summer No-Flag Sleeves Up</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_EMR">
+            <English>EUFOR EMR Summer Stealth-Uniform [Apex]</English>
+            <German>EUFOR EMR Sommer Tarnuniform [Apex]</German>
+            <Original>EUFOR EMR Summer Stealth-Uniform [Apex]</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_EMR_Sleeves">
+            <English>EUFOR EMR Summer Stealth-Uniform Sleeves Up [Apex]</English>
+            <German>EUFOR EMR Sommer Tarnuniform hochgekrempelt [Apex]</German>
+            <Original>EUFOR EMR Summer Stealth-Uniform Sleeves Up [Apex]</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_EMR_Shirt">
+            <English>EUFOR EMR Summer Stealth-Uniform T-Shirt [Apex]</English>
+            <German>EUFOR EMR Sommer Tarnuniform T-Shirt [Apex]</German>
+            <Original>EUFOR EMR Summer Stealth-Uniform T-Shirt [Apex]</Original>
+        </Key>
     </Package>
 </Project>
