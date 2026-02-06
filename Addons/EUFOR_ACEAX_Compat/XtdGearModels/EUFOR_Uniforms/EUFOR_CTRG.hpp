@@ -5,6 +5,7 @@ class EUFOR_Uniforms_CTRG
     class camo
     {
         values[] = { "Fleck", "Multi", "Schnee", "TropenD", "Tropen", "Black", "Blue", "EMR", "Olive", "Pol" };
+	    label = "$STR_EUFOR_ACEAX_Compat_Color_desc";
     };
     class gloves
     {
