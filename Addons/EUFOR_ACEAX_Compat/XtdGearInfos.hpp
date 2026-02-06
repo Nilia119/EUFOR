@@ -12,6 +12,11 @@ class CfgWeapons {
 	#include "XtdGearInfos\EUFOR_Helmets\EUFOR_PASGT.hpp"
 	#include "XtdGearInfos\EUFOR_Helmets\EUFOR_Viper.hpp"
 
+	//  Vests
+	#include "XtdGearInfos\EUFOR_Vests\EUFOR_Carrier.hpp"
+	#include "XtdGearInfos\EUFOR_Vests\EUFOR_KBT.hpp"
+	#include "XtdGearInfos\EUFOR_Vests\EUFOR_Spec.hpp"
+	#include "XtdGearInfos\EUFOR_Vests\EUFOR_TacVest.hpp"
 };
 
 class CfgVehicles {
