@@ -2,6 +2,16 @@ class CfgWeapons {
     //  Uniforms
     #include "XtdGearInfos\EUFOR_Uniforms\EUFOR_CTRG.hpp"
 
+	//  Helmets
+	#include "XtdGearInfos\EUFOR_Helmets\EUFOR_Boonie.hpp"
+	#include "XtdGearInfos\EUFOR_Helmets\EUFOR_HelmetB.hpp"
+	#include "XtdGearInfos\EUFOR_Helmets\EUFOR_HelmetBTI.hpp"
+	#include "XtdGearInfos\EUFOR_Helmets\EUFOR_HelmetHBK.hpp"
+	#include "XtdGearInfos\EUFOR_Helmets\EUFOR_HelmetIA.hpp"
+	#include "XtdGearInfos\EUFOR_Helmets\EUFOR_MilCap.hpp"
+	#include "XtdGearInfos\EUFOR_Helmets\EUFOR_PASGT.hpp"
+	#include "XtdGearInfos\EUFOR_Helmets\EUFOR_Viper.hpp"
+
 };
 
 class CfgVehicles {

@@ -268,7 +268,7 @@
         </Key>
         <Key ID="STR_EUFOR_ACEAX_Compat_BlueMed_desc">
             <English>Larger Blue Medic Backpack</English>
-            <German> Großer blauer Sani-Rucksack </German>
+            <German>Großer blauer Sani-Rucksack </German>
             <Original>Larger Blue Medic Backpack</Original>
         </Key>
         <Key ID="STR_EUFOR_ACEAX_Compat_RedMed">
@@ -315,6 +315,141 @@
             <English>Larger Version of the Backpack with a Ammo Symbol</English>
             <German>Größere Variante des Rucksacks für Munitionsträger</German>
             <Original>Larger Version of the Backpack with a Ammo Symbol</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_Boonie_desc">
+            <English>EUFOR Booniehat</English>
+            <German>EUFOR Buschhut</German>
+            <Original>EUFOR Booniehat</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_armored">
+            <English>Armored</English>
+            <German>Panzerung</German>
+            <Original>Armored</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_armored_desc">
+            <English>Booniehat with armor like a helmet for sniper/DMRs</English>
+            <German>Buschut mit Panzerung wie ein Helm, für Scharfschützen/DMRs</German>
+            <Original>Booniehat with armor like a helmet for sniper/DMRs</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_MilCap_desc">
+            <English>EUFOR Military Cap</English>
+            <German>EUFOR Feldmütze</German>
+            <Original>EUFOR Military Cap</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_PASGT_desc">
+            <English>EUFOR Blank Helmet</English>
+            <German>EUFOR Blanker Helm</German>
+            <Original>EUFOR Blank Helmet</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_HelmetIA_desc">
+            <English>EUFOR Modular Helmet</English>
+            <German>EUFOR Modularer Helm</German>
+            <Original>EUFOR Modular Helmet</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_Viper_desc">
+            <English>EUFOR Special Purpose Helmet</English>
+            <German>EUFOR Viperhelm</German>
+            <Original>EUFOR Special Purpose Helmet</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_spec">
+            <English>Special</English>
+            <German>Spezial</German>
+            <Original>Special</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_spec_desc">
+            <English>Viper Helmet with Extended Vision Modes</English>
+            <German>Viperhelm mit weiteren Sicht-Einstellungen</German>
+            <Original>Viper Helmet with Extended Vision Modes</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_HelmetBTI_desc">
+            <English>EUFOR Stealth Helmet</English>
+            <German>EUFOR Tarn-Kampfhelm</German>
+            <Original>EUFOR Stealth Helmet</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_HelmetB_desc">
+            <English>EUFOR Combat Helmet</English>
+            <German>EUFOR Kampfhelm</German>
+            <Original>EUFOR Combat Helmet</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_HelmetB_spec">
+            <English>Special</English>
+            <German>Verbessert</German>
+            <Original>Special</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_HelmetHBK_desc">
+            <English>EUFOR Advanced Modular Helmet</English>
+            <German>EUFOR Fortgeschrittener, modularer Helm</German>
+            <Original>EUFOR Advanced Modular Helmet</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_HelmetHBK_Headset">
+            <English>Headset</English>
+            <German>Headset</German>
+            <Original>Headset</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_HelmetHBK_Chops">
+            <English>Chops</English>
+            <German>Kotletten</German>
+            <Original>Chops</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_HelmetHBK_Ear">
+            <English>Ears</English>
+            <German>Ohren</German>
+            <Original>Ears</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Helmets_HelmetB_camo">
+            <English>Camo</English>
+            <German>Tarn</German>
+            <Original>Camo</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Vest_color">
+            <English>Color</English>
+            <German>Farbe</German>
+            <Original>Brown Vest</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Vest_color_desc">
+            <English>Brown Vest</English>
+            <German>Braunfarbene Weste</German>
+            <Original>Color</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Vest_color_brown">
+            <English>Brown</English>
+            <German>Braun</German>
+            <Original>EUFOR Tactical Vest</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Vest_Spec_desc">
+            <English>EUFOR Carrier Special Rig</English>
+            <German>EUFOR Spezialtragegurt</German>
+            <Original>EUFOR Carrier Special Rig</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Vest_Spec_GL">
+            <English>GL</English>
+            <German>GL</German>
+            <Original>GL</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Vest_Carrier_desc">
+            <English>EUFOR Plate Carrier</English>
+            <German>EUFOR Plattenträger</German>
+            <Original>EUFOR Plate Carrier</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Vest_Carrier_II">
+            <English>II</English>
+            <German>II</German>
+            <Original>II</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Vest_Carrier_Heavy">
+            <English>Heavy</English>
+            <German>Schwer</German>
+            <Original>Heavy</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Vests_TacVest_desc">
+            <English>EUFOR Tactical Vest</English>
+            <German>EUFOR Taktische Weste</German>
+            <Original>Brown</Original>
+        </Key>
+        <Key ID="STR_EUFOR_ACEAX_Compat_Vest_KBT_desc">
+            <English>EUFOR Modular Vest</English>
+            <German>EUFOR Modulare Weste</German>
+            <Original>EUFOR Modular Vest</Original>
         </Key>
     </Package>
 </Project>
