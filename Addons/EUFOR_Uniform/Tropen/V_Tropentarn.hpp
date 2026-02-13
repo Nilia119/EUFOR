@@ -1,6 +1,6 @@
 /* ------- Normal ------- */
 
-class EUFOR_Soldat_Tropen: EUFOR_BW_Soldier	// Define of a new class, which parameters are inherited from B_Soldier_base_F, with exception of those defined below.
+class EUFOR_Soldat_Tropen: EUFOR_Soldat	// Define of a new class, which parameters are inherited from B_Soldier_base_F, with exception of those defined below.
 {
     author = "$STR_EUFOR_Uniform_Author";			// The name of the author of the asset, which is displayed in the editor.
     scope = 1;							// 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
@@ -18,7 +18,7 @@ class EUFOR_Soldat_Tropen: EUFOR_BW_Soldier	// Define of a new class, which para
 
 /* ------- Ärmel hoch ------- */
 
-class EUFOR_Soldat_Tropen_Sleeves: EUFOR_BW_Soldier_Sleeves
+class EUFOR_Soldat_Tropen_Sleeves: EUFOR_Soldat_Sleeves
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -34,7 +34,7 @@ class EUFOR_Soldat_Tropen_Sleeves: EUFOR_BW_Soldier_Sleeves
 
 /* ------- T-Shirt ------- */
 
-class EUFOR_Soldat_Tropen_Shirt: EUFOR_BW_Soldier_Shirt
+class EUFOR_Soldat_Tropen_Shirt: EUFOR_Soldat_Shirt
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -49,7 +49,7 @@ class EUFOR_Soldat_Tropen_Shirt: EUFOR_BW_Soldier_Shirt
 };
 
 /* ------- Normal Tarn------- */
-class EUFOR_Soldat_Tarn_Tropen: EUFOR_BW_Soldier
+class EUFOR_Soldat_Tarn_Tropen: EUFOR_Soldat
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -63,7 +63,7 @@ class EUFOR_Soldat_Tarn_Tropen: EUFOR_BW_Soldier
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Tarn_Uniform_co.paa"};
 };
 /* ------- Tarn Ärmel hoch ------- */
-class EUFOR_Soldat_Tarn_Tropen_Sleeves: EUFOR_BW_Soldier_Sleeves
+class EUFOR_Soldat_Tarn_Tropen_Sleeves: EUFOR_Soldat_Sleeves
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -77,7 +77,7 @@ class EUFOR_Soldat_Tarn_Tropen_Sleeves: EUFOR_BW_Soldier_Sleeves
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Tarn_Uniform_co.paa"};
 };
 /* ------- Tarn T-Shirt ------- */
-class EUFOR_Soldat_Tarn_Tropen_Shirt: EUFOR_BW_Soldier_Shirt
+class EUFOR_Soldat_Tarn_Tropen_Shirt: EUFOR_Soldat_Shirt
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;

@@ -2,7 +2,7 @@
     class B_CTRG_Soldier_2_F;
     class B_CTRG_Soldier_3_F;
 
-    class EUFOR_BW_Soldier: B_CTRG_Soldier_F {
+    class EUFOR_Soldat: B_CTRG_Soldier_F {
 
         author = "$STR_EUFOR_Uniform_Author";
         scope = 0;
@@ -10,7 +10,7 @@
 
     };
 
-    class EUFOR_BW_Soldier_Shirt: B_CTRG_Soldier_2_F {
+    class EUFOR_Soldat_Shirt: B_CTRG_Soldier_2_F {
 
         author = "$STR_EUFOR_Uniform_Author";
         scope = 0;
@@ -18,7 +18,7 @@
 
     };
 
-    class EUFOR_BW_Soldier_Sleeves: B_CTRG_Soldier_3_F {
+    class EUFOR_Soldat_Sleeves: B_CTRG_Soldier_3_F {
 
         author = "$STR_EUFOR_Uniform_Author";
         scope = 0;
@@ -40,3 +40,18 @@
 
     /* ============================Multi====================================================== */
         #include "\EUFOR_Uniform\Multi\V_Multitarn.hpp"
+
+    /* ============================Black====================================================== */
+        #include "\EUFOR_Uniform\Black\V_Black.hpp"
+
+    /* ============================Blue====================================================== */
+        #include "\EUFOR_Uniform\Blue\V_Blue.hpp"
+
+	/* ============================EMR====================================================== */
+		#include "\EUFOR_Uniform\EMR\V_EMR.hpp"
+
+	/* ============================Olive====================================================== */
+		#include "\EUFOR_Uniform\Olive\V_Olive.hpp"
+
+	/* ============================Pol====================================================== */
+		#include "\EUFOR_Uniform\Pol\V_Pol.hpp"

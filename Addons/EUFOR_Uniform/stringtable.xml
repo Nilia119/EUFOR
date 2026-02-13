@@ -5,11 +5,13 @@
             <Original>Nilia - EUFOR Uniform</Original>
             <English>Nilia - EUFOR Uniform</English>
             <German>Nilia - EUFOR Uniform</German>
+            <Russian>Nilia - ЭУФОР Униформа</Russian>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Author">
             <Original>Nilia</Original>
             <English>Nilia</English>
             <German>Nilia</German>
+            <Russian>Nilia</Russian>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tropen">
             <Original>EUFOR Tropentarn</Original>
@@ -27,19 +29,19 @@
             <German>EUFOR Tropentarn T-Shirt</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tarn_Tropen">
-            <Original>EUFOR Stealth-Uniform Tropentarn [Apex]</Original>
-            <English>EUFOR Stealth-Uniform Tropentarn [Apex]</English>
-            <German>EUFOR Tarnuniform Tropentarn [Apex]</German>
+            <Original>EUFOR Tropentarn Stealth-Uniform [Apex]</Original>
+            <English>EUFOR Tropentarn Stealth-Uniform [Apex]</English>
+            <German>EUFOR Tropentarn Tarnuniform [Apex]</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tarn_Tropen_Sleeves">
-            <Original>EUFOR Stealth-Uniform Tropentarn Sleeves Up [Apex]</Original>
-            <English>EUFOR Stealth-Uniform Tropentarn Sleeves Up [Apex]</English>
-            <German>EUFOR Tarnuniform Tropentarn hochgekrempelt [Apex]</German>
+            <Original>EUFOR Tropentarn Stealth-Uniform Sleeves Up [Apex]</Original>
+            <English>EUFOR Tropentarn Stealth-Uniform Sleeves Up [Apex]</English>
+            <German>EUFOR Tropentarn Tarnuniform hochgekrempelt [Apex]</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tarn_Tropen_Shirt">
-            <Original>EUFOR Stealth-Uniform Tropentarn T-Shirt [Apex]</Original>
-            <English>EUFOR Stealth-Uniform Tropentarn T-Shirt [Apex]</English>
-            <German>EUFOR Tarnuniform Tropentarn T-Shirt [Apex]</German>
+            <Original>EUFOR Tropentarn Stealth-Uniform T-Shirt [Apex]</Original>
+            <English>EUFOR Tropentarn Stealth-Uniform T-Shirt [Apex]</English>
+            <German>EUFOR Tropentarn Tarnuniform T-Shirt [Apex]</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tropen_Digital">
             <Original>EUFOR Digital Tropentarn</Original>
@@ -57,19 +59,19 @@
             <German>EUFOR Digital Tropentarn T-Shirt</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tarn_Tropen_Digital">
-            <Original>EUFOR Stealth-Uniform Digital Tropentarn [Apex]</Original>
-            <English>EUFOR Stealth-Uniform Digital Tropentarn [Apex]</English>
-            <German>EUFOR Tarnuniform Digital Tropentarn [Apex]</German>
+            <Original>EUFOR Digital Tropentarn Stealth-Uniform [Apex]</Original>
+            <English>EUFOR Digital Tropentarn Stealth-Uniform [Apex]</English>
+            <German>EUFOR Digital Tropentarn Tarnuniform [Apex]</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tarn_Tropen_Digital_Sleeves">
-            <Original>EUFOR Stealth-Uniform Digital Tropentarn Sleeves Up [Apex]</Original>
-            <English>EUFOR Stealth-Uniform Digital Tropentarn Sleeves Up [Apex]</English>
-            <German>EUFOR Tarnuniform Digital Tropentarn hochgekrempelt [Apex]</German>
+            <Original>EUFOR Digital Tropentarn Stealth-Uniform Sleeves Up [Apex]</Original>
+            <English>EUFOR Digital Tropentarn Stealth-Uniform Sleeves Up [Apex]</English>
+            <German>EUFOR Digital Tropentarn Tarnuniform hochgekrempelt [Apex]</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tarn_Tropen_Digital_Shirt">
-            <Original>EUFOR Stealth-Uniform Digital Tropentarn T-Shirt [Apex]</Original>
-            <English>EUFOR Stealth-Uniform Digital Tropentarn T-Shirt [Apex]</English>
-            <German>EUFOR Tarnuniform Digital Tropentarn T-Shirt [Apex]</German>
+            <Original>EUFOR Digital Tropentarn Stealth-Uniform T-Shirt [Apex]</Original>
+            <English>EUFOR Digital Tropentarn Stealth-Uniform T-Shirt [Apex]</English>
+            <German>EUFOR Digital Tropentarn Tarnuniform T-Shirt [Apex]</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Flecktarn">
             <Original>EUFOR Flecktarn</Original>
@@ -101,15 +103,25 @@
             <English>EUFOR Snow Camo Sleeves Up</English>
             <German>EUFOR Schneetarn hochgekrempelt</German>
         </Key>
+        <Key ID="STR_EUFOR_Uniform_Schneetarn_Shirt">
+            <Original>EUFOR Snow Camo T-Shirt</Original>
+            <English>EUFOR Snow Camo T-Shirt</English>
+            <German>EUFOR Schneetarn T-Shirt</German>
+        </Key>
         <Key ID="STR_EUFOR_Uniform_Tarn_Schneetarn">
-            <Original>EUFOR Stealth-Uniform Snow [Apex]</Original>
-            <English>EUFOR Stealth-Uniform Snow [Apex]</English>
-            <German>EUFOR Tarnuniform Schnee [Apex]</German>
+            <Original>EUFOR Snow Camo Stealth-Uniform [Apex]</Original>
+            <English>EUFOR Snow Camo Stealth-Uniform [Apex]</English>
+            <German>EUFOR Schneetarn Tarnuniform [Apex]</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tarn_Schneetarn_Sleeves">
-            <Original>EUFOR Stealth-Uniform Snow Sleeves Up [Apex]</Original>
-            <English>EUFOR Stealth-Uniform Snow Sleeves Up [Apex]</English>
-            <German>EUFOR Tarnuniform Schnee hochgekrempelt [Apex] </German>
+            <Original>EUFOR Snow Camo Stealth-Uniform Sleeves Up [Apex]</Original>
+            <English>EUFOR Snow Camo Stealth-Uniform Sleeves Up [Apex]</English>
+            <German>EUFOR Schneetarn Tarnuniform hochgekrempelt [Apex] </German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_Schneetarn_Shirt">
+            <Original>EUFOR Snow Camo Stealth-Uniform T-Shirt [Apex]</Original>
+            <English>EUFOR Snow Camo Stealth-Uniform T-Shirt [Apex]</English>
+            <German>EUFOR Schneetarn Tarnuniform T-Shirt [Apex]</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Flecktarn_Shirt">
             <English>EUFOR Flecktarn T-Shirt </English>
@@ -122,19 +134,19 @@
             <Original>EUFOR Flecktarn Sand T-Shirt </Original>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tarn_Fleck">
-            <Original>EUFOR Stealth-Uniform Flecktarn [Apex]</Original>
-            <English>EUFOR Stealth-Uniform Flecktarn [Apex]</English>
-            <German>EUFOR Tarnuniform Flecktarn [Apex]</German>
+            <Original>EUFOR Flecktarn Stealth-Uniform [Apex]</Original>
+            <English>EUFOR Flecktarn Stealth-Uniform [Apex]</English>
+            <German>EUFOR Flecktarn Tarnuniform [Apex]</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tarn_Fleck_Sleeves">
-            <Original>EUFOR Stealth-Uniform Flecktarn Sleeves Up [Apex]</Original>
-            <English>EUFOR Stealth-Uniform Flecktarn Sleeves Up [Apex]</English>
-            <German>EUFOR Tarnuniform Flecktarn hochgekrempelt [Apex]</German>
+            <Original>EUFOR Flecktarn Stealth-Uniform Sleeves Up [Apex]</Original>
+            <English>EUFOR Flecktarn Stealth-Uniform Sleeves Up [Apex]</English>
+            <German>EUFOR Flecktarn Tarnuniform hochgekrempelt [Apex]</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tarn_Fleck_Shirt">
-            <Original>EUFOR Stealth-Uniform Flecktarn T-Shirt [Apex]</Original>
-            <English>EUFOR Stealth-Uniform Flecktarn T-Shirt [Apex]</English>
-            <German>EUFOR Tarnuniform Flecktarn T-Shirt [Apex]</German>
+            <Original>EUFOR Flecktarn Stealth-Uniform T-Shirt [Apex]</Original>
+            <English>EUFOR Flecktarn Stealth-Uniform T-Shirt [Apex]</English>
+            <German>EUFOR Flecktarn Tarnuniform T-Shirt [Apex]</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Multitarn">
             <Original>EUFOR Multitarn</Original>
@@ -152,19 +164,19 @@
             <German>EUFOR Multitarn T-Shirt</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tarn_Multi">
-            <Original>EUFOR Stealth-Uniform Multitarn [Apex]</Original>
-            <English>EUFOR Stealth-Uniform Multitarn [Apex]</English>
-            <German>EUFOR Tarnuniform Multitarn [Apex]</German>
+            <Original>EUFOR Multitarn Stealth-Uniform [Apex]</Original>
+            <English>EUFOR Multitarn Stealth-Uniform [Apex]</English>
+            <German>EUFOR Multitarn Tarnuniform [Apex]</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tarn_Multi_Sleeves">
-            <Original>EUFOR Stealth-Uniform Multitarn Sleeves Up [Apex]</Original>
-            <English>EUFOR Stealth-Uniform Multitarn Sleeves Up [Apex]</English>
-            <German>EUFOR Tarnuniform Multitarn hochgekrempelt [Apex]</German>
+            <Original>EUFOR Multitarn Stealth-Uniform Sleeves Up [Apex]</Original>
+            <English>EUFOR Multitarn Stealth-Uniform Sleeves Up [Apex]</English>
+            <German>EUFOR Multitarn Tarnuniform hochgekrempelt [Apex]</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Tarn_Multi_Shirt">
-            <Original>EUFOR Stealth-Uniform Multitarn T-Shirt [Apex]</Original>
-            <English>EUFOR Stealth-Uniform Multitarn T-Shirt [Apex]</English>
-            <German>EUFOR Tarnuniform Multitarn T-Shirt [Apex]</German>
+            <Original>EUFOR Multitarn Stealth-Uniform T-Shirt [Apex]</Original>
+            <English>EUFOR Multitarn Stealth-Uniform T-Shirt [Apex]</English>
+            <German>EUFOR Multitarn Tarnuniform T-Shirt [Apex]</German>
         </Key>
         <Key ID="STR_EUFOR_Uniform_Aktion_Basis">
             <Original>Roll Sleeves Up/Put your top on</Original>
@@ -190,6 +202,196 @@
             <Original>Switch Gloves</Original>
             <English>Switch Gloves</English>
             <German>Tausche Handschuhe</German>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Black">
+            <English>EUFOR Black Digital</English>
+            <German>EUFOR Digital Schwarz</German>
+            <Original>EUFOR Black Digital</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Black_Sleeves">
+            <English>EUFOR Black Digital Sleeves Up</English>
+            <German>EUFOR Digital Schwarz hochgekrempelt</German>
+            <Original>EUFOR Black Digital Sleeves Up</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Black_Shirt">
+            <English>EUFOR Black Digital T-Shirt</English>
+            <German>EUFOR Digital Schwarz T-Shirt</German>
+            <Original>EUFOR Black Digital T-Shirt</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Black1">
+            <English>EUFOR Black Digital No-Flag</English>
+            <German>EUFOR Digital Schwarz keine Flagge</German>
+            <Original>EUFOR Black Digital No-Flag</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Black1_Sleeves">
+            <English>EUFOR Black Digital No-Flag Sleeves Up</English>
+            <German>EUFOR Digital Schwarz keine Flagge hochgekrempelt</German>
+            <Original>EUFOR Black Digital No-Flag Sleeves Up</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_Black">
+            <English>EUFOR Black Digital Stealth-Uniform [Apex]</English>
+            <German>EUFOR Digital Schwarz Tarnuniform [Apex]</German>
+            <Original>EUFOR Black Digital Stealth-Uniform [Apex]</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_Black_Sleeves">
+            <English>EUFOR Black Digital Stealth-Uniform Sleeves Up [Apex]</English>
+            <German>EUFOR Digital Schwarz Tarnuniform hochgekrempelt [Apex]</German>
+            <Original>EUFOR Black Digital Stealth-Uniform Sleeves Up [Apex]</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_Black_Shirt">
+            <English>EUFOR Black Digital Stealth-Uniform T-Shirt [Apex]</English>
+            <German>EUFOR Digital Schwarz Tarnuniform T-Shirt [Apex]</German>
+            <Original>EUFOR Black Digital Stealth-Uniform T-Shirt [Apex]</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Blue">
+            <English>EUFOR Blue Digital</English>
+            <German>EUFOR Digital Blau</German>
+            <Original>EUFOR Blue Digital</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Blue_Sleeves">
+            <English>EUFOR Blue Digital Sleeves Up</English>
+            <German>EUFOR Digital Blau hochgekrempelt</German>
+            <Original>EUFOR Blue Digital Sleeves Up</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Blue_Shirt">
+            <English>EUFOR Blue Digital T-Shirt</English>
+            <German>EUFOR Digital Blau T-Shirt</German>
+            <Original>EUFOR Blue Digital T-Shirt</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Blue1">
+            <English>EUFOR Blue Digital No-Flag</English>
+            <German>EUFOR Digital Blau keine Flagge</German>
+            <Original>EUFOR Blue Digital No-Flag</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Blue1_Sleeves">
+            <English>EUFOR Blue Digital No-Flag Sleeves Up</English>
+            <German>EUFOR Digital Blau keine Flagge hochgekrempelt</German>
+            <Original>EUFOR Blue Digital No-Flag Sleeves Up</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_Blue">
+            <English>EUFOR Blue Digital Stealth-Uniform [Apex]</English>
+            <German>EUFOR Digital Blau Tarnuniform [Apex]</German>
+            <Original>EUFOR Blue Digital Stealth-Uniform [Apex]</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_Blue_Sleeves">
+            <English>EUFOR Blue Digital Stealth-Uniform Sleeves Up [Apex]</English>
+            <German>EUFOR Digital Blau Tarnuniform hochgekrempelt [Apex]</German>
+            <Original>EUFOR Blue Digital Stealth-Uniform Sleeves Up [Apex]</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_Blue_Shirt">
+            <English>EUFOR Blue Digital Stealth-Uniform T-Shirt [Apex]</English>
+            <German>EUFOR Digital Blau Tarnuniform T-Shirt [Apex]</German>
+            <Original>EUFOR Blue Digital Stealth-Uniform T-Shirt [Apex]</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_EMR">
+            <English>EUFOR EMR Summer</English>
+            <German>EUFOR EMR Sommer</German>
+            <Original>EUFOR EMR Summer</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_EMR_Sleeves">
+            <English>EUFOR EMR Summer Sleeves Up</English>
+            <German>EUFOR EMR Sommer hochgekrempelt</German>
+            <Original>EUFOR EMR Summer Sleeves Up</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_EMR_Shirt">
+            <English>EUFOR EMR Summer T-Shirt</English>
+            <German>EUFOR EMR Sommer T-Shirt</German>
+            <Original>EUFOR EMR Summer T-Shirt</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_EMR1">
+            <English>EUFOR EMR Summer No-Flag</English>
+            <German>EUFOR EMR Sommer keine Flagge</German>
+            <Original>EUFOR EMR Summer No-Flag</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_EMR1_Sleeves">
+            <English>EUFOR EMR Summer No-Flag Sleeves Up</English>
+            <German>EUFOR EMR Sommer keine Flagge hochgekrempelt</German>
+            <Original>EUFOR EMR Summer No-Flag Sleeves Up</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_EMR">
+            <English>EUFOR EMR Summer Stealth-Uniform [Apex]</English>
+            <German>EUFOR EMR Sommer Tarnuniform [Apex]</German>
+            <Original>EUFOR EMR Summer Stealth-Uniform [Apex]</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_EMR_Sleeves">
+            <English>EUFOR EMR Summer Stealth-Uniform Sleeves Up [Apex]</English>
+            <German>EUFOR EMR Sommer Tarnuniform hochgekrempelt [Apex]</German>
+            <Original>EUFOR EMR Summer Stealth-Uniform Sleeves Up [Apex]</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_EMR_Shirt">
+            <English>EUFOR EMR Summer Stealth-Uniform T-Shirt [Apex]</English>
+            <German>EUFOR EMR Sommer Tarnuniform T-Shirt [Apex]</German>
+            <Original>EUFOR EMR Summer Stealth-Uniform T-Shirt [Apex]</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Olive">
+            <English>EUFOR Olive</English>
+            <German>EUFOR Oliv</German>
+            <Original>EUFOR Olive</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Olive_Sleeves">
+            <English>EUFOR Olive Sleeves Up</English>
+            <German>EUFOR Oliv hochgekrempelt</German>
+            <Original>EUFOR Olive Sleeves Up</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Olive_Shirt">
+            <English>EUFOR Olive T-Shirt</English>
+            <German>EUFOR Oliv T-Shirt</German>
+            <Original>EUFOR Olive T-Shirt</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_Olive">
+            <English>EUFOR Olive Stealth-Uniform [Apex]</English>
+            <German>EUFOR Oliv Tarnuniform [Apex]</German>
+            <Original>EUFOR Olive Stealth-Uniform [Apex]</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_Olive_Sleeves">
+            <English>EUFOR Olive Stealth-Uniform Sleeves Up [Apex]</English>
+            <German>EUFOR Oliv Tarnuniform hochgekrempelt [Apex]</German>
+            <Original>EUFOR Olive Stealth-Uniform Sleeves Up [Apex]</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_Olive_Shirt">
+            <English>EUFOR Olive Stealth-Uniform T-Shirt [Apex]</English>
+            <German>EUFOR Oliv Tarnuniform T-Shirt [Apex]</German>
+            <Original>EUFOR Olive Stealth-Uniform T-Shirt [Apex]</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Pol">
+            <English>EUFOR Dark Blue</English>
+            <German>EUFOR Dunkelblau </German>
+            <Original>EUFOR Dark Blue</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Pol_Sleeves">
+            <English>EUFOR Dark Blue Sleeves Up</English>
+            <German>EUFOR Dunkelblau hochgekrempelt</German>
+            <Original>EUFOR Dark Blue Sleeves Up</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Pol_Shirt">
+            <English>EUFOR Dark Blue T-Shirt</English>
+            <German>EUFOR Dunkelblau T-Shirt</German>
+            <Original>EUFOR Dark Blue T-Shirt</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Pol1">
+            <English>EUFOR Dark Blue No-Flag</English>
+            <German>EUFOR Dunkelblau keine Flagge</German>
+            <Original>EUFOR Dark Blue No-Flag</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Pol1_Sleeves">
+            <English>EUFOR Dark Blue No-Flag Sleeves Up</English>
+            <German>EUFOR Dunkelblau keine Flagge hochgekrempelt</German>
+            <Original>EUFOR Dark Blue No-Flag Sleeves Up</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_Pol">
+            <English>EUFOR Dark Blue Stealth-Uniform [Apex]</English>
+            <German>EUFOR Dunkelblau Tarnuniform [Apex]</German>
+            <Original>EUFOR Dark Blue Stealth-Uniform [Apex]</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_Pol_Sleeves">
+            <English>EUFOR Dark Blue Stealth-Uniform Sleeves Up [Apex]</English>
+            <German>EUFOR Dunkelblau Tarnuniform hochgekrempelt [Apex]</German>
+            <Original>EUFOR Dark Blue Stealth-Uniform Sleeves Up [Apex]</Original>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Tarn_Pol_Shirt">
+            <English>EUFOR Dark Blue Stealth-Uniform T-Shirt [Apex]</English>
+            <German>EUFOR Dunkelblau Tarnuniform T-Shirt [Apex]</German>
+            <Original>EUFOR Dark Blue Stealth-Uniform T-Shirt [Apex]</Original>
         </Key>
     </Package>
 </Project>

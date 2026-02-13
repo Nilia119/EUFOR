@@ -120,7 +120,7 @@ class EUFOR_Backpacks_LegStrapBag_Schnee : EUFOR_Backpacks_LegStrapBag_Base {
     author = "$STR_EUFOR_Backpacks_Author";
     scope = 2;
     displayName = "$STR_EUFOR_Backpacks_LegStrapBag_Schnee";
-    //picture = "EUFOR_Backpacks\Schnee\ui\EUFOR_Backpacks_LegStrapBag_Schnee_Icon.paa";
+    picture = "EUFOR_Backpacks\Schnee\ui\EUFOR_Backpacks_LegStrapBag_Schnee_Icon.paa";
     hiddenSelectionsTextures[]={"EUFOR_Backpacks\Schnee\EUFOR_Backpacks_LegStrapBag_Schnee_co.paa"};
 };
 

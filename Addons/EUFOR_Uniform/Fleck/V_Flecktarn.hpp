@@ -1,5 +1,5 @@
 /* ------- Normal ------- */
-class EUFOR_Soldat_Fleck: EUFOR_BW_Soldier
+class EUFOR_Soldat_Fleck: EUFOR_Soldat
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -14,7 +14,7 @@ class EUFOR_Soldat_Fleck: EUFOR_BW_Soldier
     //hiddenSelectionsMaterials[] = {"Uniform\Fleck\EUFOR_Fleck_Uniform.rvmat"};
 };
 
-class EUFOR_Soldat_Fleck1: EUFOR_BW_Soldier
+class EUFOR_Soldat_Fleck1: EUFOR_Soldat
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -29,7 +29,7 @@ class EUFOR_Soldat_Fleck1: EUFOR_BW_Soldier
     //hiddenSelectionsMaterials[] = {"Uniform\Fleck\EUFOR_Fleck_Uniform.rvmat"};
 };
 /* ------- Ärmel hoch ------- */
-class EUFOR_Soldat_Fleck_Sleeves: EUFOR_BW_Soldier_Sleeves
+class EUFOR_Soldat_Fleck_Sleeves: EUFOR_Soldat_Sleeves
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -43,7 +43,7 @@ class EUFOR_Soldat_Fleck_Sleeves: EUFOR_BW_Soldier_Sleeves
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\Fleck\EUFOR_Fleck_Uniform_co.paa"};
 };
 
-class EUFOR_Soldat_Fleck1_Sleeves: EUFOR_BW_Soldier_Sleeves
+class EUFOR_Soldat_Fleck1_Sleeves: EUFOR_Soldat_Sleeves
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -57,7 +57,7 @@ class EUFOR_Soldat_Fleck1_Sleeves: EUFOR_BW_Soldier_Sleeves
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\Fleck\EUFOR_Fleck_Uniform1_co.paa"};
 };
 /* ------- T-Shirt ------- */
-class EUFOR_Soldat_Fleck_Shirt: EUFOR_BW_Soldier
+class EUFOR_Soldat_Fleck_Shirt: EUFOR_Soldat
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -72,7 +72,7 @@ class EUFOR_Soldat_Fleck_Shirt: EUFOR_BW_Soldier
     //hiddenSelectionsMaterials[] = {"Uniform\Fleck\EUFOR_Fleck_Uniform.rvmat"};
 };
 
-class EUFOR_Soldat_Fleck1_Shirt: EUFOR_BW_Soldier
+class EUFOR_Soldat_Fleck1_Shirt: EUFOR_Soldat
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -88,7 +88,7 @@ class EUFOR_Soldat_Fleck1_Shirt: EUFOR_BW_Soldier
 };
 
 /* ------- Normal Tarn------- */
-class EUFOR_Soldat_Tarn_Fleck: EUFOR_BW_Soldier
+class EUFOR_Soldat_Tarn_Fleck: EUFOR_Soldat
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -102,7 +102,7 @@ class EUFOR_Soldat_Tarn_Fleck: EUFOR_BW_Soldier
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\Fleck\EUFOR_Fleck_Tarn_Uniform_co.paa"};
 };
 /* ------- Tarn Ärmel hoch ------- */
-class EUFOR_Soldat_Tarn_Fleck_Sleeves: EUFOR_BW_Soldier_Sleeves
+class EUFOR_Soldat_Tarn_Fleck_Sleeves: EUFOR_Soldat_Sleeves
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;
@@ -116,7 +116,7 @@ class EUFOR_Soldat_Tarn_Fleck_Sleeves: EUFOR_BW_Soldier_Sleeves
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\Fleck\EUFOR_Fleck_Tarn_Uniform_co.paa"};
 };
 /* ------- Tarn T-Shirt ------- */
-class EUFOR_Soldat_Tarn_Fleck_Shirt: EUFOR_BW_Soldier_Shirt
+class EUFOR_Soldat_Tarn_Fleck_Shirt: EUFOR_Soldat_Shirt
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 1;

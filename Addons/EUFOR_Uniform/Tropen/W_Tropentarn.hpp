@@ -60,7 +60,7 @@ class W_EUFOR_Uniform_Tarn_Tropen: Uniform_Base
     picture = "\EUFOR_Uniform\Tropen\Icon_tropen.paa";
     model = "\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
     hiddenSelections[] = {"camo", "insignia"};
-    hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Uniform_co.paa"};
+    hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Tarn_Uniform_co.paa"};
     ace_fire_protection = 0.8;
 
     class ItemInfo: UniformItem
