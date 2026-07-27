@@ -207,7 +207,7 @@ class EUFOR_Backpacks_UAV_Base: EUFOR_Backpacks_Bag_Base
     model="\A3\Drones_F\Weapons_F_Gamma\Ammoboxes\Bags\UAV_backpack_F.p3d";
     picture = "EUFOR_Backpacks\WIP.paa";
     hiddenSelectionsTextures[]={"\A3\Drones_F\Weapons_F_Gamma\Ammoboxes\Bags\Data\UAV_backpack_rgr_co.paa"};
-    maximumLoad=400;
+    maximumLoad=500;
     mass=50;
     ace_logistics_wirecutter_hasWirecutter = 1;
     ace_trenches_entrenchingTool = 1;
