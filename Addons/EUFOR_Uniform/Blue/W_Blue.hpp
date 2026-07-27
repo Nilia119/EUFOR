@@ -1,5 +1,5 @@
 /* ------- Normal ------- */
-class W_EUFOR_Uniform_Blue: Uniform_Base
+class EUFOR_Uniforms_Blue: Uniform_Base
 {
   author = "$STR_EUFOR_Uniform_Author";
   scope = 2;
@@ -19,8 +19,13 @@ class W_EUFOR_Uniform_Blue: Uniform_Base
     mass = 40;
   };
 };
-
-class W_EUFOR_Uniform_Blue1: Uniform_Base
+class W_EUFOR_Uniform_Blue: EUFOR_Uniforms_Blue {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
+class EUFOR_Uniforms_Blue1: Uniform_Base
 {
   author = "$STR_EUFOR_Uniform_Author";
   scope = 2;
@@ -40,8 +45,14 @@ class W_EUFOR_Uniform_Blue1: Uniform_Base
     mass = 40;
   };
 };
+class W_EUFOR_Uniform_Blue1: EUFOR_Uniforms_Blue1 {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Ärmel hoch ------- */
-class W_EUFOR_Uniform_Blue_Sleeves: W_EUFOR_Uniform_Blue
+class EUFOR_Uniforms_Blue_Sleeves: EUFOR_Uniforms_Blue
 {
   author = "$STR_EUFOR_Uniform_Author";
   scope = 2;
@@ -57,7 +68,13 @@ class W_EUFOR_Uniform_Blue_Sleeves: W_EUFOR_Uniform_Blue
     mass = 40;
   };
 };
-class W_EUFOR_Uniform_Blue1_Sleeves: W_EUFOR_Uniform_Blue
+class W_EUFOR_Uniform_Blue_Sleeves: EUFOR_Uniforms_Blue_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
+class EUFOR_Uniforms_Blue1_Sleeves: EUFOR_Uniforms_Blue1
 {
   author = "$STR_EUFOR_Uniform_Author";
   scope = 2;
@@ -73,8 +90,14 @@ class W_EUFOR_Uniform_Blue1_Sleeves: W_EUFOR_Uniform_Blue
     mass = 40;
   };
 };
+class W_EUFOR_Uniform_Blue1_Sleeves: EUFOR_Uniforms_Blue1_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- T-Shirt ------- */
-class W_EUFOR_Uniform_Blue_Shirt: W_EUFOR_Uniform_Blue
+class EUFOR_Uniforms_Blue_Shirt: EUFOR_Uniforms_Blue
 {
   author = "$STR_EUFOR_Uniform_Author";
   displayName = "$STR_EUFOR_Uniform_Blue_Shirt";
@@ -88,9 +111,15 @@ class W_EUFOR_Uniform_Blue_Shirt: W_EUFOR_Uniform_Blue
     mass = 40;
   };
 };
+class W_EUFOR_Uniform_Blue_Shirt: EUFOR_Uniforms_Blue_Shirt {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 
 /* ------- Normal Tarn-Uniform------- */
-class W_EUFOR_Uniform_Tarn_Blue: Uniform_Base
+class EUFOR_Uniforms_Tarn_Blue: Uniform_Base
 {
   author = "$STR_EUFOR_Uniform_Author";
   scope = 2;
@@ -110,8 +139,14 @@ class W_EUFOR_Uniform_Tarn_Blue: Uniform_Base
     mass = 40;
   };
 };
+class W_EUFOR_Uniform_Tarn_Blue: EUFOR_Uniforms_Tarn_Blue {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Ärmel hoch ------- */
-class W_EUFOR_Uniform_Tarn_Blue_Sleeves: W_EUFOR_Uniform_Tarn_Blue
+class EUFOR_Uniforms_Tarn_Blue_Sleeves: EUFOR_Uniforms_Tarn_Blue
 {
   author = "$STR_EUFOR_Uniform_Author";
   displayName = "$STR_EUFOR_Uniform_Tarn_Blue_Sleeves";
@@ -125,8 +160,14 @@ class W_EUFOR_Uniform_Tarn_Blue_Sleeves: W_EUFOR_Uniform_Tarn_Blue
     mass = 40;
   };
 };
+class W_EUFOR_Uniform_Tarn_Blue_Sleeves: EUFOR_Uniforms_Tarn_Blue_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- T-Shirt ------- */
-class W_EUFOR_Uniform_Tarn_Blue_Shirt: W_EUFOR_Uniform_Tarn_Blue
+class EUFOR_Uniforms_Tarn_Blue_Shirt: EUFOR_Uniforms_Tarn_Blue
 {
   author = "$STR_EUFOR_Uniform_Author";
   displayName = "$STR_EUFOR_Uniform_Tarn_Blue_Shirt";
@@ -139,4 +180,11 @@ class W_EUFOR_Uniform_Tarn_Blue_Shirt: W_EUFOR_Uniform_Tarn_Blue
     containerClass = Supply80;
     mass = 40;
   };
+};
+class W_EUFOR_Uniform_Tarn_Blue_Shirt: EUFOR_Uniforms_Tarn_Blue_Shirt {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 };

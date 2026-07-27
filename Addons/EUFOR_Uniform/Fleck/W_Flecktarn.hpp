@@ -1,5 +1,5 @@
 /* ------- Normal ------- */
-class W_EUFOR_Uniform_Fleck: Uniform_Base
+class EUFOR_Uniforms_Fleck: Uniform_Base
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 2;
@@ -18,8 +18,13 @@ class W_EUFOR_Uniform_Fleck: Uniform_Base
         mass = 40;
     };
 };
-
-class W_EUFOR_Uniform_Fleck1: Uniform_Base
+class W_EUFOR_Uniform_Fleck: EUFOR_Uniforms_Fleck {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
+class EUFOR_Uniforms_Fleck1: Uniform_Base
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 2;
@@ -38,8 +43,14 @@ class W_EUFOR_Uniform_Fleck1: Uniform_Base
         mass = 40;
     };
 };
+class W_EUFOR_Uniform_Fleck1: EUFOR_Uniforms_Fleck1 {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Ärmel hoch ------- */
-class W_EUFOR_Uniform_Fleck_Sleeves: W_EUFOR_Uniform_Fleck
+class EUFOR_Uniforms_Fleck_Sleeves: EUFOR_Uniforms_Fleck
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 2;
@@ -55,8 +66,13 @@ class W_EUFOR_Uniform_Fleck_Sleeves: W_EUFOR_Uniform_Fleck
         mass = 40;
     };
 };
-
-class W_EUFOR_Uniform_Fleck1_Sleeves: W_EUFOR_Uniform_Fleck1
+class W_EUFOR_Uniform_Fleck_Sleeves: EUFOR_Uniforms_Fleck_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
+class EUFOR_Uniforms_Fleck1_Sleeves: EUFOR_Uniforms_Fleck1
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 2;
@@ -73,8 +89,14 @@ class W_EUFOR_Uniform_Fleck1_Sleeves: W_EUFOR_Uniform_Fleck1
         mass = 40;
     };
 };
+class W_EUFOR_Uniform_Fleck1_Sleeves: EUFOR_Uniforms_Fleck1_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- T-Shirt ------- */
-class W_EUFOR_Uniform_Fleck_Shirt: W_EUFOR_Uniform_Fleck
+class EUFOR_Uniforms_Fleck_Shirt: EUFOR_Uniforms_Fleck
 {
     author = "$STR_EUFOR_Uniform_Author";
     displayName = "$STR_EUFOR_Uniform_Flecktarn_Shirt";
@@ -83,13 +105,18 @@ class W_EUFOR_Uniform_Fleck_Shirt: W_EUFOR_Uniform_Fleck
     class ItemInfo: UniformItem
     {
         uniformModel = "-";
-        uniformClass = EUFOR_Soldat_Fleck_shirt;
+        uniformClass = EUFOR_Soldat_Fleck_Shirt;
         containerClass = Supply80;
         mass = 40;
     };
 };
-
-class W_EUFOR_Uniform_Fleck1_Shirt: W_EUFOR_Uniform_Fleck1
+class W_EUFOR_Uniform_Fleck_Shirt: EUFOR_Uniforms_Fleck_Shirt {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
+class EUFOR_Uniforms_Fleck1_Shirt: EUFOR_Uniforms_Fleck1
 {
     author = "$STR_EUFOR_Uniform_Author";
     displayName = "$STR_EUFOR_Uniform_Flecktarn1_Shirt";
@@ -98,14 +125,19 @@ class W_EUFOR_Uniform_Fleck1_Shirt: W_EUFOR_Uniform_Fleck1
     class ItemInfo: UniformItem
     {
         uniformModel = "-";
-        uniformClass = EUFOR_Soldat_Fleck1_shirt;
+        uniformClass = EUFOR_Soldat_Fleck1_Shirt;
         containerClass = Supply80;
         mass = 40;
     };
 };
-
+class W_EUFOR_Uniform_Fleck1_Shirt: EUFOR_Uniforms_Fleck1_Shirt {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Normal Tarn-Uniform------- */
-class W_EUFOR_Uniform_Tarn_Fleck: Uniform_Base
+class EUFOR_Uniforms_Tarn_Fleck: Uniform_Base
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 2;
@@ -125,8 +157,14 @@ class W_EUFOR_Uniform_Tarn_Fleck: Uniform_Base
         mass = 40;
     };
 };
+class W_EUFOR_Uniform_Tarn_Fleck: EUFOR_Uniforms_Tarn_Fleck {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Ärmel hoch ------- */
-class W_EUFOR_Uniform_Tarn_Fleck_Sleeves: W_EUFOR_Uniform_Tarn_Fleck
+class EUFOR_Uniforms_Tarn_Fleck_Sleeves: EUFOR_Uniforms_Tarn_Fleck
 {
     author = "$STR_EUFOR_Uniform_Author";
     displayName = "$STR_EUFOR_Uniform_Tarn_Fleck_Sleeves";
@@ -140,8 +178,14 @@ class W_EUFOR_Uniform_Tarn_Fleck_Sleeves: W_EUFOR_Uniform_Tarn_Fleck
         mass = 40;
     };
 };
+class W_EUFOR_Uniform_Tarn_Fleck_Sleeves: EUFOR_Uniforms_Tarn_Fleck_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- T-Shirt ------- */
-class W_EUFOR_Uniform_Tarn_Fleck_Shirt: W_EUFOR_Uniform_Tarn_Fleck
+class EUFOR_Uniforms_Tarn_Fleck_Shirt: EUFOR_Uniforms_Tarn_Fleck
 {
     author = "$STR_EUFOR_Uniform_Author";
     displayName = "$STR_EUFOR_Uniform_Tarn_Fleck_Shirt";
@@ -154,4 +198,11 @@ class W_EUFOR_Uniform_Tarn_Fleck_Shirt: W_EUFOR_Uniform_Tarn_Fleck
         containerClass = Supply80;
         mass = 40;
     };
+};
+class W_EUFOR_Uniform_Tarn_Fleck_Shirt: EUFOR_Uniforms_Tarn_Fleck_Shirt {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 };

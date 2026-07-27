@@ -1,32 +1,32 @@
 /* ------- Normal ------- */
-class W_EUFOR_Uniform_Schnee_Sleeves: ace_wardrobe_base_U_sleeves_down_EUFOR
+class EUFOR_Uniforms_Schnee_Sleeves: ace_wardrobe_base_U_sleeves_down_EUFOR
 {
     components[] = {};
     class modifiableTo {
-        class W_EUFOR_Uniform_Schnee {};
+        class EUFOR_Uniforms_Schnee {};
     };
 };
 /* ------- Ärmel hoch ------- */
-class W_EUFOR_Uniform_Schnee: ace_wardrobe_base_U_sleeves_up_EUFOR
+class EUFOR_Uniforms_Schnee: ace_wardrobe_base_U_sleeves_up_EUFOR
 {
     components[] = {};
     class modifiableTo {
-        class W_EUFOR_Uniform_Schnee_Sleeves {};
+        class EUFOR_Uniforms_Schnee_Sleeves {};
     };
 };
 /* ------- Tarnuniform Normal ------- */
-class W_EUFOR_Uniform_Tarn_Schnee_Sleeves: ace_wardrobe_base_U_sleeves_down_EUFOR
+class EUFOR_Uniforms_Tarn_Schnee_Sleeves: ace_wardrobe_base_U_sleeves_down_EUFOR
 {
     components[] = {};
     class modifiableTo {
-        class W_EUFOR_Uniform_Tarn_Schnee {};
+        class EUFOR_Uniforms_Tarn_Schnee {};
     };
 };
 /* ------- Ärmel hoch ------- */
-class W_EUFOR_Uniform_Tarn_Schnee: ace_wardrobe_base_U_sleeves_up_EUFOR
+class EUFOR_Uniforms_Tarn_Schnee: ace_wardrobe_base_U_sleeves_up_EUFOR
 {
     components[] = {};
     class modifiableTo {
-        class W_EUFOR_Uniform_Tarn_Schnee_Sleeves {};
+        class EUFOR_Uniforms_Tarn_Schnee_Sleeves {};
     };
 };

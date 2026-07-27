@@ -1,5 +1,5 @@
 /* ------- Normal ------- */
-class W_EUFOR_Uniform_Black: Uniform_Base
+class EUFOR_Uniforms_Black: Uniform_Base
 {
   author = "$STR_EUFOR_Uniform_Author";
   scope = 2;
@@ -19,8 +19,15 @@ class W_EUFOR_Uniform_Black: Uniform_Base
     mass = 40;
   };
 };
+//  TODO: REMOVE OLD "W_EUFOR_Uniform_" Compatibility Classes in 1.7
+class W_EUFOR_Uniform_Black: EUFOR_Uniforms_Black {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 
-class W_EUFOR_Uniform_Black1: Uniform_Base
+class EUFOR_Uniforms_Black1: Uniform_Base
 {
   author = "$STR_EUFOR_Uniform_Author";
   scope = 2;
@@ -40,8 +47,15 @@ class W_EUFOR_Uniform_Black1: Uniform_Base
     mass = 40;
   };
 };
+
+class W_EUFOR_Uniform_Black1: EUFOR_Uniforms_Black1 {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Ärmel hoch ------- */
-class W_EUFOR_Uniform_Black_Sleeves: W_EUFOR_Uniform_Black
+class EUFOR_Uniforms_Black_Sleeves: EUFOR_Uniforms_Black
 {
   author = "$STR_EUFOR_Uniform_Author";
   scope = 2;
@@ -57,7 +71,13 @@ class W_EUFOR_Uniform_Black_Sleeves: W_EUFOR_Uniform_Black
     mass = 40;
   };
 };
-class W_EUFOR_Uniform_Black1_Sleeves: W_EUFOR_Uniform_Black
+class W_EUFOR_Uniform_Black_Sleeves: EUFOR_Uniforms_Black_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
+class EUFOR_Uniforms_Black1_Sleeves: EUFOR_Uniforms_Black1
 {
   author = "$STR_EUFOR_Uniform_Author";
   scope = 2;
@@ -73,8 +93,14 @@ class W_EUFOR_Uniform_Black1_Sleeves: W_EUFOR_Uniform_Black
     mass = 40;
   };
 };
+class W_EUFOR_Uniform_Black1_Sleeves: EUFOR_Uniforms_Black1_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- T-Shirt ------- */
-class W_EUFOR_Uniform_Black_Shirt: W_EUFOR_Uniform_Black
+class EUFOR_Uniforms_Black_Shirt: EUFOR_Uniforms_Black
 {
   author = "$STR_EUFOR_Uniform_Author";
   displayName = "$STR_EUFOR_Uniform_Black_Shirt";
@@ -88,9 +114,14 @@ class W_EUFOR_Uniform_Black_Shirt: W_EUFOR_Uniform_Black
     mass = 40;
   };
 };
-
+class W_EUFOR_Uniform_Black_Shirt: EUFOR_Uniforms_Black_Shirt {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Normal Tarn-Uniform------- */
-class W_EUFOR_Uniform_Tarn_Black: Uniform_Base
+class EUFOR_Uniforms_Tarn_Black: Uniform_Base
 {
   author = "$STR_EUFOR_Uniform_Author";
   scope = 2;
@@ -110,8 +141,14 @@ class W_EUFOR_Uniform_Tarn_Black: Uniform_Base
     mass = 40;
   };
 };
+class W_EUFOR_Uniform_Tarn_Black: EUFOR_Uniforms_Tarn_Black {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Ärmel hoch ------- */
-class W_EUFOR_Uniform_Tarn_Black_Sleeves: W_EUFOR_Uniform_Tarn_Black
+class EUFOR_Uniforms_Tarn_Black_Sleeves: EUFOR_Uniforms_Tarn_Black
 {
   author = "$STR_EUFOR_Uniform_Author";
   displayName = "$STR_EUFOR_Uniform_Tarn_Black_Sleeves";
@@ -125,8 +162,14 @@ class W_EUFOR_Uniform_Tarn_Black_Sleeves: W_EUFOR_Uniform_Tarn_Black
     mass = 40;
   };
 };
+class W_EUFOR_Uniform_Tarn_Black_Sleeves: EUFOR_Uniforms_Tarn_Black_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- T-Shirt ------- */
-class W_EUFOR_Uniform_Tarn_Black_Shirt: W_EUFOR_Uniform_Tarn_Black
+class EUFOR_Uniforms_Tarn_Black_Shirt: EUFOR_Uniforms_Tarn_Black
 {
   author = "$STR_EUFOR_Uniform_Author";
   displayName = "$STR_EUFOR_Uniform_Tarn_Black_Shirt";
@@ -139,4 +182,11 @@ class W_EUFOR_Uniform_Tarn_Black_Shirt: W_EUFOR_Uniform_Tarn_Black
     containerClass = Supply80;
     mass = 40;
   };
+};
+class W_EUFOR_Uniform_Tarn_Black_Shirt: EUFOR_Uniforms_Tarn_Black_Shirt {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 };

@@ -1,5 +1,5 @@
 /* ------- Normal ------- */
-class W_EUFOR_Uniform_Tropen: Uniform_Base
+class EUFOR_Uniforms_Tropen: Uniform_Base
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 2;
@@ -19,8 +19,14 @@ class W_EUFOR_Uniform_Tropen: Uniform_Base
         mass = 40;
     };
 };
+class W_EUFOR_Uniform_Tropen: EUFOR_Uniforms_Tropen {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Ärmel hoch ------- */
-class W_EUFOR_Uniform_Tropen_Sleeves: W_EUFOR_Uniform_Tropen
+class EUFOR_Uniforms_Tropen_Sleeves: EUFOR_Uniforms_Tropen
 {
     author = "$STR_EUFOR_Uniform_Author";
     displayName = "$STR_EUFOR_Uniform_Tropen_Sleeves";
@@ -34,8 +40,14 @@ class W_EUFOR_Uniform_Tropen_Sleeves: W_EUFOR_Uniform_Tropen
         mass = 40;
     };
 };
+class W_EUFOR_Uniform_Tropen_Sleeves: EUFOR_Uniforms_Tropen_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- T-Shirt ------- */
-class W_EUFOR_Uniform_Tropen_Shirt: W_EUFOR_Uniform_Tropen
+class EUFOR_Uniforms_Tropen_Shirt: EUFOR_Uniforms_Tropen
 {
     author = "$STR_EUFOR_Uniform_Author";
     displayName = "$STR_EUFOR_Uniform_Tropen_Shirt";
@@ -49,9 +61,14 @@ class W_EUFOR_Uniform_Tropen_Shirt: W_EUFOR_Uniform_Tropen
         mass = 40;
     };
 };
-
+class W_EUFOR_Uniform_Tropen_Shirt: EUFOR_Uniforms_Tropen_Shirt {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Normal Tarn-Uniform------- */
-class W_EUFOR_Uniform_Tarn_Tropen: Uniform_Base
+class EUFOR_Uniforms_Tarn_Tropen: Uniform_Base
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 2;
@@ -71,8 +88,14 @@ class W_EUFOR_Uniform_Tarn_Tropen: Uniform_Base
         mass = 40;
     };
 };
+class W_EUFOR_Uniform_Tarn_Tropen: EUFOR_Uniforms_Tarn_Tropen {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Ärmel hoch ------- */
-class W_EUFOR_Uniform_Tarn_Tropen_Sleeves: W_EUFOR_Uniform_Tarn_Tropen
+class EUFOR_Uniforms_Tarn_Tropen_Sleeves: EUFOR_Uniforms_Tarn_Tropen
 {
     author = "$STR_EUFOR_Uniform_Author";
     displayName = "$STR_EUFOR_Uniform_Tarn_Tropen_Sleeves";
@@ -86,8 +109,14 @@ class W_EUFOR_Uniform_Tarn_Tropen_Sleeves: W_EUFOR_Uniform_Tarn_Tropen
         mass = 40;
     };
 };
+class W_EUFOR_Uniform_Tarn_Tropen_Sleeves: EUFOR_Uniforms_Tarn_Tropen_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- T-Shirt ------- */
-class W_EUFOR_Uniform_Tarn_Tropen_Shirt: W_EUFOR_Uniform_Tarn_Tropen
+class EUFOR_Uniforms_Tarn_Tropen_Shirt: EUFOR_Uniforms_Tarn_Tropen
 {
     author = "$STR_EUFOR_Uniform_Author";
     displayName = "$STR_EUFOR_Uniform_Tarn_Tropen_Shirt";
@@ -100,4 +129,11 @@ class W_EUFOR_Uniform_Tarn_Tropen_Shirt: W_EUFOR_Uniform_Tarn_Tropen
         containerClass = Supply80;
         mass = 40;
     };
+};
+class W_EUFOR_Uniform_Tarn_Tropen_Shirt: EUFOR_Uniforms_Tarn_Tropen_Shirt {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 };

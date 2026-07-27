@@ -8,4 +8,3 @@ class XtdGearModels {
 class XtdGearInfos {
     #include "XtdGearInfos.hpp"
     };
-
