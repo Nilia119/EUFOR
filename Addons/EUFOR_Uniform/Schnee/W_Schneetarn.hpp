@@ -17,6 +17,7 @@ class EUFOR_Uniforms_Schnee: Uniform_Base
         uniformClass = EUFOR_Soldat_Schnee;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Schnee: EUFOR_Uniforms_Schnee {
@@ -40,6 +41,7 @@ class EUFOR_Uniforms_Schnee_Sleeves: EUFOR_Uniforms_Schnee
         uniformClass = EUFOR_Soldat_Schnee_Sleeves;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Schnee_Sleeves: EUFOR_Uniforms_Schnee_Sleeves {
@@ -61,6 +63,7 @@ class EUFOR_Uniforms_Schnee_Shirt: EUFOR_Uniforms_Schnee
     uniformClass = EUFOR_Soldat_Schnee_Shirt;
     containerClass = Supply80;
     mass = 40;
+	modelSides[] = {0,1,2,3,4,5,6,7};
   };
 };
 class W_EUFOR_Uniform_Schnee_Shirt: EUFOR_Uniforms_Schnee_Shirt {
@@ -88,6 +91,7 @@ class EUFOR_Uniforms_Tarn_Schnee: Uniform_Base
         uniformClass = EUFOR_Soldat_Tarn_Schnee;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Tarn_Schnee: EUFOR_Uniforms_Tarn_Schnee {
@@ -111,6 +115,7 @@ class EUFOR_Uniforms_Tarn_Schnee_Sleeves: EUFOR_Uniforms_Tarn_Schnee
         uniformClass = EUFOR_Soldat_Tarn_Schnee_Sleeves;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Tarn_Schnee_Sleeves: EUFOR_Uniforms_Tarn_Schnee_Sleeves {
@@ -132,6 +137,7 @@ class EUFOR_Uniforms_Tarn_Schnee_Shirt: EUFOR_Uniforms_Tarn_Schnee
     uniformClass = EUFOR_Soldat_Tarn_Schnee_Shirt;
     containerClass = Supply80;
     mass = 40;
+	modelSides[] = {0,1,2,3,4,5,6,7};
   };
 };
 class W_EUFOR_Uniform_Tarn_Schnee_Shirt: EUFOR_Uniforms_Tarn_Schnee_Shirt {

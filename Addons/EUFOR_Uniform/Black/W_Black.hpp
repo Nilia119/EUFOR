@@ -17,6 +17,7 @@ class EUFOR_Uniforms_Black: Uniform_Base
     uniformClass = EUFOR_Soldat_Black;
     containerClass = Supply80;
     mass = 40;
+	modelSides[] = {0,1,2,3,4,5,6,7};
   };
 };
 //  TODO: REMOVE OLD "W_EUFOR_Uniform_" Compatibility Classes in 1.7
@@ -45,6 +46,7 @@ class EUFOR_Uniforms_Black1: Uniform_Base
     uniformClass = EUFOR_Soldat_Black1;
     containerClass = Supply80;
     mass = 40;
+	modelSides[] = {0,1,2,3,4,5,6,7};
   };
 };
 
@@ -69,6 +71,7 @@ class EUFOR_Uniforms_Black_Sleeves: EUFOR_Uniforms_Black
     uniformClass = EUFOR_Soldat_Black_Sleeves;
     containerClass = Supply80;
     mass = 40;
+	modelSides[] = {0,1,2,3,4,5,6,7};
   };
 };
 class W_EUFOR_Uniform_Black_Sleeves: EUFOR_Uniforms_Black_Sleeves {
@@ -91,6 +94,7 @@ class EUFOR_Uniforms_Black1_Sleeves: EUFOR_Uniforms_Black1
     uniformClass = EUFOR_Soldat_Black1_Sleeves;
     containerClass = Supply80;
     mass = 40;
+	modelSides[] = {0,1,2,3,4,5,6,7};
   };
 };
 class W_EUFOR_Uniform_Black1_Sleeves: EUFOR_Uniforms_Black1_Sleeves {
@@ -112,6 +116,7 @@ class EUFOR_Uniforms_Black_Shirt: EUFOR_Uniforms_Black
     uniformClass = EUFOR_Soldat_Black_shirt;
     containerClass = Supply80;
     mass = 40;
+	modelSides[] = {0,1,2,3,4,5,6,7};
   };
 };
 class W_EUFOR_Uniform_Black_Shirt: EUFOR_Uniforms_Black_Shirt {
@@ -139,6 +144,7 @@ class EUFOR_Uniforms_Tarn_Black: Uniform_Base
     uniformClass = EUFOR_Soldat_Tarn_Black;
     containerClass = Supply80;
     mass = 40;
+	modelSides[] = {0,1,2,3,4,5,6,7};
   };
 };
 class W_EUFOR_Uniform_Tarn_Black: EUFOR_Uniforms_Tarn_Black {
@@ -160,6 +166,7 @@ class EUFOR_Uniforms_Tarn_Black_Sleeves: EUFOR_Uniforms_Tarn_Black
     uniformClass = EUFOR_Soldat_Tarn_Black_Sleeves;
     containerClass = Supply80;
     mass = 40;
+	modelSides[] = {0,1,2,3,4,5,6,7};
   };
 };
 class W_EUFOR_Uniform_Tarn_Black_Sleeves: EUFOR_Uniforms_Tarn_Black_Sleeves {
@@ -181,6 +188,7 @@ class EUFOR_Uniforms_Tarn_Black_Shirt: EUFOR_Uniforms_Tarn_Black
     uniformClass = EUFOR_Soldat_Tarn_Black_Shirt;
     containerClass = Supply80;
     mass = 40;
+	modelSides[] = {0,1,2,3,4,5,6,7};
   };
 };
 class W_EUFOR_Uniform_Tarn_Black_Shirt: EUFOR_Uniforms_Tarn_Black_Shirt {

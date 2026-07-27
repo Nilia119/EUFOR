@@ -17,6 +17,7 @@ class EUFOR_Uniforms_EMR: Uniform_Base
 		uniformClass = EUFOR_Soldat_EMR;
 		containerClass = Supply80;
 		mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
 	};
 };
 class W_EUFOR_Uniform_EMR: EUFOR_Uniforms_EMR {
@@ -43,6 +44,7 @@ class EUFOR_Uniforms_EMR1: Uniform_Base
 		uniformClass = EUFOR_Soldat_EMR1;
 		containerClass = Supply80;
 		mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
 	};
 };
 class W_EUFOR_Uniform_EMR1: EUFOR_Uniforms_EMR1 {
@@ -66,6 +68,7 @@ class EUFOR_Uniforms_EMR_Sleeves: EUFOR_Uniforms_EMR
 		uniformClass = EUFOR_Soldat_EMR_Sleeves;
 		containerClass = Supply80;
 		mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
 	};
 };
 class W_EUFOR_Uniform_EMR_Sleeves: EUFOR_Uniforms_EMR_Sleeves {
@@ -88,6 +91,7 @@ class EUFOR_Uniforms_EMR1_Sleeves: EUFOR_Uniforms_EMR1
 		uniformClass = EUFOR_Soldat_EMR1_Sleeves;
 		containerClass = Supply80;
 		mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
 	};
 };
 class W_EUFOR_Uniform_EMR1_Sleeves: EUFOR_Uniforms_EMR1_Sleeves {
@@ -109,6 +113,7 @@ class EUFOR_Uniforms_EMR_Shirt: EUFOR_Uniforms_EMR
 		uniformClass = EUFOR_Soldat_EMR_shirt;
 		containerClass = Supply80;
 		mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
 	};
 };
 class W_EUFOR_Uniform_EMR_Shirt: EUFOR_Uniforms_EMR_Shirt {
@@ -136,6 +141,7 @@ class EUFOR_Uniforms_Tarn_EMR: Uniform_Base
 		uniformClass = EUFOR_Soldat_Tarn_EMR;
 		containerClass = Supply80;
 		mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
 	};
 };
 class W_EUFOR_Uniform_Tarn_EMR: EUFOR_Uniforms_Tarn_EMR {
@@ -157,6 +163,7 @@ class EUFOR_Uniforms_Tarn_EMR_Sleeves: EUFOR_Uniforms_Tarn_EMR
 		uniformClass = EUFOR_Soldat_Tarn_EMR_Sleeves;
 		containerClass = Supply80;
 		mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
 	};
 };
 class W_EUFOR_Uniform_Tarn_EMR_Sleeves: EUFOR_Uniforms_Tarn_EMR_Sleeves {
@@ -178,6 +185,7 @@ class EUFOR_Uniforms_Tarn_EMR_Shirt: EUFOR_Uniforms_Tarn_EMR
 		uniformClass = EUFOR_Soldat_Tarn_EMR_Shirt;
 		containerClass = Supply80;
 		mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
 	};
 };
 class W_EUFOR_Uniform_Tarn_EMR_Shirt: EUFOR_Uniforms_Tarn_EMR_Shirt {

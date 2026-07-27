@@ -17,6 +17,7 @@ class EUFOR_Uniforms_Tropen: Uniform_Base
         uniformClass = EUFOR_Soldat_Tropen;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Tropen: EUFOR_Uniforms_Tropen {
@@ -38,6 +39,7 @@ class EUFOR_Uniforms_Tropen_Sleeves: EUFOR_Uniforms_Tropen
         uniformClass = EUFOR_Soldat_Tropen_Sleeves;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Tropen_Sleeves: EUFOR_Uniforms_Tropen_Sleeves {
@@ -59,6 +61,7 @@ class EUFOR_Uniforms_Tropen_Shirt: EUFOR_Uniforms_Tropen
         uniformClass = EUFOR_Soldat_Tropen_Shirt;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Tropen_Shirt: EUFOR_Uniforms_Tropen_Shirt {
@@ -86,6 +89,7 @@ class EUFOR_Uniforms_Tarn_Tropen: Uniform_Base
         uniformClass = EUFOR_Soldat_Tarn_Tropen;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Tarn_Tropen: EUFOR_Uniforms_Tarn_Tropen {
@@ -107,6 +111,7 @@ class EUFOR_Uniforms_Tarn_Tropen_Sleeves: EUFOR_Uniforms_Tarn_Tropen
         uniformClass = EUFOR_Soldat_Tarn_Tropen_Sleeves;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Tarn_Tropen_Sleeves: EUFOR_Uniforms_Tarn_Tropen_Sleeves {
@@ -128,6 +133,7 @@ class EUFOR_Uniforms_Tarn_Tropen_Shirt: EUFOR_Uniforms_Tarn_Tropen
         uniformClass = EUFOR_Soldat_Tarn_Tropen_Shirt;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Tarn_Tropen_Shirt: EUFOR_Uniforms_Tarn_Tropen_Shirt {

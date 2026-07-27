@@ -16,6 +16,7 @@ class EUFOR_Uniforms_Fleck: Uniform_Base
         uniformClass = EUFOR_Soldat_Fleck;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Fleck: EUFOR_Uniforms_Fleck {
@@ -41,6 +42,7 @@ class EUFOR_Uniforms_Fleck1: Uniform_Base
         uniformClass = EUFOR_Soldat_Fleck1;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Fleck1: EUFOR_Uniforms_Fleck1 {
@@ -64,6 +66,7 @@ class EUFOR_Uniforms_Fleck_Sleeves: EUFOR_Uniforms_Fleck
         uniformClass = EUFOR_Soldat_Fleck_Sleeves;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Fleck_Sleeves: EUFOR_Uniforms_Fleck_Sleeves {
@@ -87,6 +90,7 @@ class EUFOR_Uniforms_Fleck1_Sleeves: EUFOR_Uniforms_Fleck1
         uniformClass = EUFOR_Soldat_Fleck1_Sleeves;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Fleck1_Sleeves: EUFOR_Uniforms_Fleck1_Sleeves {
@@ -108,6 +112,7 @@ class EUFOR_Uniforms_Fleck_Shirt: EUFOR_Uniforms_Fleck
         uniformClass = EUFOR_Soldat_Fleck_Shirt;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Fleck_Shirt: EUFOR_Uniforms_Fleck_Shirt {
@@ -128,6 +133,7 @@ class EUFOR_Uniforms_Fleck1_Shirt: EUFOR_Uniforms_Fleck1
         uniformClass = EUFOR_Soldat_Fleck1_Shirt;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Fleck1_Shirt: EUFOR_Uniforms_Fleck1_Shirt {
@@ -155,6 +161,7 @@ class EUFOR_Uniforms_Tarn_Fleck: Uniform_Base
         uniformClass = EUFOR_Soldat_Tarn_Fleck;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Tarn_Fleck: EUFOR_Uniforms_Tarn_Fleck {
@@ -176,6 +183,7 @@ class EUFOR_Uniforms_Tarn_Fleck_Sleeves: EUFOR_Uniforms_Tarn_Fleck
         uniformClass = EUFOR_Soldat_Tarn_Fleck_Sleeves;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Tarn_Fleck_Sleeves: EUFOR_Uniforms_Tarn_Fleck_Sleeves {
@@ -197,6 +205,7 @@ class EUFOR_Uniforms_Tarn_Fleck_Shirt: EUFOR_Uniforms_Tarn_Fleck
         uniformClass = EUFOR_Soldat_Tarn_Fleck_Shirt;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Tarn_Fleck_Shirt: EUFOR_Uniforms_Tarn_Fleck_Shirt {

@@ -17,6 +17,7 @@ class EUFOR_Uniforms_Multi: Uniform_Base
         uniformClass = EUFOR_Soldat_Multi;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Multi: EUFOR_Uniforms_Multi {
@@ -40,6 +41,7 @@ class EUFOR_Uniforms_Multi_Sleeves: EUFOR_Uniforms_Multi
         uniformClass = EUFOR_Soldat_Multi_Sleeves;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Multi_Sleeves: EUFOR_Uniforms_Multi_Sleeves {
@@ -61,6 +63,7 @@ class EUFOR_Uniforms_Multi_Shirt: EUFOR_Uniforms_Multi
         uniformClass = EUFOR_Soldat_Multi_shirt;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Multi_Shirt: EUFOR_Uniforms_Multi_Shirt {
@@ -88,6 +91,7 @@ class EUFOR_Uniforms_Tarn_Multi: Uniform_Base
         uniformClass = EUFOR_Soldat_Tarn_Multi;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Tarn_Multi: EUFOR_Uniforms_Tarn_Multi {
@@ -109,6 +113,7 @@ class EUFOR_Uniforms_Tarn_Multi_Sleeves: EUFOR_Uniforms_Tarn_Multi
         uniformClass = EUFOR_Soldat_Tarn_Multi_Sleeves;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Tarn_Multi_Sleeves: EUFOR_Uniforms_Tarn_Multi_Sleeves {
@@ -130,6 +135,7 @@ class EUFOR_Uniforms_Tarn_Multi_Shirt: EUFOR_Uniforms_Tarn_Multi
         uniformClass = EUFOR_Soldat_Tarn_Multi_Shirt;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
 class W_EUFOR_Uniform_Tarn_Multi_Shirt: EUFOR_Uniforms_Tarn_Multi_Shirt {
