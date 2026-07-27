@@ -160,6 +160,11 @@ class EUFOR_Backpacks_LegStrapBag_Base: EUFOR_Backpacks_Bag_Base
     mass=8;
 };
 
+class EUFOR_Backpacks_LegStrapBagOP_Base: EUFOR_Backpacks_LegStrapBag_Base
+{
+	maximumLoad=1000;
+	mass=5;
+};
 //  ViperOP
 
 class EUFOR_Backpacks_ViperHarness_Base: EUFOR_Backpacks_Bag_Base
