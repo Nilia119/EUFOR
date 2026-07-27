@@ -422,7 +422,7 @@ class EUFOR_Vest_KBT_Light_Base: EUFOR_Vest_KBT_Base
 class EUFOR_Vest_KBT_Heavy_Base: EUFOR_Vest_KBT_Base
 {
 	model="\A3\Characters_F_Enoch\Vests\V_CarrierRigKBT_01_heavy_F.p3d";
-	descriptionShort="$STR_A3_SP_ER";
+	descriptionShort="$STR_A3_SP_AL_V";
 	class ItemInfo: ItemInfo
 	{
 		uniformModel="\A3\Characters_F_Enoch\Vests\V_CarrierRigKBT_01_heavy_F.p3d";

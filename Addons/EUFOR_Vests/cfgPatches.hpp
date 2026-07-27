@@ -21,6 +21,7 @@ class CfgPatches
             "EUFOR_Vest_KBT_Light_Base",
             "EUFOR_Vest_KBT_Heavy_Base",
             "EUFOR_Vest_Carrier_GL_Base",
+
             "EUFOR_Vest_Carrier_GL_Fleck",
             "EUFOR_Vest_Carrier_GL_Fleck1",
             "EUFOR_Vest_Carrier_Spec_Fleck",
@@ -39,6 +40,7 @@ class CfgPatches
             "EUFOR_Vest_KBT_Light_Fleck1",
             "EUFOR_Vest_KBT_Heavy_Fleck",
             "EUFOR_Vest_KBT_Heavy_Fleck1",
+
             "EUFOR_Vest_Carrier_GL_Schnee",
             "EUFOR_Vest_Carrier_Spec_Schnee",
             "EUFOR_Vest_Carrier_1_Schnee",
@@ -48,6 +50,7 @@ class CfgPatches
             "EUFOR_Vest_KBT_Schnee",
             "EUFOR_Vest_KBT_Light_Schnee",
             "EUFOR_Vest_KBT_Heavy_Schnee",
+
             "EUFOR_Vest_Carrier_GL_Multi",
             "EUFOR_Vest_Carrier_Spec_Multi",
             "EUFOR_Vest_Carrier_1_Multi",
@@ -57,6 +60,7 @@ class CfgPatches
             "EUFOR_Vest_KBT_Multi",
             "EUFOR_Vest_KBT_Light_Multi",
             "EUFOR_Vest_KBT_Heavy_Multi",
+
             "EUFOR_Vest_Carrier_GL_Tropen",
             "EUFOR_Vest_Carrier_Spec_Tropen",
             "EUFOR_Vest_Carrier_1_Tropen",
@@ -66,6 +70,7 @@ class CfgPatches
             "EUFOR_Vest_KBT_Tropen",
             "EUFOR_Vest_KBT_Light_Tropen",
             "EUFOR_Vest_KBT_Heavy_Tropen",
+
             "EUFOR_Vest_Carrier_GL_Tropen_Digital",
             "EUFOR_Vest_Carrier_Spec_Tropen_Digital",
             "EUFOR_Vest_Carrier_1_Tropen_Digital",
