@@ -9,7 +9,7 @@ class EUFOR_Soldat_Tropen: EUFOR_Soldat	// Define of a new class, which paramete
     identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};		// Identity Types are explained in the Headgear section of this guide.
     displayName = "Soldat Tropentarn";		// The name of the soldier, which is displayed in the editor.
     model = "\A3\Characters_F\BLUFOR\b_soldier_01.p3d";			// The path to the model this character uses.
-    uniformClass = "W_EUFOR_Uniform_Tropen";							// This links this soldier to a particular uniform. For the details, see below.
+    uniformClass = "EUFOR_Uniforms_Tropen";							// This links this soldier to a particular uniform. For the details, see below.
     hiddenSelections[] = {"camo","insignia"};								// List of model selections which can be changed with hiddenSelectionTextures[]
     // and hiddenSelectionMaterials[] properties. If empty, model textures are used.
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Uniform_co.paa"};	// The textures for the selections defined above.
@@ -27,7 +27,7 @@ class EUFOR_Soldat_Tropen_Sleeves: EUFOR_Soldat_Sleeves
     identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};
     displayName = "Soldat Tropentarn hoch";
     model = "\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
-    uniformClass = "W_EUFOR_Uniform_Tropen_Sleeves";
+    uniformClass = "EUFOR_Uniforms_Tropen_Sleeves";
     hiddenSelections[] = {"camo","insignia"};
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Uniform_co.paa"};
 };
@@ -43,7 +43,7 @@ class EUFOR_Soldat_Tropen_Shirt: EUFOR_Soldat_Shirt
     identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};
     displayName = "Soldat Tropentarn T-Shirt";
     model = "\A3\Characters_F\BLUFOR\b_soldier_02.p3d";
-    uniformClass = "W_EUFOR_Uniform_Tropen_Shirt";
+    uniformClass = "EUFOR_Uniforms_Tropen_Shirt";
     hiddenSelections[] = {"camo","insignia"};
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Uniform_co.paa"};
 };
@@ -58,7 +58,7 @@ class EUFOR_Soldat_Tarn_Tropen: EUFOR_Soldat
     identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};
     displayName = "Soldat Tarnuniform Tropentarn";
     model = "\A3\Characters_F_Exp\BLUFOR\B_CTRG_Soldier_01_F.p3d";
-    uniformClass = "W_EUFOR_Uniform_Tarn_Tropen";
+    uniformClass = "EUFOR_Uniforms_Tarn_Tropen";
     hiddenSelections[] = {"camo","insignia"};
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Tarn_Uniform_co.paa"};
 };
@@ -72,7 +72,7 @@ class EUFOR_Soldat_Tarn_Tropen_Sleeves: EUFOR_Soldat_Sleeves
     identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};
     displayName = "Soldat Tarnuniform Tropentarn hoch";
     model = "\A3\Characters_F_Exp\BLUFOR\B_CTRG_Soldier_03_F.p3d";
-    uniformClass = "W_EUFOR_Uniform_Tarn_Tropen_Sleeves";
+    uniformClass = "EUFOR_Uniforms_Tarn_Tropen_Sleeves";
     hiddenSelections[] = {"camo","insignia"};
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Tarn_Uniform_co.paa"};
 };
@@ -86,7 +86,7 @@ class EUFOR_Soldat_Tarn_Tropen_Shirt: EUFOR_Soldat_Shirt
     identityTypes[] =  {"LanguageENG_F","Head_NATO","G_NATO_default"};
     displayName = "Soldat Tarnuniform Tropentarn T-Shirt";
     model = "\A3\Characters_F_Exp\BLUFOR\B_CTRG_Soldier_02_F.p3d";
-    uniformClass = "W_EUFOR_Uniform_Tarn_Tropen_Shirt";
+    uniformClass = "EUFOR_Uniforms_Tarn_Tropen_Shirt";
     hiddenSelections[] = {"camo","insignia"};
     hiddenSelectionsTextures[] = {"EUFOR_Uniform\Tropen\EUFOR_Tropen_Tarn_Uniform_co.paa"};
 };

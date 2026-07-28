@@ -1,5 +1,5 @@
 /* ------- Normal ------- */
-class W_EUFOR_Uniform_Tropen_Digital: Uniform_Base
+class EUFOR_Uniforms_TropenD: Uniform_Base
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 2;
@@ -14,13 +14,20 @@ class W_EUFOR_Uniform_Tropen_Digital: Uniform_Base
     class ItemInfo: UniformItem
     {
         uniformModel = "-";
-        uniformClass = EUFOR_Soldat_Tropen_Digi;
+        uniformClass = EUFOR_Soldat_TropenD;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
+class W_EUFOR_Uniform_Tropen_Digital: EUFOR_Uniforms_TropenD {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Ärmel hoch ------- */
-class W_EUFOR_Uniform_Tropen_Digital_Sleeves: W_EUFOR_Uniform_Tropen_Digital
+class EUFOR_Uniforms_TropenD_Sleeves: EUFOR_Uniforms_TropenD
 {
     author = "$STR_EUFOR_Uniform_Author";
     displayName = "$STR_EUFOR_Uniform_Tropen_Digital_Sleeves";
@@ -29,13 +36,20 @@ class W_EUFOR_Uniform_Tropen_Digital_Sleeves: W_EUFOR_Uniform_Tropen_Digital
     class ItemInfo: UniformItem
     {
         uniformModel = "-";
-        uniformClass = EUFOR_Soldat_Tropen_Digi_Sleeves;
+        uniformClass = EUFOR_Soldat_TropenD_Sleeves;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
+class W_EUFOR_Uniform_Tropen_Digital_Sleeves: EUFOR_Uniforms_TropenD_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- T-Shirt ------- */
-class W_EUFOR_Uniform_Tropen_Digital_Shirt: W_EUFOR_Uniform_Tropen_Digital
+class EUFOR_Uniforms_TropenD_Shirt: EUFOR_Uniforms_TropenD
 {
     author = "$STR_EUFOR_Uniform_Author";
     displayName = "$STR_EUFOR_Uniform_Tropen_Digital_Shirt";
@@ -44,14 +58,20 @@ class W_EUFOR_Uniform_Tropen_Digital_Shirt: W_EUFOR_Uniform_Tropen_Digital
     class ItemInfo: UniformItem
     {
         uniformModel = "-";
-        uniformClass = EUFOR_Soldat_Tropen_Digi_Shirt;
+        uniformClass = EUFOR_Soldat_TropenD_Shirt;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
-
+class W_EUFOR_Uniform_Tropen_Digital_Shirt: EUFOR_Uniforms_TropenD_Shirt {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Normal Tarn-Uniform------- */
-class W_EUFOR_Uniform_Tarn_Tropen_Digital: Uniform_Base
+class EUFOR_Uniforms_Tarn_TropenD: Uniform_Base
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 2;
@@ -66,13 +86,20 @@ class W_EUFOR_Uniform_Tarn_Tropen_Digital: Uniform_Base
     class ItemInfo: UniformItem
     {
         uniformModel = "-";
-        uniformClass = EUFOR_Soldat_Tarn_Tropen_Digi;
+        uniformClass = EUFOR_Soldat_Tarn_TropenD;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
+class W_EUFOR_Uniform_Tarn_Tropen_Digital: EUFOR_Uniforms_Tarn_TropenD {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Ärmel hoch ------- */
-class W_EUFOR_Uniform_Tarn_Tropen_Digital_Sleeves: W_EUFOR_Uniform_Tarn_Tropen_Digital
+class EUFOR_Uniforms_Tarn_TropenD_Sleeves: EUFOR_Uniforms_Tarn_TropenD
 {
     author = "$STR_EUFOR_Uniform_Author";
     displayName = "$STR_EUFOR_Uniform_Tarn_Tropen_Digital_Sleeves";
@@ -81,13 +108,20 @@ class W_EUFOR_Uniform_Tarn_Tropen_Digital_Sleeves: W_EUFOR_Uniform_Tarn_Tropen_D
     class ItemInfo: UniformItem
     {
         uniformModel = "-";
-        uniformClass = EUFOR_Soldat_Tarn_Tropen_Digi_Sleeves;
+        uniformClass = EUFOR_Soldat_Tarn_TropenD_Sleeves;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
+class W_EUFOR_Uniform_Tarn_Tropen_Digital_Sleeves: EUFOR_Uniforms_Tarn_TropenD_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- T-Shirt ------- */
-class W_EUFOR_Uniform_Tarn_Tropen_Digital_Shirt: W_EUFOR_Uniform_Tarn_Tropen_Digital
+class EUFOR_Uniforms_Tarn_TropenD_Shirt: EUFOR_Uniforms_Tarn_TropenD
 {
     author = "$STR_EUFOR_Uniform_Author";
     displayName = "$STR_EUFOR_Uniform_Tarn_Tropen_Digital_Shirt";
@@ -96,8 +130,16 @@ class W_EUFOR_Uniform_Tarn_Tropen_Digital_Shirt: W_EUFOR_Uniform_Tarn_Tropen_Dig
     class ItemInfo: UniformItem
     {
         uniformModel = "-";
-        uniformClass = EUFOR_Soldat_Tarn_Tropen_Digi_Shirt;
+        uniformClass = EUFOR_Soldat_Tarn_TropenD_Shirt;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
+};
+class W_EUFOR_Uniform_Tarn_Tropen_Digital_Shirt: EUFOR_Uniforms_Tarn_TropenD_Shirt {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 };

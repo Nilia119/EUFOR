@@ -393,5 +393,17 @@
             <German>EUFOR Dunkelblau Tarnuniform T-Shirt [Apex]</German>
             <Original>EUFOR Dark Blue Stealth-Uniform T-Shirt [Apex]</Original>
         </Key>
+        <Key ID="STR_EUFOR_Uniform_Warning_desc">
+            <Original>ATTENTION: Item-Class has changed, please Edit your Loadouts and save them with the new Uniform!</Original>
+            <English>ATTENTION: Item-Class has changed, please Edit your Loadouts and save them with the new Uniform!</English>
+            <German>ACHTUNG: Die Item-Klasse hat sich geändert, bitte ausrüstungen anpassen und mit der neuen Uniform speichern!</German>
+            <Russian>ВНИМАНИЕ: Класс товара изменился, пожалуйста, отрегулируйте ваше оборудование!</Russian>
+        </Key>
+        <Key ID="STR_EUFOR_Uniform_Warning">
+            <Original>ATTENTION: Class has changed, please Edit your Loadouts!</Original>
+            <English>ATTENTION: Class has changed, please Edit your Loadouts!</English>
+            <German>ACHTUNG: Klasse hat sich geändert, bitte ausrüstungen anpassen!</German>
+            <Russian>ВНИМАНИЕ: Класс товара изменился, пожалуйста, отрегулируйте ваше оборудование!</Russian>
+        </Key>
     </Package>
 </Project>

@@ -7,7 +7,7 @@
         author = "$STR_EUFOR_Uniform_Author";
         scope = 0;
         scopeCurator = 0;
-
+		modelSides[]={0,1,2,3,4,5,6,7};
     };
 
     class EUFOR_Soldat_Shirt: B_CTRG_Soldier_2_F {
@@ -15,15 +15,14 @@
         author = "$STR_EUFOR_Uniform_Author";
         scope = 0;
         scopeCurator = 0;
-
+	    modelSides[]={0,1,2,3,4,5,6,7};
     };
 
     class EUFOR_Soldat_Sleeves: B_CTRG_Soldier_3_F {
-
         author = "$STR_EUFOR_Uniform_Author";
         scope = 0;
         scopeCurator = 0;
-
+	    modelSides[]={0,1,2,3,4,5,6,7};
     };
 
 	/* ============================Tropen===================================================== */

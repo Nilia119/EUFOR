@@ -1,5 +1,5 @@
 /* ------- Normal ------- */
-class W_EUFOR_Uniform_Pol: Uniform_Base
+class EUFOR_Uniforms_Pol: Uniform_Base
 {
 	author = "$STR_EUFOR_Uniform_Author";
 	scope = 2;
@@ -17,10 +17,16 @@ class W_EUFOR_Uniform_Pol: Uniform_Base
 		uniformClass = EUFOR_Soldat_Pol;
 		containerClass = Supply80;
 		mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
 	};
 };
-
-class W_EUFOR_Uniform_Pol1: Uniform_Base
+class W_EUFOR_Uniform_Pol: EUFOR_Uniforms_Pol {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
+class EUFOR_Uniforms_Pol1: Uniform_Base
 {
 	author = "$STR_EUFOR_Uniform_Author";
 	scope = 2;
@@ -38,10 +44,17 @@ class W_EUFOR_Uniform_Pol1: Uniform_Base
 		uniformClass = EUFOR_Soldat_Pol1;
 		containerClass = Supply80;
 		mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
 	};
 };
+class W_EUFOR_Uniform_Pol1: EUFOR_Uniforms_Pol1 {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Ärmel hoch ------- */
-class W_EUFOR_Uniform_Pol_Sleeves: W_EUFOR_Uniform_Pol
+class EUFOR_Uniforms_Pol_Sleeves: EUFOR_Uniforms_Pol
 {
 	author = "$STR_EUFOR_Uniform_Author";
 	scope = 2;
@@ -55,9 +68,16 @@ class W_EUFOR_Uniform_Pol_Sleeves: W_EUFOR_Uniform_Pol
 		uniformClass = EUFOR_Soldat_Pol_Sleeves;
 		containerClass = Supply80;
 		mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
 	};
 };
-class W_EUFOR_Uniform_Pol1_Sleeves: W_EUFOR_Uniform_Pol
+class W_EUFOR_Uniform_Pol_Sleeves: EUFOR_Uniforms_Pol_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
+class EUFOR_Uniforms_Pol1_Sleeves: EUFOR_Uniforms_Pol1
 {
 	author = "$STR_EUFOR_Uniform_Author";
 	scope = 2;
@@ -71,10 +91,17 @@ class W_EUFOR_Uniform_Pol1_Sleeves: W_EUFOR_Uniform_Pol
 		uniformClass = EUFOR_Soldat_Pol1_Sleeves;
 		containerClass = Supply80;
 		mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
 	};
 };
+class W_EUFOR_Uniform_Pol1_Sleeves: EUFOR_Uniforms_Pol1_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- T-Shirt ------- */
-class W_EUFOR_Uniform_Pol_Shirt: W_EUFOR_Uniform_Pol
+class EUFOR_Uniforms_Pol_Shirt: EUFOR_Uniforms_Pol
 {
 	author = "$STR_EUFOR_Uniform_Author";
 	displayName = "$STR_EUFOR_Uniform_Pol_Shirt";
@@ -86,11 +113,17 @@ class W_EUFOR_Uniform_Pol_Shirt: W_EUFOR_Uniform_Pol
 		uniformClass = EUFOR_Soldat_Pol_shirt;
 		containerClass = Supply80;
 		mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
 	};
 };
-
+class W_EUFOR_Uniform_Pol_Shirt: EUFOR_Uniforms_Pol_Shirt {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Normal Tarn-Uniform------- */
-class W_EUFOR_Uniform_Tarn_Pol: Uniform_Base
+class EUFOR_Uniforms_Tarn_Pol: Uniform_Base
 {
 	author = "$STR_EUFOR_Uniform_Author";
 	scope = 2;
@@ -108,10 +141,17 @@ class W_EUFOR_Uniform_Tarn_Pol: Uniform_Base
 		uniformClass = EUFOR_Soldat_Tarn_Pol;
 		containerClass = Supply80;
 		mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
 	};
 };
+class W_EUFOR_Uniform_Tarn_Pol: EUFOR_Uniforms_Tarn_Pol {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Ärmel hoch ------- */
-class W_EUFOR_Uniform_Tarn_Pol_Sleeves: W_EUFOR_Uniform_Tarn_Pol
+class EUFOR_Uniforms_Tarn_Pol_Sleeves: EUFOR_Uniforms_Tarn_Pol
 {
 	author = "$STR_EUFOR_Uniform_Author";
 	displayName = "$STR_EUFOR_Uniform_Tarn_Pol_Sleeves";
@@ -123,10 +163,17 @@ class W_EUFOR_Uniform_Tarn_Pol_Sleeves: W_EUFOR_Uniform_Tarn_Pol
 		uniformClass = EUFOR_Soldat_Tarn_Pol_Sleeves;
 		containerClass = Supply80;
 		mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
 	};
 };
+class W_EUFOR_Uniform_Tarn_Pol_Sleeves: EUFOR_Uniforms_Tarn_Pol_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- T-Shirt ------- */
-class W_EUFOR_Uniform_Tarn_Pol_Shirt: W_EUFOR_Uniform_Tarn_Pol
+class EUFOR_Uniforms_Tarn_Pol_Shirt: EUFOR_Uniforms_Tarn_Pol
 {
 	author = "$STR_EUFOR_Uniform_Author";
 	displayName = "$STR_EUFOR_Uniform_Tarn_Pol_Shirt";
@@ -138,5 +185,14 @@ class W_EUFOR_Uniform_Tarn_Pol_Shirt: W_EUFOR_Uniform_Tarn_Pol
 		uniformClass = EUFOR_Soldat_Tarn_Pol_Shirt;
 		containerClass = Supply80;
 		mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
+	};
+};
+class W_EUFOR_Uniform_Tarn_Pol_Shirt: EUFOR_Uniforms_Tarn_Pol_Shirt {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 	};
 };

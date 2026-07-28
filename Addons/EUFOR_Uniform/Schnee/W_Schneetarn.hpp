@@ -1,5 +1,5 @@
 /* ------- Normal ------- */
-class W_EUFOR_Uniform_Schnee: Uniform_Base
+class EUFOR_Uniforms_Schnee: Uniform_Base
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 2;
@@ -17,10 +17,17 @@ class W_EUFOR_Uniform_Schnee: Uniform_Base
         uniformClass = EUFOR_Soldat_Schnee;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
+class W_EUFOR_Uniform_Schnee: EUFOR_Uniforms_Schnee {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Ärmel hoch ------- */
-class W_EUFOR_Uniform_Schnee_Sleeves: W_EUFOR_Uniform_Schnee
+class EUFOR_Uniforms_Schnee_Sleeves: EUFOR_Uniforms_Schnee
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 2;
@@ -34,11 +41,17 @@ class W_EUFOR_Uniform_Schnee_Sleeves: W_EUFOR_Uniform_Schnee
         uniformClass = EUFOR_Soldat_Schnee_Sleeves;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
-
+class W_EUFOR_Uniform_Schnee_Sleeves: EUFOR_Uniforms_Schnee_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- T-Shirt ------- */
-class W_EUFOR_Uniform_Schnee_Shirt: W_EUFOR_Uniform_Schnee
+class EUFOR_Uniforms_Schnee_Shirt: EUFOR_Uniforms_Schnee
 {
   author = "$STR_EUFOR_Uniform_Author";
   displayName = "$STR_EUFOR_Uniform_Schneetarn_Shirt";
@@ -50,11 +63,17 @@ class W_EUFOR_Uniform_Schnee_Shirt: W_EUFOR_Uniform_Schnee
     uniformClass = EUFOR_Soldat_Schnee_Shirt;
     containerClass = Supply80;
     mass = 40;
+	modelSides[] = {0,1,2,3,4,5,6,7};
   };
 };
-
+class W_EUFOR_Uniform_Schnee_Shirt: EUFOR_Uniforms_Schnee_Shirt {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Normal Tarn-Uniform------- */
-class W_EUFOR_Uniform_Tarn_Schnee: Uniform_Base
+class EUFOR_Uniforms_Tarn_Schnee: Uniform_Base
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 2;
@@ -72,10 +91,17 @@ class W_EUFOR_Uniform_Tarn_Schnee: Uniform_Base
         uniformClass = EUFOR_Soldat_Tarn_Schnee;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
+class W_EUFOR_Uniform_Tarn_Schnee: EUFOR_Uniforms_Tarn_Schnee {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- Ärmel hoch ------- */
-class W_EUFOR_Uniform_Tarn_Schnee_Sleeves: W_EUFOR_Uniform_Tarn_Schnee
+class EUFOR_Uniforms_Tarn_Schnee_Sleeves: EUFOR_Uniforms_Tarn_Schnee
 {
     author = "$STR_EUFOR_Uniform_Author";
     scope = 2;
@@ -89,11 +115,17 @@ class W_EUFOR_Uniform_Tarn_Schnee_Sleeves: W_EUFOR_Uniform_Tarn_Schnee
         uniformClass = EUFOR_Soldat_Tarn_Schnee_Sleeves;
         containerClass = Supply80;
         mass = 40;
+		modelSides[] = {0,1,2,3,4,5,6,7};
     };
 };
-
+class W_EUFOR_Uniform_Tarn_Schnee_Sleeves: EUFOR_Uniforms_Tarn_Schnee_Sleeves {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 /* ------- T-Shirt ------- */
-class W_EUFOR_Uniform_Tarn_Schnee_Shirt: W_EUFOR_Uniform_Tarn_Schnee
+class EUFOR_Uniforms_Tarn_Schnee_Shirt: EUFOR_Uniforms_Tarn_Schnee
 {
   author = "$STR_EUFOR_Uniform_Author";
   displayName = "$STR_EUFOR_Uniform_Tarn_Schneetarn_Shirt";
@@ -105,5 +137,13 @@ class W_EUFOR_Uniform_Tarn_Schnee_Shirt: W_EUFOR_Uniform_Tarn_Schnee
     uniformClass = EUFOR_Soldat_Tarn_Schnee_Shirt;
     containerClass = Supply80;
     mass = 40;
+	modelSides[] = {0,1,2,3,4,5,6,7};
   };
+};
+class W_EUFOR_Uniform_Tarn_Schnee_Shirt: EUFOR_Uniforms_Tarn_Schnee_Shirt {
+	scope = 1;
+	scopeArsenal = 1;
+	displayName = "$STR_EUFOR_Uniform_Warning";
+	descriptionShort = "$STR_EUFOR_Uniform_Warning_desc";
+};
 };
