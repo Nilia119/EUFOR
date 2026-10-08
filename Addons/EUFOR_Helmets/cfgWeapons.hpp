@@ -560,8 +560,13 @@ class EUFOR_Helmets_HelmetB_TI_Base: EUFOR_Helmets_HelmetB_Base
 // Includes
 
 #include "\EUFOR_Helmets\Beret\W_Beret.hpp"
+#include "\EUFOR_Helmets\Black\W_Black.hpp"
+#include "\EUFOR_Helmets\Blue\W_Blue.hpp"
+#include "\EUFOR_Helmets\EMR\W_EMR.hpp"
 #include "\EUFOR_Helmets\Fleck\W_Fleck.hpp"
 #include "\EUFOR_Helmets\Multi\W_Multi.hpp"
+#include "\EUFOR_Helmets\Olive\W_Olive.hpp"
+#include "\EUFOR_Helmets\Pol\W_Pol.hpp"
 #include "\EUFOR_Helmets\Schnee\W_Schnee.hpp"
 #include "\EUFOR_Helmets\Tropen\W_Tropen.hpp"
 #include "\EUFOR_Helmets\TropenD\W_TropenD.hpp"

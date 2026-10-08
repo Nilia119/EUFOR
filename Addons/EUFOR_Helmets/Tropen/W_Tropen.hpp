@@ -5,7 +5,7 @@ class EUFOR_Helmets_HelmetB_Tropen: EUFOR_Helmets_HelmetB_Base
     scope=2;
     weaponPoolAvailable=1;
     displayName="$STR_EUFOR_Helmets_Tropen_HelmetB";
-    picture="\EUFOR_Helmets\WIP.paa";
+    picture="\EUFOR_Helmets\Tropen\ui\EUFOR_Helmets_Tropen_B_Icon.paa";
     hiddenSelections[]=
     {
         "camo"
@@ -22,7 +22,7 @@ class EUFOR_Helmets_HelmetB_Light_Tropen: EUFOR_Helmets_HelmetB_Light_Base
     scope=2;
     weaponPoolAvailable=1;
     displayName="$STR_EUFOR_Helmets_Tropen_HelmetB_Light";
-    picture="\EUFOR_Helmets\WIP.paa";
+    picture="\EUFOR_Helmets\Tropen\ui\EUFOR_Helmets_Tropen_B_Light_Icon.paa";
     hiddenSelections[]=
     {
         "camo"
@@ -39,7 +39,7 @@ class EUFOR_Helmets_HelmetB_Spec_Tropen: EUFOR_Helmets_HelmetB_Spec_Base
     scope=2;
     weaponPoolAvailable=1;
     displayName="$STR_EUFOR_Helmets_Tropen_HelmetB_Spec";
-    picture="\EUFOR_Helmets\WIP.paa";
+    picture="\EUFOR_Helmets\Tropen\ui\EUFOR_Helmets_Tropen_B_Spec_Icon.paa";
     hiddenSelections[]=
     {
         "camo"
@@ -56,7 +56,7 @@ class EUFOR_Helmets_HelmetB_Camo_Tropen: EUFOR_Helmets_HelmetB_Camo_Base
     scope=2;
     weaponPoolAvailable=1;
     displayName="$STR_EUFOR_Helmets_Tropen_HelmetB_Camo";
-    picture="\EUFOR_Helmets\WIP.paa";
+    picture="\EUFOR_Helmets\Tropen\ui\EUFOR_Helmets_Tropen_B_Camo_Icon.paa";
     hiddenSelections[]=
     {
         "camo1",
@@ -77,7 +77,7 @@ class EUFOR_Helmets_HelmetIA_Tropen: EUFOR_Helmets_HelmetIA_Base
     scope=2;
     weaponPoolAvailable=1;
     displayName="$STR_EUFOR_Helmets_Tropen_HelmetIA";
-    picture="\EUFOR_Helmets\WIP.paa";
+	picture="\EUFOR_Helmets\Tropen\ui\EUFOR_Helmets_Tropen_IA_Icon.paa";
     hiddenSelections[]=
     {
         "camo"
@@ -96,7 +96,7 @@ class EUFOR_Helmets_Boonie_Tropen: EUFOR_Helmets_Boonie_Base
     scope=2;
     weaponPoolAvailable=1;
     displayName="$STR_EUFOR_Helmets_Tropen_Boonie";
-    picture="\EUFOR_Helmets\WIP.paa";
+	picture="\EUFOR_Helmets\Tropen\ui\EUFOR_Helmets_Tropen_Boonie_Icon.paa";
     hiddenSelectionsTextures[]=
     {
         "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_Boonie_co.paa"
@@ -109,7 +109,7 @@ class EUFOR_Helmets_Boonie_Spec_Tropen: EUFOR_Helmets_Boonie_Spec_Base
     scope=2;
     weaponPoolAvailable=1;
     displayName="$STR_EUFOR_Helmets_Tropen_Boonie_Spec";
-    picture="\EUFOR_Helmets\WIP.paa";
+	picture="\EUFOR_Helmets\Tropen\ui\EUFOR_Helmets_Tropen_Boonie_Icon.paa";
     hiddenSelectionsTextures[]=
     {
         "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_Boonie_co.paa"
@@ -124,7 +124,7 @@ class EUFOR_Helmets_MilCap_Tropen: EUFOR_Helmets_MilCap_Base
     scope=2;
     weaponPoolAvailable=1;
     displayName="$STR_EUFOR_Helmets_Tropen_MilCap";
-    picture="\EUFOR_Helmets\WIP.paa";
+	picture="\EUFOR_Helmets\Tropen\ui\EUFOR_Helmets_Tropen_MilCap_Icon.paa";
     hiddenSelectionsTextures[]=
     {
         "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_MilCap_co.paa"
@@ -139,7 +139,7 @@ class EUFOR_Helmets_Viper_Tropen: EUFOR_Helmets_Viper_Base
     scope=2;
     weaponPoolAvailable=1;
     displayName="$STR_EUFOR_Helmets_Tropen_Viper";
-    picture="\EUFOR_Helmets\WIP.paa";
+	picture="\EUFOR_Helmets\Tropen\ui\EUFOR_Helmets_Tropen_Viper_Icon.paa";
     hiddenSelectionsTextures[]=
     {
         "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_Viper_co.paa"
@@ -152,7 +152,7 @@ class EUFOR_Helmets_Viper_Tropen_Spec: EUFOR_Helmets_Viper_Base
     scope=2;
     weaponPoolAvailable=1;
     displayName="$STR_EUFOR_Helmets_Tropen_Viper_Spec";
-    picture="\EUFOR_Helmets\WIP.paa";
+	picture="\EUFOR_Helmets\Tropen\ui\EUFOR_Helmets_Tropen_Viper_Icon.paa";
     hiddenSelectionsTextures[]=
     {
         "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_Viper_co.paa"
@@ -171,7 +171,7 @@ class EUFOR_Helmets_HBK_Tropen: EUFOR_Helmets_HBK_Base
     scope=2;
     weaponPoolAvailable=1;
     displayName="$STR_EUFOR_Helmets_Tropen_HBK";
-    picture="\EUFOR_Helmets\WIP.paa";
+    picture="\EUFOR_Helmets\Tropen\ui\EUFOR_Helmets_Tropen_HBK_Icon.paa";
     hiddenSelectionsTextures[]=
     {
         "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_HBK_co.paa"
@@ -184,7 +184,7 @@ class EUFOR_Helmets_HBK_Headset_Tropen: EUFOR_Helmets_HBK_Headset_Base
     scope=2;
     weaponPoolAvailable=1;
     displayName="$STR_EUFOR_Helmets_Tropen_HBK_Headset";
-    picture="\EUFOR_Helmets\WIP.paa";
+    picture="\EUFOR_Helmets\Tropen\ui\EUFOR_Helmets_Tropen_HBK_H_Icon.paa";
     hiddenSelectionsTextures[]=
     {
         "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_HBK_co.paa"
@@ -197,7 +197,7 @@ class EUFOR_Helmets_HBK_Ear_Tropen: EUFOR_Helmets_HBK_Ear_Base
     scope=2;
     weaponPoolAvailable=1;
     displayName="$STR_EUFOR_Helmets_Tropen_HBK_Ear";
-    picture="\EUFOR_Helmets\WIP.paa";
+    picture="\EUFOR_Helmets\Tropen\ui\EUFOR_Helmets_Tropen_HBK_E_Icon.paa";
     hiddenSelectionsTextures[]=
     {
         "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_HBK_co.paa"
@@ -210,7 +210,7 @@ class EUFOR_Helmets_HBK_Chops_Tropen: EUFOR_Helmets_HBK_Chops_Base
     scope=2;
     weaponPoolAvailable=1;
     displayName="$STR_EUFOR_Helmets_Tropen_HBK_Chops";
-    picture="\EUFOR_Helmets\WIP.paa";
+    picture="\EUFOR_Helmets\Tropen\ui\EUFOR_Helmets_Tropen_HBK_C_Icon.paa";
     hiddenSelectionsTextures[]=
     {
         "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_HBK_co.paa"
@@ -225,7 +225,7 @@ class EUFOR_Helmets_PASGT_Tropen: EUFOR_Helmets_PASGT_Base
     scope=2;
     weaponPoolAvailable=1;
     displayName="$STR_EUFOR_Helmets_Tropen_PASGT";
-    picture="\EUFOR_Helmets\WIP.paa";
+	picture="\EUFOR_Helmets\Tropen\ui\EUFOR_Helmets_Tropen_PASGT_Icon.paa";
     hiddenSelectionsTextures[]=
     {
         "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_PASGT_co.paa"
@@ -240,7 +240,7 @@ class EUFOR_Helmets_HelmetB_TI_Tropen: EUFOR_Helmets_HelmetB_TI_Base
     scope=2;
     weaponPoolAvailable=1;
     displayName="$STR_EUFOR_Helmets_Tropen_TI";
-    picture="\EUFOR_Helmets\WIP.paa";
+	picture="\EUFOR_Helmets\Tropen\ui\EUFOR_Helmets_Tropen_B_TI_Icon.paa";
     hiddenSelectionsTextures[]=
     {
         "EUFOR_Helmets\Tropen\EUFOR_Helmets_Tropen_B_TI_co.paa"
