@@ -8,6 +8,14 @@ class EUFOR_Helmets_PASGT_Black {
 	model = "EUFOR_Helmets_PASGT";
 	camo = "Black";
 };
+class EUFOR_Helmets_PASGT_Blue {
+	model = "EUFOR_Helmets_PASGT";
+	camo = "Blue";
+};
+class EUFOR_Helmets_PASGT_EMR {
+	model = "EUFOR_Helmets_PASGT";
+	camo = "EMR";
+};
 class EUFOR_Helmets_PASGT_Multi {
 	model = "EUFOR_Helmets_PASGT";
 	camo = "Multi";

@@ -7,6 +7,7 @@ Current features:
 - Fully ACE Compatible.
 - Fully compatible with ACE Arsenal Extended > v.1.5.1: https://steamcommunity.com/workshop/filedetails/?id=2522638637
   - I would suggest downloading it if you use ACE (it is just the framework).
+
 - Current Uniforms (all CTRG-Uniforms (Std./Sleeves/T) and CTRG-Camo Uniform \[APEX\]).
   - German (5-Color/5-Farb) Flecktarn (Woodland) Camo Version.
   - German (3-Color/3-Farb) Flecktarn (Desert) Camo Version.
@@ -17,8 +18,7 @@ Current features:
   - Digital Black and Blue Camo.
   - EMR-Summer (my version based on the Russian Version [I do not have access to a real Piece of the Camo, so i estimated, until i liked it, might be off]).
   - One colored version in olive green and dark blue (police-ish).
-  - Ability to Change in between Uniform Version via. ACE-Wardrobe Function (deprecated).
-  - CBRN and CBRN-Light (Diving Suit) are compatible with Chemical Warfare Mods.
+  - Ability to Change in between Uniform Version via. ACE-Wardrobe Function.
 - Medical Panel (Cheat Sheet with valuable information) for all medications and one extra for all pain medications (German) for use with/out KAT Advanced Medical Rewrite and ACE (via ACE Interactions).
 - Multiple vests in all colors; when DLC is required, name includes [DLC].
   - The capacity of all vests and uniforms will be adjusted so that one can carry a basic rifleman kit without a backpack.
@@ -27,7 +27,6 @@ Current features:
   - Booniehat and military cap in all colors.
   - All helmets can be slung with Grad Sling Helmets.
   - All helmets have a built-in cTAB camera (when cTAB is loaded separately).
-  - Most helmets are equipped with Electronic Hearing Protection (ACE).
 - Multiple Backpacks in all colors; when DLC is required, name includes [DLC].
 
 Planned features:
@@ -37,4 +36,4 @@ Planned features:
 - Ability to change uniforms and helmets via the Ace Interaction Menu. (With ACE Wardrobe kind of implemented, however it does not work 100% to my satisfaction).
 - Vests are modifiable with ACE Wardrobe and “Armor Plate” items.
 - Multiple (Transport) Vehicles.
-- There are still some Icons Missing :(
+- There are a lot of Icons Missing :(

@@ -485,7 +485,6 @@ class EUFOR_Vest_KBT_Heavy_Base: EUFOR_Vest_KBT_Base
 
 /* =====================================TROPEN DIGITAL================================ */
     #include "\EUFOR_Vests\TropenDigital\W_TropentarnD.hpp"
-	#include "\EUFOR_Vests\TropenDigital\W_TropentarnDCC.hpp"   // REMOVE IN FUTURE UPDATE >01.2027
 
 /* ======================================FLECK======================================== */
     #include "\EUFOR_Vests\Fleck\W_Flecktarn.hpp"
@@ -495,18 +494,3 @@ class EUFOR_Vest_KBT_Heavy_Base: EUFOR_Vest_KBT_Base
 
 /* ======================================MULTI======================================== */
     #include "\EUFOR_Vests\Multi\W_Multitarn.hpp"
-
-/* ===================================BLUE DIGITAL===================================== */
-	#include "\EUFOR_Vests\Blue\W_Blue.hpp"
-
-/* ========================================EMR========================================== */
-	#include "\EUFOR_Vests\EMR\W_EMR.hpp"
-
-/* ===================================BLACK DIGITAL===================================== */
-	#include "\EUFOR_Vests\Black\W_Black.hpp"
-
-/* ========================================Pol========================================== */
-	#include "\EUFOR_Vests\Pol\W_Pol.hpp"
-
-/* =======================================Olive========================================= */
-	#include "\EUFOR_Vests\Olive\W_Olive.hpp"
