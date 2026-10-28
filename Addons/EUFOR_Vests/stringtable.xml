@@ -281,5 +281,230 @@
             <English>EUFOR Heavy Modular Vest (Digital-Tropentarn) [Contact]</English>
             <German>EUFOR Digital Tropentarn Schwere Modulare Weste [Contact]</German>
         </Key>
+        <Key ID="STR_EUFOR_Vests_Blue_Carrier_GL">
+            <Original>EUFOR Blue-Digital Carrier GL Rig</Original>
+            <English>EUFOR Blue-Digital Carrier GL Rig</English>
+            <German>EUFOR Blau Digital Spezialtragegurt-GL</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Blue_Carrier_Spec">
+            <Original>EUFOR Blue-Digital Carrier Special Rig</Original>
+            <English>EUFOR Blue-Digital Carrier Special Rig</English>
+            <German>EUFOR Blau Digital Spezialtragegurt</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Blue_Carrier_1">
+            <Original>EUFOR Blue-Digital Plate Carrier</Original>
+            <English>EUFOR Blue-Digital Plate Carrier</English>
+            <German>EUFOR Blau Digital Plattenträger</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Blue_Carrier_2">
+            <Original>EUFOR Blue-Digital Plate Carrier Heavy</Original>
+            <English>EUFOR Blue-Digital Plate Carrier Heavy</English>
+            <German>EUFOR Blau Digital Plattenträger schwer</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Blue_Carrier_3">
+            <Original>EUFOR Blue-Digital Plate Carrier II</Original>
+            <English>EUFOR Blue-Digital Plate Carrier II</English>
+            <German>EUFOR Blau Digital Plattenträger II</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Blue_Tac">
+            <Original>EUFOR Blue-Digital Tactical Vest</Original>
+            <English>EUFOR Blue-Digital Tactical Vest</English>
+            <German>EUFOR Blau Digital Taktische Weste</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Blue_KBT">
+            <Original>EUFOR Blue-Digital Modular Vest [Contact]</Original>
+            <English>EUFOR Blue-Digital Modular Vest [Contact]</English>
+            <German>EUFOR Blau Digital Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Blue_KBT_L">
+            <Original>EUFOR Blue-Digital Light Modular Vest [Contact]</Original>
+            <English>EUFOR Blue-Digital Light Modular Vest [Contact]</English>
+            <German>EUFOR Blau Digital Leichte Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Blue_KBT_H">
+            <Original>EUFOR Blue-Digital Heavy Modular Vest [Contact]</Original>
+            <English>EUFOR Blue-Digital Heavy Modular Vest [Contact]</English>
+            <German>EUFOR Blau Digital Schwere Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_EMR_Carrier_GL">
+            <Original>EUFOR EMR Summer Carrier GL Rig</Original>
+            <English>EUFOR EMR Summer Carrier GL Rig</English>
+            <German>EUFOR EMR Sommer Spezialtragegurt-GL</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_EMR_Carrier_Spec">
+            <Original>EUFOR EMR Summer Carrier Special Rig</Original>
+            <English>EUFOR EMR Summer Carrier Special Rig</English>
+            <German>EUFOR EMR Sommer Spezialtragegurt</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_EMR_Carrier_1">
+            <Original>EUFOR EMR Summer Plate Carrier</Original>
+            <English>EUFOR EMR Summer Plate Carrier</English>
+            <German>EUFOR EMR Sommer Plattenträger</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_EMR_Carrier_2">
+            <Original>EUFOR EMR Summer Plate Carrier Heavy</Original>
+            <English>EUFOR EMR Summer Plate Carrier Heavy</English>
+            <German>EUFOR EMR Sommer Plattenträger schwer</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_EMR_Carrier_3">
+            <Original>EUFOR EMR Summer Plate Carrier II</Original>
+            <English>EUFOR EMR Summer Plate Carrier II</English>
+            <German>EUFOR EMR Sommer Plattenträger II</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_EMR_Tac">
+            <Original>EUFOR EMR Summer Tactical Vest</Original>
+            <English>EUFOR EMR Summer Tactical Vest</English>
+            <German>EUFOR EMR Sommer Taktische Weste</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_EMR_KBT">
+            <Original>EUFOR EMR Summer Modular Vest [Contact]</Original>
+            <English>EUFOR EMR Summer Modular Vest [Contact]</English>
+            <German>EUFOR EMR Sommer Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_EMR_KBT_L">
+            <Original>EUFOR EMR Summer Light Modular Vest [Contact]</Original>
+            <English>EUFOR EMR Summer Light Modular Vest [Contact]</English>
+            <German>EUFOR EMR Sommer Leichte Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_EMR_KBT_H">
+            <Original>EUFOR EMR Summer Heavy Modular Vest [Contact]</Original>
+            <English>EUFOR EMR Summer Heavy Modular Vest [Contact]</English>
+            <German>EUFOR EMR Sommer Schwere Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Black_Carrier_GL">
+            <Original>EUFOR Black Digital Carrier GL Rig</Original>
+            <English>EUFOR Black Digital Carrier GL Rig</English>
+            <German>EUFOR Digital Schwarzer Spezialtragegurt-GL</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Black_Carrier_Spec">
+            <Original>EUFOR Black Digital Carrier Special Rig</Original>
+            <English>EUFOR Black Digital Carrier Special Rig</English>
+            <German>EUFOR Digital Schwarzer Spezialtragegurt</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Black_Carrier_1">
+            <Original>EUFOR Black Digital Plate Carrier</Original>
+            <English>EUFOR Black Digital Plate Carrier</English>
+            <German>EUFOR Digital Schwarzer Plattenträger</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Black_Carrier_2">
+            <Original>EUFOR Black Digital Plate Carrier Heavy</Original>
+            <English>EUFOR Black Digital Plate Carrier Heavy</English>
+            <German>EUFOR Digital Schwarzer Plattenträger schwer</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Black_Carrier_3">
+            <Original>EUFOR Black Digital Plate Carrier II</Original>
+            <English>EUFOR Black Digital Plate Carrier II</English>
+            <German>EUFOR Digital Schwarzer Plattenträger II</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Black_Tac">
+            <Original>EUFOR Black Digital Tactical Vest</Original>
+            <English>EUFOR Black Digital Tactical Vest</English>
+            <German>EUFOR Digital Schwarze Taktische Weste</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Black_KBT">
+            <Original>EUFOR Black Digital Modular Vest [Contact]</Original>
+            <English>EUFOR Black Digital Modular Vest [Contact]</English>
+            <German>EUFOR Digital Schwarze Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Black_KBT_L">
+            <Original>EUFOR Black Digital Light Modular Vest [Contact]</Original>
+            <English>EUFOR Black Digital Light Modular Vest [Contact]</English>
+            <German>EUFOR Digital Schwarze Leichte Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Black_KBT_H">
+            <Original>EUFOR Black Digital Heavy Modular Vest [Contact]</Original>
+            <English>EUFOR Black Digital Heavy Modular Vest [Contact]</English>
+            <German>EUFOR Digital Schwarze Schwere Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Olive_Carrier_GL">
+            <Original>EUFOR Olive Carrier GL Rig</Original>
+            <English>EUFOR Olive Carrier GL Rig</English>
+            <German>EUFOR Oliv Spezialtragegurt-GL</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Olive_Carrier_Spec">
+            <Original>EUFOR Olive Carrier Special Rig</Original>
+            <English>EUFOR Olive Carrier Special Rig</English>
+            <German>EUFOR Oliv Spezialtragegurt</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Olive_Carrier_1">
+            <Original>EUFOR Olive Plate Carrier</Original>
+            <English>EUFOR Olive Plate Carrier</English>
+            <German>EUFOR Oliv Plattenträger</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Olive_Carrier_2">
+            <Original>EUFOR Olive Plate Carrier Heavy</Original>
+            <English>EUFOR Olive Plate Carrier Heavy</English>
+            <German>EUFOR Oliv Plattenträger schwer</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Olive_Carrier_3">
+            <Original>EUFOR Olive Plate Carrier II</Original>
+            <English>EUFOR Olive Plate Carrier II</English>
+            <German>EUFOR Oliv Plattenträger II</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Olive_Tac">
+            <Original>EUFOR Olive Tactical Vest</Original>
+            <English>EUFOR Olive Tactical Vest</English>
+            <German>EUFOR Oliv Taktische Weste</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Olive_KBT">
+            <Original>EUFOR Olive Modular Vest [Contact]</Original>
+            <English>EUFOR Olive Modular Vest [Contact]</English>
+            <German>EUFOR Oliv Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Olive_KBT_L">
+            <Original>EUFOR Olive Light Modular Vest [Contact]</Original>
+            <English>EUFOR Olive Light Modular Vest [Contact]</English>
+            <German>EUFOR Oliv Leichte Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Olive_KBT_H">
+            <Original>EUFOR Olive Heavy Modular Vest [Contact]</Original>
+            <English>EUFOR Olive Heavy Modular Vest [Contact]</English>
+            <German>EUFOR Oliv Schwere Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Pol_Carrier_GL">
+            <Original>EUFOR Dark Blue Carrier GL Rig </Original>
+            <English>EUFOR Dark Blue Carrier GL Rig</English>
+            <German>EUFOR Dunkelblauer Spezialtragegurt-GL</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Pol_Carrier_Spec">
+            <Original>EUFOR Dark Blue Carrier Special Rig</Original>
+            <English>EUFOR Dark Blue Carrier Special Rig</English>
+            <German>EUFOR Dunkelblauer Spezialtragegurt</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Pol_Carrier_1">
+            <Original>EUFOR Dark Blue Plate Carrier</Original>
+            <English>EUFOR Dark Blue Plate Carrier</English>
+            <German>EUFOR Dunkelblauer Plattenträger</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Pol_Carrier_2">
+            <Original>EUFOR Dark Blue Plate Carrier Heavy</Original>
+            <English>EUFOR Dark Blue Plate Carrier Heavy</English>
+            <German>EUFOR Dunkelblauer Plattenträger schwer</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Pol_Carrier_3">
+            <Original>EUFOR Dark Blue Plate Carrier II</Original>
+            <English>EUFOR Dark Blue Plate Carrier II</English>
+            <German>EUFOR Dunkelblauer Plattenträger II</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Pol_Tac">
+            <Original>EUFOR Dark Blue Tactical Vest</Original>
+            <English>EUFOR Dark Blue Tactical Vest</English>
+            <German>EUFOR Dunkelblaue Taktische Weste</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Pol_KBT">
+            <Original>EUFOR Dark Blue Modular Vest [Contact]</Original>
+            <English>EUFOR Dark Blue Modular Vest [Contact]</English>
+            <German>EUFOR Dunkelblaue Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Pol_KBT_L">
+            <Original>EUFOR Dark Blue Light Modular Vest [Contact]</Original>
+            <English>EUFOR Dark Blue Light Modular Vest [Contact]</English>
+            <German>EUFOR Dunkelblaue Leichte Modulare Weste [Contact]</German>
+        </Key>
+        <Key ID="STR_EUFOR_Vests_Pol_KBT_H">
+            <Original>EUFOR Dark Blue Heavy Modular Vest [Contact]</Original>
+            <English>EUFOR Dark Blue Heavy Modular Vest [Contact]</English>
+            <German>EUFOR Dunkelblaue Schwere Modulare Weste [Contact]</German>
+        </Key>
     </Package>
 </Project>
