@@ -471,5 +471,395 @@
                 <English>EUFOR Stealth Helmet (Digital-Tropentarn) [Apex]</English>
                 <German>EUFOR Tarn-Kampfhelm Digital Tropentarn [Apex]</German>
             </Key>
+            <Key ID="STR_EUFOR_Helmets_Black_HelmetB">
+                <Original>EUFOR Black Digital Combat Helmet</Original>
+                <English>EUFOR Black Digital Combat Helmet</English>
+                <German>EUFOR Digital Schwarzer Kampfhelm</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Black_HelmetB_Light">
+                <Original>EUFOR Black Digital Light Combat Helmet</Original>
+                <English>EUFOR Black Digital Light Combat Helmet</English>
+                <German>EUFOR Digital Schwarzer Kampfhelm leicht</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Black_HelmetB_Spec">
+                <Original>EUFOR Black Digital Enhanced Combat Helmet</Original>
+                <English>EUFOR Black Digital Enhanced Combat Helmet</English>
+                <German>EUFOR Digital Schwarzer Kampfhelm verbessert</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Black_HelmetB_Camo">
+                <Original>EUFOR Black Digital Combat Helmet (Camo,)</Original>
+                <English>EUFOR Black Digital Combat Helmet (Camo,)</English>
+                <German>EUFOR Digital Schwarzer Kampfhelm Tarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Black_HelmetIA">
+                <Original>EUFOR Black Digital Modular Helmet</Original>
+                <English>EUFOR Black Digital Modular Helmet</English>
+                <German>EUFOR Digital Schwarzer Modularer Helm</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Black_Boonie">
+                <Original>EUFOR Black Digital Booniehat</Original>
+                <English>EUFOR Black Digital Booniehat</English>
+                <German>EUFOR Digital Schwarzer Buschhut</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Black_Boonie_Spec">
+                <Original>EUFOR Black Digital Booniehat Armor</Original>
+                <English>EUFOR Black Digital Booniehat Armor</English>
+                <German>EUFOR Digital Schwarzer Buschhut mit Panzerung</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Black_MilCap">
+                <Original>EUFOR Black Digital Military Cap</Original>
+                <English>EUFOR Black Digital Military Cap</English>
+                <German>EUFOR Digital Schwarze Feldmütze</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Black_Viper">
+                <Original>EUFOR Black Digital Special Purpose Helmet [Apex]</Original>
+                <English>EUFOR Black Digital Special Purpose Helmet[Apex]</English>
+                <German>EUFOR Digital Schwarzer Viperhelm [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Black_Viper_Spec">
+                <Original>EUFOR Black Digital Special Purpose Helmet+ [Apex]</Original>
+                <English>EUFOR Black Digital Special Purpose Helmet+ [Apex]</English>
+                <German>EUFOR Digital Schwarzer Viper Spezialhelm [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Black_HBK">
+                <Original>EUFOR Black Digital Advanced Modular Helmet [Contact]</Original>
+                <English>EUFOR Black Digital Advanced Modular Helmet [Contact]</English>
+                <German>EUFOR Digital Schwarzer Fortgeschrittener, modularer Helm [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Black_HBK_Headset">
+                <Original>EUFOR Black Digital Advanced Modular Helmet, Ear Protectors [Contact]</Original>
+                <English>EUFOR Black Digital Advanced Modular Helmet, Ear Protectors [Contact]</English>
+                <German>EUFOR Digital Schwarzer Fortgeschrittener, modularer Helm mit Gehörschutz [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Black_HBK_Ear">
+                <Original>EUFOR Black Digital Advanced Modular Helmet, Ear Protectors [Contact]</Original>
+                <English>EUFOR Black Digital Advanced Modular Helmet, Ear Protectors [Contact]</English>
+                <German>EUFOR Digital Schwarzer Fortgeschrittener, modularer Helm mit Ohrenschützern [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Black_HBK_Chops">
+                <Original>EUFOR Black Digital Advanced Modular Helmet, Chops [Contact]</Original>
+                <English>EUFOR Black Digital Advanced Modular Helmet, Chops [Contact]</English>
+                <German>EUFOR Digital Schwarzer Fortgeschrittener, modularer Helm mit Kotletten [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Black_PASGT">
+                <Original>EUFOR Black Digital Helmet Blank Olive [IDAP]</Original>
+                <English>EUFOR Black Digital Helmet Blank Olive [IDAP]</English>
+                <German>EUFOR Digital Schwarzer Blanker Helm Oliv [IDAP]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Black_TI">
+                <Original>EUFOR Black Digital Stealth Helmet [Apex]</Original>
+                <English>EUFOR Black Digital Stealth Helmet [Apex]</English>
+                <German>EUFOR Digital Schwarzer Tarn-Kampfhelm [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Blue_HelmetB">
+                <Original>EUFOR Blue-Digital Combat Helmet</Original>
+                <English>EUFOR Blue-Digital Combat Helmet</English>
+                <German>EUFOR Blau Digital Kampfhelm</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Blue_HelmetB_Light">
+                <Original>EUFOR Blue-Digital Light Combat Helmet</Original>
+                <English>EUFOR Blue-Digital Light Combat Helmet</English>
+                <German>EUFOR Blau Digital Kampfhelm leicht</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Blue_HelmetB_Spec">
+                <Original>EUFOR Blue-Digital Enhanced Combat Helmet</Original>
+                <English>EUFOR Blue-Digital Enhanced Combat Helmet</English>
+                <German>EUFOR Blau Digital Kampfhelm verbessert</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Blue_HelmetB_Camo">
+                <Original>EUFOR Blue-Digital Combat Helmet (Camo,)</Original>
+                <English>EUFOR Blue-Digital Combat Helmet (Camo,)</English>
+                <German>EUFOR Blau Digital Kampfhelm Tarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Blue_HelmetIA">
+                <Original>EUFOR Blue-Digital Modular Helmet</Original>
+                <English>EUFOR Blue-Digital Modular Helmet</English>
+                <German>EUFOR Blau Digital Modularer Helm</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Blue_Boonie">
+                <Original>EUFOR Blue-Digital Booniehat</Original>
+                <English>EUFOR Blue-Digital Booniehat</English>
+                <German>EUFOR Blau Digital Buschhut</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Blue_Boonie_Spec">
+                <Original>EUFOR Blue-Digital Booniehat Armor</Original>
+                <English>EUFOR Blue-Digital Booniehat Armor</English>
+                <German>EUFOR Blau Digital Buschhut mit Panzerung</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Blue_MilCap">
+                <Original>EUFOR Blue-Digital Military Cap</Original>
+                <English>EUFOR Blue-Digital Military Cap</English>
+                <German>EUFOR Blau-Digital Feldmütze</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Blue_Viper">
+                <Original>EUFOR Blue-Digital Special Purpose Helmet [Apex]</Original>
+                <English>EUFOR Blue-Digital Special Purpose Helmet[Apex]</English>
+                <German>EUFOR Blau Digital Viperhelm [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Blue_Viper_Spec">
+                <Original>EUFOR Blue-Digital Special Purpose Helmet+ [Apex]</Original>
+                <English>EUFOR Blue-Digital Special Purpose Helmet+ [Apex]</English>
+                <German>EUFOR Blau Digital Viper Spezialhelm [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Blue_HBK">
+                <Original>EUFOR Blue-Digital Advanced Modular Helmet [Contact]</Original>
+                <English>EUFOR Blue-Digital Advanced Modular Helmet [Contact]</English>
+                <German>EUFOR Blau Digital Fortgeschrittener, modularer Helm [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Blue_HBK_Headset">
+                <Original>EUFOR Blue-Digital Advanced Modular Helmet, Ear Protectors [Contact]</Original>
+                <English>EUFOR Blue-Digital Advanced Modular Helmet, Ear Protectors [Contact]</English>
+                <German>EUFOR Blau Digital Fortgeschrittener, modularer Helm mit Gehörschutz [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Blue_HBK_Ear">
+                <Original>EUFOR Blue-Digital Advanced Modular Helmet, Ear Protectors [Contact]</Original>
+                <English>EUFOR Blue-Digital Advanced Modular Helmet, Ear Protectors [Contact]</English>
+                <German>EUFOR Blau Digital Fortgeschrittener, modularer Helm mit Ohrenschützern [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Blue_HBK_Chops">
+                <Original>EUFOR Blue-Digital Advanced Modular Helmet, Chops [Contact]</Original>
+                <English>EUFOR Blue-Digital Advanced Modular Helmet, Chops [Contact]</English>
+                <German>EUFOR Blau Digital Fortgeschrittener, modularer Helm mit Kotletten [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Blue_TI">
+                <Original>EUFOR Blue-Digital Stealth Helmet [Apex]</Original>
+                <English>EUFOR Blue-Digital Stealth Helmet [Apex]</English>
+                <German>EUFOR Blau Digital Tarn-Kampfhelm [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_EMR_HelmetB">
+                <Original>EUFOR EMR Summer Combat Helmet</Original>
+                <English>EUFOR EMR Summer Combat Helmet</English>
+                <German>EUFOR EMR Sommer Kampfhelm</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_EMR_HelmetB_Light">
+                <Original>EUFOR EMR Summer Light Combat Helmet</Original>
+                <English>EUFOR EMR Summer Light Combat Helmet</English>
+                <German>EUFOR EMR Sommer Kampfhelm leicht</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_EMR_HelmetB_Spec">
+                <Original>EUFOR EMR Summer Enhanced Combat Helmet</Original>
+                <English>EUFOR EMR Summer Enhanced Combat Helmet</English>
+                <German>EUFOR EMR Sommer Kampfhelm verbessert</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_EMR_HelmetB_Camo">
+                <Original>EUFOR EMR Summer Combat Helmet (Camo,)</Original>
+                <English>EUFOR EMR Summer Combat Helmet (Camo,)</English>
+                <German>EUFOR EMR Sommer Kampfhelm Tarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_EMR_HelmetIA">
+                <Original>EUFOR EMR Summer Modular Helmet</Original>
+                <English>EUFOR EMR Summer Modular Helmet</English>
+                <German>EUFOR EMR Sommer Modularer Helm</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_EMR_Boonie">
+                <Original>EUFOR EMR Summer Booniehat</Original>
+                <English>EUFOR EMR Summer Booniehat</English>
+                <German>EUFOR EMR Sommer Buschhut</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_EMR_Boonie_Spec">
+                <Original>EUFOR EMR Summer Booniehat Armor</Original>
+                <English>EUFOR EMR Summer Booniehat Armor</English>
+                <German>EUFOR EMR Sommer Buschhut mit Panzerung</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_EMR_MilCap">
+                <Original>EUFOR EMR Summer Military Cap</Original>
+                <English>EUFOR EMR Summer Military Cap</English>
+                <German>EUFOR EMR Sommer Feldmütze</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_EMR_Viper">
+                <Original>EUFOR EMR Summer Special Purpose Helmet [Apex]</Original>
+                <English>EUFOR EMR Summer Special Purpose Helmet[Apex]</English>
+                <German>EUFOR EMR Sommer Viperhelm [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_EMR_Viper_Spec">
+                <Original>EUFOR EMR Summer Special Purpose Helmet+ [Apex]</Original>
+                <English>EUFOR EMR Summer Special Purpose Helmet+ [Apex]</English>
+                <German>EUFOR EMR Sommer Viper Spezialhelm [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_EMR_HBK">
+                <Original>EUFOR EMR Summer Advanced Modular Helmet [Contact]</Original>
+                <English>EUFOR EMR Summer Advanced Modular Helmet [Contact]</English>
+                <German>EUFOR EMR Sommer Fortgeschrittener, modularer Helm [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_EMR_HBK_Headset">
+                <Original>EUFOR EMR Summer Advanced Modular Helmet, Ear Protectors [Contact]</Original>
+                <English>EUFOR EMR Summer Advanced Modular Helmet, Ear Protectors [Contact]</English>
+                <German>EUFOR EMR Sommer Fortgeschrittener, modularer Helm mit Gehörschutz [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_EMR_HBK_Ear">
+                <Original>EUFOR EMR Summer Advanced Modular Helmet, Ear Protectors [Contact]</Original>
+                <English>EUFOR EMR Summer Advanced Modular Helmet, Ear Protectors [Contact]</English>
+                <German>EUFOR EMR Sommer Fortgeschrittener, modularer Helm mit Ohrenschützern [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_EMR_HBK_Chops">
+                <Original>EUFOR EMR Summer Advanced Modular Helmet, Chops [Contact]</Original>
+                <English>EUFOR EMR Summer Advanced Modular Helmet, Chops [Contact]</English>
+                <German>EUFOR EMR Sommer Fortgeschrittener, modularer Helm mit Kotletten [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_EMR_TI">
+                <Original>EUFOR EMR Summer Stealth Helmet [Apex]</Original>
+                <English>EUFOR EMR Summer Stealth Helmet [Apex]</English>
+                <German>EUFOR EMR Sommer Tarn-Kampfhelm [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Olive_HelmetB">
+                <Original>EUFOR Olive Combat Helmet</Original>
+                <English>EUFOR Olive Combat Helmet</English>
+                <German>EUFOR Oliv Kampfhelm</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Olive_HelmetB_Light">
+                <Original>EUFOR Olive Light Combat Helmet</Original>
+                <English>EUFOR Olive Light Combat Helmet</English>
+                <German>EUFOR Oliv Kampfhelm leicht</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Olive_HelmetB_Spec">
+                <Original>EUFOR Olive Enhanced Combat Helmet</Original>
+                <English>EUFOR Olive Enhanced Combat Helmet</English>
+                <German>EUFOR Oliv Kampfhelm verbessert</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Olive_HelmetB_Camo">
+                <Original>EUFOR Olive Combat Helmet (Camo,)</Original>
+                <English>EUFOR Olive Combat Helmet (Camo,)</English>
+                <German>EUFOR Oliv Kampfhelm Tarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Olive_HelmetIA">
+                <Original>EUFOR Olive Modular Helmet</Original>
+                <English>EUFOR Olive Modular Helmet</English>
+                <German>EUFOR Oliv Modularer Helm</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Olive_Boonie">
+                <Original>EUFOR Olive Booniehat</Original>
+                <English>EUFOR Olive Booniehat</English>
+                <German>EUFOR Oliv Buschhut</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Olive_Boonie_Spec">
+                <Original>EUFOR Olive Booniehat Armor</Original>
+                <English>EUFOR Olive Booniehat Armor</English>
+                <German>EUFOR Oliv Buschhut mit Panzerung</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Olive_MilCap">
+                <Original>EUFOR Olive Military Cap</Original>
+                <English>EUFOR Olive Military Cap</English>
+                <German>EUFOR Oliv Feldmütze</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Olive_Viper">
+                <Original>EUFOR Olive Special Purpose Helmet [Apex]</Original>
+                <English>EUFOR Olive Special Purpose Helmet[Apex]</English>
+                <German>EUFOR Oliv Viperhelm [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Olive_Viper_Spec">
+                <Original>EUFOR Olive Special Purpose Helmet+ [Apex]</Original>
+                <English>EUFOR Olive Special Purpose Helmet+ [Apex]</English>
+                <German>EUFOR Oliv Viper Spezialhelm [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Olive_HBK">
+                <Original>EUFOR Olive Advanced Modular Helmet [Contact]</Original>
+                <English>EUFOR Olive Advanced Modular Helmet [Contact]</English>
+                <German>EUFOR Oliv Fortgeschrittener, modularer Helm [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Olive_HBK_Headset">
+                <Original>EUFOR Olive Advanced Modular Helmet, Ear Protectors [Contact]</Original>
+                <English>EUFOR Olive Advanced Modular Helmet, Ear Protectors [Contact]</English>
+                <German>EUFOR Oliv Fortgeschrittener, modularer Helm mit Gehörschutz [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Olive_HBK_Ear">
+                <Original>EUFOR Olive Advanced Modular Helmet, Ear Protectors [Contact]</Original>
+                <English>EUFOR Olive Advanced Modular Helmet, Ear Protectors [Contact]</English>
+                <German>EUFOR Oliv Fortgeschrittener, modularer Helm mit Ohrenschützern [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Olive_HBK_Chops">
+                <Original>EUFOR Olive Advanced Modular Helmet, Chops [Contact]</Original>
+                <English>EUFOR Olive Advanced Modular Helmet, Chops [Contact]</English>
+                <German>EUFOR Oliv Fortgeschrittener, modularer Helm mit Kotletten [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Olive_PASGT">
+                <Original>EUFOR Olive Helmet Blank Olive [IDAP]</Original>
+                <English>EUFOR Olive Helmet Blank Olive [IDAP]</English>
+                <German>EUFOR Oliv Blanker Helm Oliv [IDAP]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Olive_TI">
+                <Original>EUFOR Olive Stealth Helmet [Apex]</Original>
+                <English>EUFOR Olive Stealth Helmet [Apex]</English>
+                <German>EUFOR Oliv Tarn-Kampfhelm [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Pol_HelmetB">
+                <Original>EUFOR Dark Blue Combat Helmet</Original>
+                <English>EUFOR Dark Blue Combat Helmet</English>
+                <German>EUFOR Dunkelblauer Kampfhelm</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Pol_HelmetB_Light">
+                <Original>EUFOR Dark Blue Light Combat Helmet</Original>
+                <English>EUFOR Dark Blue Light Combat Helmet</English>
+                <German>EUFOR Dunkelblauer Kampfhelm leicht</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Pol_HelmetB_Spec">
+                <Original>EUFOR Dark Blue Enhanced Combat Helmet</Original>
+                <English>EUFOR Dark Blue Enhanced Combat Helmet</English>
+                <German>EUFOR Dunkelblauer Kampfhelm verbessert</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Pol_HelmetB_Camo">
+                <Original>EUFOR Dark Blue Combat Helmet (Camo,)</Original>
+                <English>EUFOR Dark Blue Combat Helmet (Camo,)</English>
+                <German>EUFOR Dunkelblauer Kampfhelm Tarn</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Pol_HelmetIA">
+                <Original>EUFOR Dark Blue Modular Helmet</Original>
+                <English>EUFOR Dark Blue Modular Helmet</English>
+                <German>EUFOR Dunkelblauer Modularer Helm</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Pol_Boonie">
+                <Original>EUFOR Dark Blue Booniehat</Original>
+                <English>EUFOR Dark Blue Booniehat</English>
+                <German>EUFOR Dunkelblauer Buschhut</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Pol_Boonie_Spec">
+                <Original>EUFOR Dark Blue Booniehat Armor</Original>
+                <English>EUFOR Dark Blue Booniehat Armor</English>
+                <German>EUFOR Dunkelblauer Buschhut mit Panzerung</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Pol_MilCap">
+                <Original>EUFOR Dark Blue Military Cap</Original>
+                <English>EUFOR Dark Blue Military Cap</English>
+                <German>EUFOR Dunkelblaue Feldmütze</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Pol_Viper">
+                <Original>EUFOR Dark Blue Special Purpose Helmet [Apex]</Original>
+                <English>EUFOR Dark Blue Special Purpose Helmet[Apex]</English>
+                <German>EUFOR Dunkelblauer Viperhelm [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Pol_Viper_Spec">
+                <Original>EUFOR Dark Blue Special Purpose Helmet+ [Apex]</Original>
+                <English>EUFOR Dark Blue Special Purpose Helmet+ [Apex]</English>
+                <German>EUFOR Dunkelblauer Viper Spezialhelm [Apex]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Pol_HBK">
+                <Original>EUFOR Dark Blue Advanced Modular Helmet [Contact]</Original>
+                <English>EUFOR Dark Blue Advanced Modular Helmet [Contact]</English>
+                <German>EUFOR Dunkelblauer Fortgeschrittener, modularer Helm [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Pol_HBK_Headset">
+                <Original>EUFOR Dark Blue Advanced Modular Helmet, Ear Protectors [Contact]</Original>
+                <English>EUFOR Dark Blue Advanced Modular Helmet, Ear Protectors [Contact]</English>
+                <German>EUFOR Dunkelblauer Fortgeschrittener, modularer Helm mit Gehörschutz [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Pol_HBK_Ear">
+                <Original>EUFOR Dark Blue Advanced Modular Helmet, Ear Protectors [Contact]</Original>
+                <English>EUFOR Dark Blue Advanced Modular Helmet, Ear Protectors [Contact]</English>
+                <German>EUFOR Dunkelblauer Fortgeschrittener, modularer Helm mit Ohrenschützern [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Pol_HBK_Chops">
+                <Original>EUFOR Dark Blue Advanced Modular Helmet, Chops [Contact]</Original>
+                <English>EUFOR Dark Blue Advanced Modular Helmet, Chops [Contact]</English>
+                <German>EUFOR Dunkelblauer Fortgeschrittener, modularer Helm mit Kotletten [Contact]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Pol_PASGT">
+                <Original>EUFOR Dark Blue Helmet Blank Dark Blue [IDAP]</Original>
+                <English>EUFOR Dark Blue Helmet Blank Dark Blue [IDAP]</English>
+                <German>EUFOR Dunkelblauer Blanker Helm Dunkelblauer [IDAP]</German>
+            </Key>
+            <Key ID="STR_EUFOR_Helmets_Pol_TI">
+                <Original>EUFOR Dark Blue Stealth Helmet [Apex]</Original>
+                <English>EUFOR Dark Blue Stealth Helmet [Apex]</English>
+                <German>EUFOR Dunkelblauer Tarn-Kampfhelm [Apex]</German>
+            </Key>
     </Package>
 </Project>
