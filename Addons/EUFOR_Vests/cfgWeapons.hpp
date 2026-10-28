@@ -485,6 +485,7 @@ class EUFOR_Vest_KBT_Heavy_Base: EUFOR_Vest_KBT_Base
 
 /* =====================================TROPEN DIGITAL================================ */
     #include "\EUFOR_Vests\TropenDigital\W_TropentarnD.hpp"
+	#include "\EUFOR_Vests\TropenDigital\W_TropentarnDCC.hpp"   // REMOVE IN FUTURE UPDATE >01.2027
 
 /* ======================================FLECK======================================== */
     #include "\EUFOR_Vests\Fleck\W_Flecktarn.hpp"
